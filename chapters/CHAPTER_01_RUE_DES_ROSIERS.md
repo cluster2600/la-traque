@@ -15,7 +15,7 @@ Thomas doesn't ask questions yet. He waits. This is how it works. Moreau talks. 
 
 "Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. Two separate train cars. First reports came in four minutes ago."
 
-Thomas sets down the phone on speaker. He's already getting out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess.
+Thomas sets down the phone on speaker. He's already getting out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess. He bought it in 2000. Twenty-three years ago. The year after Jérôme died was a few years back then. The apartment has been his anchor ever since. Precision. Order. Control.
 
 "How many casualties?" Thomas asks, moving to the closet.
 
@@ -34,34 +34,6 @@ He pulls on black tactical pants. Black shirt. Boots. The clothes he keeps ready
 "We need you coordinating from the command center. Not on-site."
 
 Thomas doesn't respond. He's already heading out the door. He grabs the keys to the MV Agusta Brutale. Four cylinders. Dark metal. Italian precision. The bike is waiting in the courtyard. Always ready.
-
-Not his personal phone. His work phone. The encrypted one. The one that only rings when something is wrong.
-
-"Dieudegard."
-
-"It's Moreau. We have a situation."
-
-Thomas doesn't ask questions yet. He waits. This is how it works. Moreau talks. Thomas listens. Then Thomas moves.
-
-"Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. Two separate train cars. First reports came in four minutes ago."
-
-Thomas sets down the espresso. It steams on the table. Untouched.
-
-"How many casualties?"
-
-"Unknown. Early estimates. The cars were packed. Morning commute. Heavy passenger load. Both cars are dark. No communication from either one. Emergency services are mobilizing."
-
-"How many passengers?" Thomas asks.
-
-"Estimates between one hundred fifty and three hundred per car."
-
-Three hundred. Per car. Two cars.
-
-"I'm moving. I'll be there in twelve minutes."
-
-"We need you coordinating from the command center. Not on-site."
-
-Thomas doesn't respond. He's already moving. He sets down the phone on speaker and walks to the bedroom. Opens the closet. Black tactical pants. Black shirt. Boots. The clothes he keeps ready. Always ready.
 
 ---
 
@@ -139,11 +111,9 @@ Always.
 
 **END CHAPTER 1**
 
-**Key changes:**
-- Thomas was AT the café (safe)
-- Jérôme was LATE and called to reschedule
-- Jérôme took RER B to Saint-Michel
-- Jérôme died on strapontin (directly above bomb)
-- Thomas survived by not being on that train
-- Psychology: Not guilt about being late, but awareness of randomness
-- Body identification took 2 days (dental records)
+**Word count:** ~1,900 words (7-8 pages)
+**Style:** Lee Child (present tense, sparse description, dialogue-driven)
+**Opening:** Phone call (immediate urgency)
+**Apartment detail:** Bought in 2000 (23 years ago, anchor point)
+**Flashback:** Saint-Michel 1995 (Jérôme's death, strapontin detail, body ID 2 days)
+**Themes:** Randomness, timing, control through discipline
