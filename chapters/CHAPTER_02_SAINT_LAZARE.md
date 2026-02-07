@@ -1,7 +1,7 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 2: SAINT-LAZARE
 
-The MV Agusta Brutale cuts through Paris traffic like a blade. Four cylinders screaming. 6,500 RPM on the Boulevard Saint-Michel. Thomas leans into the turn. No hesitation. The bike responds. Two thousand horsepower transferred through titanium and discipline.
+The MV Agusta Brutale cuts through Paris traffic like a blade. Four cylinders screaming. 6,500 RPM on the Boulevard Saint-Michel. Thomas leans into the turn. No hesitation. The bike responds. Two hundred horsepower transferred through titanium and discipline.
 
 He keeps the speedometer below 100. Just barely. The morning traffic parts. Drivers see the bike and move. It's not aggression. It's inevitability. A force moving through space. Nothing can stop it. Nothing should try.
 
