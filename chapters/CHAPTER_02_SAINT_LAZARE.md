@@ -91,13 +91,13 @@ Moreau looks up.
 
 "The fire brigade can have evacuation equipment in place in eight minutes. First rescue team ready to go in ten."
 
-Thomas studies the map. The middle car is 147 meters from Châtelet station. 189 meters from Saint-Lazare. The tunnel walls are limestone. Nineteenth-century reinforcement is minimal. The two trains on either side are creating pressure. The weight is significant.
+Thomas studies the map. The middle car is trapped between Châtelet and Saint-Lazare. The tunnel walls are limestone. Nineteenth-century reinforcement is minimal. The two trains on either side are creating pressure. The weight is significant.
 
-"We move the forward train first," Thomas says. "Slowly. Back toward Châtelet. Then we send in a probe team through the Saint-Lazare entrance. Establish communication with the trapped civilians. Assess injuries. Then we decide the evacuation route."
+"We move the forward train first," Thomas says. "Slowly. Back toward Châtelet. One meter per minute. Then establish communication through the tunnel."
 
-"The forward train operators say the track is damaged," Dubois says. "Moving it risks further collapse."
+"The track is damaged," Dubois says. "Moving it risks collapse."
 
-"Keeping it in place risks the same thing," Thomas says. "We move it. Slowly. One meter per minute. The pressure decreases. The structural risk decreases."
+"Keeping it in place risks the same thing," Thomas says. "We move it. Slowly."
 
 Dubois doesn't like this. His face shows it. But he nods.
 
