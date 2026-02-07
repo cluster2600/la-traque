@@ -127,17 +127,21 @@ Thomas opens his secure email. Reports are already coming in. Financial analysis
 
 He reads through it all. Data. Names. Connections. Patterns emerging from chaos.
 
-One name appears three times in the financial records. Someone who moved money to a safe house in the 11th arrondissement. Someone with connections to Algerian diaspora communities in Paris. Someone who traveled from Algiers to Paris four weeks ago.
+Nothing conclusive. The financial traces are clean. Whoever funded this operation used cash or untraceable methods. The travel records show dozens of Algerian nationals entering France in the past month. The communications intercepts are noise — thousands of messages across diaspora networks.
 
-Malik Benhadj.
+"We have seventeen potential suspects," the financial crimes lead says via secure call. "All with Algerian connections. All with suspicious activity in the past thirty days. But nothing definitive. No direct connection to the attack yet."
 
-Algerian. Age forty-one. Operations specialist. Explosives training. The name means nothing to Thomas yet. But it will.
+"Keep digging," Thomas says. "Financial trails don't disappear. They hide. Find where they hide."
 
-Thomas makes a note.
+Thomas hangs up.
 
-"Get me everything on this person," he tells Moreau. "Everything. Birth records. Travel history. Financial history. Associates. Family. Where he sleeps. Where he eats. I want his entire life on my desk by morning."
+He knows finding them will take time. Real investigation time. Not the quick wins they need. The cell is smart enough to use cutouts. Smart enough to use cash. Smart enough to stay invisible in the noise of Paris's Algerian diaspora community.
 
-Moreau nods and leaves.
+Malik Benhadj's name will emerge later. From communications analysis. From witness testimony. From the hard work of real investigation.
+
+But not tonight.
+
+Tonight, Thomas has only questions.
 
 Thomas sits alone in the office. The Paris streets are visible from the window. The city is quiet. Quiet and waiting. Waiting for the next bomb. Waiting for the next attack. Waiting to see if Thomas can stop it.
 
