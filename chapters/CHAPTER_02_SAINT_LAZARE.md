@@ -91,7 +91,7 @@ Moreau looks up.
 
 "The fire brigade can have evacuation equipment in place in eight minutes. First rescue team ready to go in ten."
 
-Thomas studies the map. The middle car is trapped between Châtelet and Saint-Lazare. The tunnel walls are limestone. Nineteenth-century reinforcement is minimal. The two trains on either side are creating pressure. The weight is significant.
+Thomas studies the map. The middle car is trapped between Châtelet and Saint-Lazare. Three kilometers of tunnel. The tunnel walls are limestone under Paris. Modern, but still fragile. The two trains on either side are creating pressure. The weight is significant.
 
 "We move the forward train first," Thomas says. "Slowly. Back toward Châtelet. One meter per minute. Then establish communication through the tunnel."
 
