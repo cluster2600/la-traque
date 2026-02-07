@@ -27,13 +27,23 @@ The France TV building is concrete and glass. Modern. Built in the 2000s. The se
 
 The head of security meets them. Nervous. Over his head.
 
-"We didn't touch it after we realized what it was. The DVD is still in the case. The case arrived in a plain envelope. No markings. Hand-delivered by a courier around 6 AM. We didn't open it until 9:15."
+"The package arrived at 9 AM. Hand-delivered by courier. Plain envelope. A letter inside. And a DVD. We read the letter first. That's when we understood what we had. We didn't touch the DVD after that. It's still in the case. Sealed."
 
 They go to a secure room. Editing suite. Professional equipment. A technician is there. Sweating. Young. This is his biggest day.
 
-"Play it," Moreau says.
+Moreau reads the letter first. His jaw tightens.
 
-The technician inserts the DVD. The screen goes black for three seconds. Then static. Then a face.
+"It's a statement. Demands. They claim responsibility. Three bombs. Two detonated, one failed." He looks up. "There's more coming. They're naming demands."
+
+"What demands?" Thomas asks.
+
+"France apologize. For colonization. For Algeria. Or they keep bombing."
+
+Thomas nods. Takes the letter. Reads. Single page. Typed. No signature. No watermark. No clue to origin except the words themselves.
+
+"Play the DVD," Thomas says.
+
+The technician inserts the disc. The screen goes black for three seconds. Then static. Then a face.
 
 It's a man. Mid-thirties. Dark hair. Dark eyes. He's sitting in front of a black background. Nothing behind him. Nothing identifying. He's speaking French with a North African accent. Algerian. He's speaking slowly. Deliberately. Making sure every word is understood.
 
