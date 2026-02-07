@@ -21,37 +21,25 @@ Not his personal phone. His work phone. The encrypted one. The one that only rin
 
 Thomas doesn't ask questions yet. He waits. This is how it works. Moreau talks. Thomas listens. Then Thomas moves.
 
-"Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. First reports came in four minutes ago."
+"Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. Two separate train cars. First reports came in four minutes ago."
 
 Thomas sets down the espresso. It steams on the table. Untouched.
 
-"How many?"
+"How many casualties?"
 
-"Three devices placed. Two confirmed detonations. The middle car is dark. No communication from inside."
+"Unknown. Early estimates. The cars were packed. Morning commute. Heavy passenger load. Both cars are dark. No communication from either one. Emergency services are mobilizing."
 
-"Casualties?"
+"How many passengers?" Thomas asks.
 
-"Unknown. The middle car had passengers. Estimates between thirty and fifty. We're still getting reports from the platform. Everything is confusion right now."
+"Estimates between one hundred fifty and three hundred per car."
 
-Thirty to fifty. The numbers hang in the air like smoke.
-
-Thomas is already moving. He sets down the phone on speaker and walks to the bedroom. Opens the closet. Black tactical pants. Black shirt. Boots. The clothes he keeps ready. Always ready.
-
-"When did it happen?" he asks while dressing.
-
-"6:07 AM. Three minutes ago. We're mobilizing teams now. First responders are en route. Fire brigade is staging equipment at both station entrances."
+Three hundred. Per car. Two cars.
 
 "I'm moving. I'll be there in twelve minutes."
 
 "We need you coordinating from the command center. Not on-site."
 
-Thomas doesn't respond. He knows what Moreau wants. He also knows what needs to happen. They're different things.
-
-"I'll see you there," Moreau says. He hangs up.
-
-Thomas finishes dressing. He checks his watch. 6:14 AM. The city is waking up to screaming. To darkness. To fire.
-
-He moves to the window one more time. Rue des Rosiers is still empty. The espresso on the table is still steaming. The Marzocco is silent now. Its work is done.
+Thomas doesn't respond. He's already moving. He sets down the phone on speaker and walks to the bedroom. Opens the closet. Black tactical pants. Black shirt. Boots. The clothes he keeps ready. Always ready.
 
 ---
 
@@ -75,13 +63,11 @@ Jérôme was sixteen. He was always late. He always apologized. He always had re
 
 Thomas told the others. Said he'd go meet Jérôme. He'd catch up with them later. The others said fine. They stayed at the café.
 
-Thomas walked to the Métro station. Not the Saint-Michel entrance. He got confused. Took a wrong turn. Lost five minutes. By the time he realized his mistake, he was at a different entrance. He decided to catch the next train. To go home. To call Jérôme and reschedule.
+Thomas waited. The others chatted. Time passed. Five more minutes. Ten more minutes.
 
-It was 5:10 PM.
+Around 5:15 PM, Thomas's parents called. They wanted to know where he was. He told them he was at the café with friends. They said to stay put. They were coming to get him.
 
-He was buying a ticket when the sound came. Not loud. Not like you'd expect. Just a dull thump. Like something heavy had fallen. Then screaming. Then the announcement that there had been an accident. All passengers please exit the station.
-
-The television was on in the station booth. Breaking news. An explosion. The RER B. Saint-Michel station. Multiple casualties.
+The television was on in the café. Some news program. Then the interruption. Breaking news. An explosion. The Métro. Saint-Michel station. The RER B. Multiple casualties.
 
 Thomas didn't move for three minutes.
 
@@ -91,7 +77,7 @@ They told him to stay put. They were coming to get him.
 
 The phone lines jammed. The reports kept coming. Eight dead. One hundred fifty injured. No names yet. Bodies being removed from the wreckage.
 
-Thomas sat in the station and waited.
+Thomas sat in the café and waited.
 
 Around midnight, a police officer approached him. Asking if he knew anyone on the train. Thomas said his friend was supposed to be there. Jérôme. He gave his name. The officer took notes.
 
@@ -101,42 +87,41 @@ They used dental records. Dental records took two days.
 
 Two days of not knowing. Two days of hoping. Two days of the mathematics being impossible.
 
-On day three, it was confirmed. Jérôme was dead. One of eight. Sitting on a strapontin. Waiting for Thomas. Who was lost. Who was confused. Who took a wrong turn.
+On day three, it was confirmed. Jérôme was dead. One of eight. Sitting on a strapontin. Waiting for Thomas. Thomas was safe. At the café. With the others. Waiting for Jérôme to show up.
 
-If Thomas had been on time, would he have died too? Would they both have died? Would they have both lived?
+Jérôme was late by five minutes. He took a train that had a bomb on it. He sat on a seat that was directly above the bomb. The bomb detonated. The mathematics of death are impossible.
 
-The mathematics of death are impossible.
+Thomas was sixteen when he learned that sometimes being late kills you. Sometimes being on time saves you. Sometimes there's no pattern. Sometimes it's just chance.
 
-Thomas was sixteen when he learned that sometimes being late saves your life. Sometimes it kills your best friend. Sometimes there's no pattern. Sometimes it's just chance.
+Sometimes it's the worst kind of randomness. A friend decides to catch up. Takes one train instead of another. Sits in one seat instead of standing. And dies.
 
-Twenty-three years later, he hasn't forgotten. He's still not sure if the delay was luck or curse.
+Twenty-three years later, he hasn't forgotten. He's still not sure if it was luck or curse that Jérôme was the one who died, not him.
 
 ---
 
-Thomas is in the car now. Driving fast through empty Paris streets. The radio is on. The news keeps talking. Métro 14. Explosion. Casualties unknown. All trains suspended. Emergency services mobilizing.
+Thomas is in the car now. Driving fast through empty Paris streets. The radio is on. The news keeps talking. Métro 14. Two explosions. Multiple trains. Hundreds of casualties. Numbers are climbing. The reports are fragmenting. Nobody knows how many are dead.
 
-He thinks about Jérôme. He thinks about the thirty-minute delay. He thinks about Thomas at sixteen, realizing that the world doesn't care about your intentions. It doesn't care if you're late or early. It just cares about where you are when it decides to burn.
+Thomas knows it's bad.
 
-The car pulls up to the command center at 6:26 AM.
+He arrives at the command center at 6:26 AM.
 
-Thomas gets out and walks inside.
+The chaos is organized but barely. Police. Fire brigade. Army liaisons. Medical personnel. Everyone trying to process what's happening.
 
-The work is about to begin.
+Two bombs. Two train cars. Hundreds of people trapped in darkness. And Thomas has to find who did this and stop them before the third bomb detonates.
+
+Because there's always a third bomb.
+
+Always.
 
 ---
 
 **END CHAPTER 1**
 
----
-
-**Notes on Chapter 1:**
-- Establishes Thomas's routine: Marzocco espresso, minimal apartment, precision
-- The bombing breaks routine → phone call
-- Flashback to Saint-Michel 1995 reveals the trauma
-- Return to present shows Thomas moving toward action
-- Timeline: Explosion 6:07 AM, Thomas at command center by 6:26 AM
-- Lee Child style: short sentences, minimal description, maximum tension
-- Jérôme's death is the ghost that will haunt the entire novel
-
-**Chapter length:** ~1,800 words (approximately 7 pages at standard formatting)
-**Target for novel:** 30 chapters × 10 pages = 300 pages total
+**Key changes:**
+- Thomas was AT the café (safe)
+- Jérôme was LATE and called to reschedule
+- Jérôme took RER B to Saint-Michel
+- Jérôme died on strapontin (directly above bomb)
+- Thomas survived by not being on that train
+- Psychology: Not guilt about being late, but awareness of randomness
+- Body identification took 2 days (dental records)
