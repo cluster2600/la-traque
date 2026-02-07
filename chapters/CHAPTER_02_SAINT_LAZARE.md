@@ -27,11 +27,13 @@ He hangs up. Keeps walking.
 
 It's raining in Tokyo. It's always raining in Tokyo. Thomas is 26 years old and he's been in the city for three weeks. The embassy posting is nominal. Attaché. Political affairs. It's a cover. His real work is surveillance.
 
-The target is walking through Yoyogi Park. Thomas follows. Keeps distance. The target is Japanese. Age thirty-two. Works in finance. Publicly. But his mother was French. And his father was Jacques Chirac's friend. The math is simple. Claude Chirac suspects something. She wants to know. Thomas is here to find out.
+The target is Chirac's son. Age thirty-two. His mother is Japanese. His father pulled strings to keep him out of the French press. Thomas is here to verify something. No one will say what.
 
-The target stops at a café. Orders green tea. Sits. Thomas takes a table nearby. Opens a newspaper. Watches.
+Thomas follows him through the city. Keeps distance. The target goes to work. Comes home. Meets with people. Nothing suspicious. Nothing worth the effort.
 
-A girl sits at the next table. She's young. Maybe nineteen. Japanese-French accent. She's reading Sartre. "L'Être et le Néant." In the original French. In a Yoyogi Park café. On a Tuesday afternoon.
+One afternoon, Thomas is at Starbucks on Omotesando. Watching the street. Watching the target's building across the way.
+
+A girl sits at the next table. She's young. Maybe nineteen. Japanese face. French accent. She's reading Sartre. "L'Être et le Néant." In the original French. In a Starbucks. On a Wednesday afternoon.
 
 Thomas notices because his job is noticing. He catalogs her. Appearance. Behavior. Accent. Likelihood of being connected to the target.
 
@@ -41,7 +43,7 @@ Thomas doesn't smile back. But he notices this too.
 
 Her name is Taka. She's a student at Lycée français de Tokyo. Her father is Japanese. Her mother is French-Canadian. She speaks four languages. She laughs at the right moments. She asks questions that suggest intelligence.
 
-Over the next six weeks, Thomas follows the target. Over those same six weeks, he also sees Taka. At the café. At the library. At the metro station. At the French bookstore on Omotesando.
+Over the next six weeks, Thomas sees her at Starbucks. Same table. Same time. Same book, different pages.
 
 It might be coincidence. Thomas doesn't believe in coincidence.
 
@@ -59,7 +61,7 @@ He understands this. His childhood in Normandy was foreign. Rhodesia haunted it.
 
 Maybe that's why they fit.
 
-The mission ends in March 2005. Thomas gets recalled. The target was nothing. Some businessman with complicated lineage. No threat. No scandal. No reason to care.
+The mission ends in March 2005. Thomas gets recalled. The target was Chirac's son. Nothing criminal. Just verification. Just paranoia. Just politics.
 
 Thomas tells Taka he has to leave.
 
