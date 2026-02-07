@@ -65,7 +65,7 @@ By then, Taka is pregnant.
 
 Thomas tells her he has to leave. She cries. He doesn't.
 
-He marries her anyway. Some things you do because they're right. Some things you do because the alternative is worse. He's never been sure which category applies.
+He marries her because he loves her. Because he's a man with a code. You don't leave a woman carrying your child. You don't compartmentalize her away. You marry her. You do the right thing. Even if it costs you everything.
 
 By 2018, they have a child. By 2018, they live on opposite sides of the world.
 
