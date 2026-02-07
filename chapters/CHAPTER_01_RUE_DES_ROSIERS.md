@@ -47,51 +47,53 @@ Thomas is sixteen years old. He's at a café in the 5th arrondissement. With oth
 
 Jérôme was supposed to be there. He was late. Very late. By 4:55 PM, he called Thomas's parents' apartment (landline). Thomas's mother answered. Jérôme's voice was rushed.
 
-"Is Thomas there?"
+"Tell Thomas I'm running late. I'm sorry. I'll catch him later."
 
-"No, he's at a café with friends. Can I take a message?"
+That's all. No rescheduled meeting. No Saint-Michel. Just an apology for being late.
 
-"Tell him I'm running late. Ask him to meet me at Saint-Michel Métro instead. I can be there in ten minutes. At the entrance."
-
-Thomas's mother wrote it down. She told Thomas when he called from the café at 5:05 PM to check in.
+Thomas's mother told Thomas when he called from the café at 5:05 PM to check in.
 
 Thomas said okay. Jérôme was always late. He always apologized. He always had reasons. But he always showed up.
 
-Thomas told the others. Said he'd go meet Jérôme. He'd catch up with them later. The others said fine. They stayed at the café.
+Thomas waited at the café with the others. They talked. They drank. They made plans for the rest of the evening. Around 7:00 PM, Thomas's mother came to pick him up. She wanted him home. They drove back to Normandy that evening.
 
-Thomas left the café at 5:10 PM. He was walking toward the Métro when his mother came out of an apartment building. She'd left the apartment to come get him. She wanted him home. They were heading to the Métro entrance when the sirens started.
+Thomas arrived home around 9:30 PM.
 
-Around 5:20 PM, they heard the news on the street. People running. Cars stopping. Radio reports. Saint-Michel. An explosion. The RER B.
+The next morning, his father came into his room. Early. Before Thomas was awake.
 
-Thomas was supposed to be there. He was supposed to be on that train.
+"Jérôme is dead."
 
-But Jérôme called. Jérôme was late. Jérôme asked to reschedule. Jérôme took that train instead.
+That's all his father said.
 
-Thomas and his mother stood on the street. People running. Chaos. Radio reports. Eight dead. One hundred fifty injured. The RER B. Saint-Michel.
+Thomas didn't understand at first. Didn't understand the tense. Didn't understand the finality.
 
-The police were already setting up cordons. Thomas's mother pulled him away. They went to the police station to give a statement. Thomas told them about Jérôme. About the call. About meeting at Saint-Michel. About being five minutes away when the bomb went off.
+"What?"
 
-The phone lines at the station jammed with families calling. Trying to find out if loved ones were on the train.
+"There was a bombing. The RER B. Yesterday evening. At Saint-Michel. Jérôme was on the train."
 
-Thomas waited with his mother. Hours passed. The reports kept coming. Eight confirmed dead. One hundred fifty injured. No names yet. Bodies being removed and taken to hospitals and morgues.
+Thomas sat up. Slow.
 
-Around midnight, a police officer approached Thomas. Asking if he knew anyone on the train. Thomas said his friend was supposed to be there. Jérôme. He gave his name. The officer took notes.
+"Why was he on that train?" Thomas asked.
 
-The next morning, his parents brought him to the police station. They asked him to identify the body. But identification was complicated. The bomb had been under a strapontin. A fold-down seat. Jérôme had been sitting on it. The blast was direct. The body was difficult to identify visually.
+His father didn't have the answer yet.
 
-They used dental records. Dental records took two days.
+Later that day, Thomas's mother called Jérôme's mother. Found out. Jérôme had called that afternoon. Said he was running late to meet the friends. Apologized. Then he called back an hour later. Said he was taking the RER B to Saint-Michel to catch up with the group there.
 
-Two days of not knowing. Two days of hoping. Two days of the mathematics being impossible.
+But Thomas had already left. Already gone home to Normandy. Already safe.
 
-On day three, it was confirmed. Jérôme was dead. One of eight. Sitting on a strapontin. Waiting for Thomas. Thomas was safe. On the street. With his mother. Five minutes away from death.
+Jérôme was on a train that had a bomb under a seat. A fold-down seat called a strapontin. Jérôme was sitting on it. One of eight dead.
 
-Jérôme was late by five minutes. He took a train that had a bomb on it. He sat on a seat that was directly above the bomb. The bomb detonated. The mathematics of death are impossible.
+Thomas was safe in Normandy when the bomb detonated.
 
-Thomas was sixteen when he learned that sometimes being late kills you. Sometimes being on time saves you. Sometimes there's no pattern. Sometimes it's just chance.
+The rest happened over the next weeks. Identification (dental records took days). Funeral (small, quiet). Silence. The kind of silence that comes after a child dies and nobody knows what to say.
 
-Sometimes it's the worst kind of randomness. A friend decides to catch up. Takes one train instead of another. Sits in one seat instead of standing. And dies.
+Thomas was sixteen when he learned that sometimes being late kills you. Sometimes leaving early saves you. Sometimes there's no pattern. Sometimes it's just chance.
 
-Twenty-three years later, he hasn't forgotten. He's still not sure if it was luck or curse that Jérôme was the one who died, not him.
+Sometimes it's the worst kind of randomness. A friend decides to catch up. Takes one train instead of not. Sits in one seat instead of standing. And dies.
+
+Thomas was safe in Normandy. Jérôme was dead. The mathematics of death are impossible.
+
+Twenty-three years later, he hasn't forgotten. He's still not sure if it was luck or curse that he left for Normandy before finding out Jérôme was dead.
 
 ---
 
