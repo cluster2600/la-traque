@@ -77,9 +77,9 @@ Duty does that.
 
 ---
 
-The command center is in a converted warehouse three blocks from Saint-Lazare station. Tactical maps on the walls. Live feeds from the tunnel. Teams coordinating on radio. Moreau is here. Colonel Dubois from the fire brigade. A negotiator named Leclerc. Technical specialists checking structural integrity.
+The command center is set up on the square in front of Saint-Lazare station. Between two fire trucks. Tactical maps on a folding table. Radio operators coordinating. Moreau is here. Colonel Dubois from the fire brigade. A negotiator named Leclerc. Technical specialists checking structural integrity.
 
-Thomas enters without knocking.
+Thomas walks between the fire trucks.
 
 Moreau looks up.
 
