@@ -37,7 +37,7 @@ The technician inserts the DVD. The screen goes black for three seconds. Then st
 
 It's a man. Mid-thirties. Dark hair. Dark eyes. He's sitting in front of a black background. Nothing behind him. Nothing identifying. He's speaking French with a North African accent. Algerian. He's speaking slowly. Deliberately. Making sure every word is understood.
 
-"My name is Yasmin Boudjellal. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
+"My name is Yasmine Boudjellal. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
 
 "Today, France felt pain. Forty-three people were trapped in darkness. Two died. Thirty-eight were rescued. This is a message. This is the beginning of France feeling one percent of the pain that Algeria has felt for one hundred thirty years.
 

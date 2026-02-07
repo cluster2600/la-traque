@@ -19,7 +19,7 @@ The passages fork. Left. Right. Straight ahead. No signs. No maps. Just darkness
 
 "Which way?" one of the tactical officers asks. His name is Rousseau. Young. Trained. Scared.
 
-Thomas doesn't answer. He closes his eyes. He's thinking like Yasmin. Thinking like someone who knows the tunnels. Thinking like someone who has planned this for months.
+Thomas doesn't answer. He closes his eyes. He's thinking like Yasmine. Thinking like someone who knows the tunnels. Thinking like someone who has planned this for months.
 
 "The Métro tunnels," Thomas says. "They want access to the Métro tunnels from below. That means they're going toward Line 2. Line 3. The lines that run shallow. The lines where the quarries intersect with the tunnel network."
 
@@ -75,7 +75,7 @@ The timer continues. 9:49. 9:50.
 
 The explosion is silent. It's not loud like above ground. It's a dull thump. The tunnel shakes. Limestone falls from the ceiling. The passage ahead collapses.
 
-Six meters of tunnel is gone. A wall of rubble between them and Yasmin.
+Six meters of tunnel is gone. A wall of rubble between them and Yasmine.
 
 "Fuck," Moreau says.
 
@@ -101,33 +101,33 @@ The air clears.
 
 They're in a massive chamber. A cathedral of limestone. Vast. Impossible. The ceiling is fifty meters above. The floor is flat. This is the heart of the catacombs. This is where they kept the bones. This is where the dead live.
 
-And here, in the center of the cathedral, is Yasmin.
+And here, in the center of the cathedral, is Yasmine.
 
 She's standing next to a metal table. On the table are four more bombs. Large ones. Military grade. Real ones.
 
 Behind her are Hassan and Inès. Armed. Hassan has a rifle. Inès has a pistol.
 
-"You found us," Yasmin says. She's smiling. The smile is not happy. It's the smile of someone who has won something.
+"You found us," Yasmine says. She's smiling. The smile is not happy. It's the smile of someone who has won something.
 
 "Where's Malik?" Thomas asks.
 
-"Malik is in a container," Yasmin says. "Processing. We let him be arrested. He doesn't know the tunnels. He doesn't know the plan. He'll tell them we're in the catacombs. But by then, we'll be below them. In the deep quarries. In the places that haven't seen light in centuries."
+"Malik is in a container," Yasmine says. "Processing. We let him be arrested. He doesn't know the tunnels. He doesn't know the plan. He'll tell them we're in the catacombs. But by then, we'll be below them. In the deep quarries. In the places that haven't seen light in centuries."
 
 Thomas raises his rifle.
 
-"You're alone," Yasmin says. "Eight people. Two of them are engineers. One is a medic. You have four tactical officers. Four. Against three armed people. And you're in our territory. In the dark. Where we can see and you cannot."
+"You're alone," Yasmine says. "Eight people. Two of them are engineers. One is a medic. You have four tactical officers. Four. Against three armed people. And you're in our territory. In the dark. Where we can see and you cannot."
 
 She's right. The lights they brought are powerful but they create shadows. The shadows hide. The shadows are where Inès is standing. The shadows are where Hassan is waiting.
 
 "It doesn't matter," Thomas says. "The Métro is closed. The tunnels are evacuated. Your next victims don't exist. You can bomb empty corridors. You can kill rocks."
 
-"No," Yasmin says. "The evacuation order came too late. There are still people in the tunnels. Still people trying to escape. Thousands of them. They're moving through the system. They're panicking. They're exactly where we want them."
+"No," Yasmine says. "The evacuation order came too late. There are still people in the tunnels. Still people trying to escape. Thousands of them. They're moving through the system. They're panicking. They're exactly where we want them."
 
 Thomas doesn't know if this is true. But it might be. People don't evacuate neatly. People panic. People hide. People try different routes. Some are probably still down there.
 
 "Why?" Thomas asks. "Why all of this?"
 
-"Because France forgot," Yasmin says. "France killed one million Algerians. One million. And nobody says sorry. Nobody says 'we were wrong.' France just moves forward. Builds its cities. Forgets the graves underneath. So we make France remember. We make France understand that the dead are still here. That the dead are waiting."
+"Because France forgot," Yasmine says. "France killed one million Algerians. One million. And nobody says sorry. Nobody says 'we were wrong.' France just moves forward. Builds its cities. Forgets the graves underneath. So we make France remember. We make France understand that the dead are still here. That the dead are waiting."
 
 She reaches for the timer on the nearest bomb.
 
@@ -144,10 +144,10 @@ Thomas fires.
 - First bomb found, fake timer (triggers collapse, blocks return path)
 - Second bomb detonates, creates rubble field
 - Cell has trapped them: Forward or die
-- Find Yasmin, Hassan, Inès in underground cathedral
+- Find Yasmine, Hassan, Inès in underground cathedral
 - Malik arrested and abandoned (disposable)
 - Revelation: Still thousands of people in Métro system (evacuation incomplete)
-- Yasmin's motivation: Making France remember (one million Algerian dead)
+- Yasmine's motivation: Making France remember (one million Algerian dead)
 - Confrontation: Thomas fires
 - Ending: Action climax begins
 
@@ -161,7 +161,7 @@ Thomas fires.
 - Bombs are real and ready to detonate
 - Evacuation incomplete (thousands still in tunnels)
 - Malik abandoned by cell (disposable operative)
-- Yasmin's final motivation revealed (ancestral memory, collective guilt)
+- Yasmine's final motivation revealed (ancestral memory, collective guilt)
 - Thomas opens fire (escalation to violence)
 
 **Next chapters likely:** 

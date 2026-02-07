@@ -15,7 +15,7 @@ Thomas enters. Everyone's attention shifts to him.
 
 Thomas doesn't use slides. Doesn't use PowerPoint. He just talks. He stands at the end of the table.
 
-"We have a cell. Minimum four people. Maximum seven. The speaker identifies himself as Yasmin Boudjellal. Algerian. Based on accent and dialect analysis, he's from northern Algeria. Possibly from Algiers. He's the ideologue. He's the voice. He's calling for France to apologize for Algerian colonization.
+"We have a cell. Minimum four people. Maximum seven. The speaker identifies himself as Yasmine Boudjellal. Algerian. Based on accent and dialect analysis, he's from northern Algeria. Possibly from Algiers. He's the ideologue. He's the voice. He's calling for France to apologize for Algerian colonization.
 
 "Two bombs were placed in Métro Line 14. Two detonated. The third was supposed to detonate but didn't. Technical analysis shows the third device had a faulty timer. It was a luck event. Not planning. Not mercy. Just mechanical failure.
 
@@ -37,7 +37,7 @@ The North Africa lead speaks up. "We have contacts in Algeria. We have sources i
 
 "Do it," the Director says.
 
-"Financial crimes will flag any suspicious transactions to known cell members. We've already identified the speaker as Yasmin Boudjellal. Algerian national. Wanted in connection with political violence in the 1990s."
+"Financial crimes will flag any suspicious transactions to known cell members. We've already identified the speaker as Yasmine Boudjellal. Algerian national. Wanted in connection with political violence in the 1990s."
 
 "Do it," the Director says.
 

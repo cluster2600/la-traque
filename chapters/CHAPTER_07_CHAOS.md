@@ -59,7 +59,7 @@ The man follows.
 
 Thomas doesn't stop walking.
 
-By 3:00 AM, Thomas realizes something. The cell could be in here. One of the eight thousand people in the containers. Yasmin. Hassan. Inès. Any of them could have been arrested in the sweep.
+By 3:00 AM, Thomas realizes something. The cell could be in here. One of the eight thousand people in the containers. Yasmine. Hassan. Inès. Any of them could have been arrested in the sweep.
 
 Or none of them.
 
@@ -83,7 +83,7 @@ Thomas sits across from him.
 
 Hassan doesn't respond.
 
-"Yasmin. Inès. Malik. Where are they?"
+"Yasmine. Inès. Malik. Where are they?"
 
 Hassan looks up. His eyes are empty.
 
@@ -113,7 +113,7 @@ But the cell is still out there.
 
 In the darkness below Paris. In tunnels that haven't been mapped in decades. In spaces where nobody can reach them.
 
-Yasmin is leading them. Hassan said so. Yasmin who speaks about justice. Yasmin who sees herself as the voice of the dead. Yasmin who is about to kill thousands to make France listen.
+Yasmine is leading them. Hassan said so. Yasmine who speaks about justice. Yasmine who sees herself as the voice of the dead. Yasmine who is about to kill thousands to make France listen.
 
 Thomas looks at the tactical map. The Métro system. The catacombs. The quarries beneath the city. It's a maze. It's impossible. It's where the cell is hiding.
 

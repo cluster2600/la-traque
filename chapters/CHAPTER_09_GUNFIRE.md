@@ -29,11 +29,11 @@ The officer fires.
 
 Inès is hit. Her arm goes up. The detonator falls. She's screaming. She's trying to reach it but she can't. Her arm is useless.
 
-The detonator is on the ground. Fifteen meters from Thomas. Between him and Yasmin.
+The detonator is on the ground. Fifteen meters from Thomas. Between him and Yasmine.
 
-Yasmin hasn't moved. She's still standing. Watching. Smiling that smile.
+Yasmine hasn't moved. She's still standing. Watching. Smiling that smile.
 
-"You can't stop this," Yasmin says. "Even if you kill us. Even if you take the detonator. We've already activated the sequence. The bombs will detonate in ninety seconds. The tunnel will collapse. Everyone above will die. Everyone below will die. You. Me. All of us. We all go into the earth together."
+"You can't stop this," Yasmine says. "Even if you kill us. Even if you take the detonator. We've already activated the sequence. The bombs will detonate in ninety seconds. The tunnel will collapse. Everyone above will die. Everyone below will die. You. Me. All of us. We all go into the earth together."
 
 Thomas doesn't believe her. But it doesn't matter. He has to assume it's true.
 
@@ -55,13 +55,13 @@ Moreau is there. He takes the remote. He's a soldier. He's seen explosives befor
 
 Forty-five seconds.
 
-Thomas looks at Yasmin.
+Thomas looks at Yasmine.
 
 She's still smiling.
 
 "Why aren't you running?" Thomas asks.
 
-"Because I'm already dead," Yasmin says. "I died in 1954 when my great-grandmother was tortured by the French. I died in 1962 when my grandfather died in a French prison. I died a thousand times in a thousand Algerian graves. So I might as well die here. Might as well take you with me. Might as well make sure France remembers."
+"Because I'm already dead," Yasmine says. "I died in 1954 when my great-grandmother was tortured by the French. I died in 1962 when my grandfather died in a French prison. I died a thousand times in a thousand Algerian graves. So I might as well die here. Might as well take you with me. Might as well make sure France remembers."
 
 Thirty seconds.
 
@@ -79,7 +79,7 @@ The other tactical officers are already moving. They're carrying Rousseau. The m
 
 Ten seconds.
 
-Thomas is still holding Yasmin. She's light. Almost fragile. Almost human. But she's not. She's an idea. An idea that wants to die.
+Thomas is still holding Yasmine. She's light. Almost fragile. Almost human. But she's not. She's an idea. An idea that wants to die.
 
 Five seconds.
 
@@ -93,33 +93,33 @@ One.
 
 The bombs detonate.
 
-But not where Thomas is standing. The detonation is behind him. In a side passage. A tunnel that Thomas didn't see. A tunnel where Yasmin must have placed charges before they arrived.
+But not where Thomas is standing. The detonation is behind him. In a side passage. A tunnel that Thomas didn't see. A tunnel where Yasmine must have placed charges before they arrived.
 
 The limestone collapses. The explosion is massive. The cathedral shakes. The ceiling cracks. Stone rains down.
 
-Thomas pulls Yasmin and runs.
+Thomas pulls Yasmine and runs.
 
 He's heading toward the collapsed tunnel. Toward where the team went. Toward up. Toward light.
 
-Yasmin is struggling now. She's trying to get away. Trying to get back to the cathedral. Trying to let the collapse take her.
+Yasmine is struggling now. She's trying to get away. Trying to get back to the cathedral. Trying to let the collapse take her.
 
 Thomas doesn't let her go.
 
 The ceiling is coming down. Behind him. Above him. Around him. The darkness is falling.
 
-He reaches the collapsed tunnel section. He starts climbing. Yasmin is fighting him. She's hitting him. She's screaming in Arabic. Prayers maybe. Curses maybe. It doesn't matter.
+He reaches the collapsed tunnel section. He starts climbing. Yasmine is fighting him. She's hitting him. She's screaming in Arabic. Prayers maybe. Curses maybe. It doesn't matter.
 
-Thomas climbs. One hand. One foot. The other hand. The other foot. Pulling Yasmin up with him.
+Thomas climbs. One hand. One foot. The other hand. The other foot. Pulling Yasmine up with him.
 
 Behind them, the cathedral is collapsing. The bombs. The table. The four bombs that were going to kill thousands. They're all under the rubble now.
 
 Thomas reaches the surface.
 
-He emerges from the tunnel like he's being born. Gasping. Bleeding. Covered in limestone dust. Still holding Yasmin.
+He emerges from the tunnel like he's being born. Gasping. Bleeding. Covered in limestone dust. Still holding Yasmine.
 
 Moreau is there. The team is there. They're all alive. Rousseau is unconscious. The medic is working on him. But he's alive.
 
-Thomas releases Yasmin.
+Thomas releases Yasmine.
 
 She's on her knees. She's crying. Not from fear. From rage. From the knowledge that she's alive. That she didn't get to die. That she's being captured.
 
@@ -143,13 +143,13 @@ It's over.
 - Gunfight in underground cathedral
 - Hassan attacks with knife, subdued
 - Inès reaches for detonator, shot
-- Yasmin remains calm (smiling, accepting death)
+- Yasmine remains calm (smiling, accepting death)
 - Remote detonator found (mechanical timer, can't be stopped)
-- Bombs detonate in side passage (Yasmin's final trap)
+- Bombs detonate in side passage (Yasmine's final trap)
 - Cathedral collapses
-- Thomas forces Yasmin to escape (she doesn't want to live)
+- Thomas forces Yasmine to escape (she doesn't want to live)
 - Team reaches surface (all alive)
-- Cell captured but Yasmin escapes custody later (sets up final chapters)
+- Cell captured but Yasmine escapes custody later (sets up final chapters)
 
 **Word count:** ~1,600 words (6-7 pages)
 **Style:** Lee Child (action, sparse dialogue, immediate present tense)
@@ -158,11 +158,11 @@ It's over.
 **Major developments:**
 - Hassan and Inès subdued/captured
 - Bombs detonated but contained (not in Métro)
-- Thomas chooses to save Yasmin (complicates everything)
+- Thomas chooses to save Yasmine (complicates everything)
 - Immediate threat neutralized
 - But emotional/legal resolution remains (final 22 chapters)
 
 **Next chapters likely:**
-- Chapter 10: Interrogation aftermath, Yasmin's escape
+- Chapter 10: Interrogation aftermath, Yasmine's escape
 - Chapters 11-15: Investigation, borders, Morocco pursuit
 - Chapters 21-30: Sahara, Tadrart, confrontation, burial

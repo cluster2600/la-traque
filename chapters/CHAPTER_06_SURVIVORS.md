@@ -75,7 +75,7 @@ Thomas doesn't believe him. But he doesn't push. Not yet.
 
 "We'll verify that," Thomas says. "With your doctor."
 
-He lets Malik leave. Not because he's innocent. But because Thomas needs to know more. Malik is part of the cell. But he's not the leader. Yasmin is the leader. Thomas needs to find Yasmin.
+He lets Malik leave. Not because he's innocent. But because Thomas needs to know more. Malik is part of the cell. But he's not the leader. Yasmine is the leader. Thomas needs to find Yasmine.
 
 Back at the office. Moreau is waiting.
 
@@ -91,7 +91,7 @@ The safe house is in the 11th. Rue Saint-Ambroise. Fourth floor. Apartment 7. Th
 
 The door is unlocked. Nobody's home. But the apartment is lived in. Recently.
 
-In the kitchen, there's evidence: blueprints of the Métro Line 14. Maps with station locations marked. Notes in Arabic. A list of names. Hassan. Inès. Malik. Yasmin.
+In the kitchen, there's evidence: blueprints of the Métro Line 14. Maps with station locations marked. Notes in Arabic. A list of names. Hassan. Inès. Malik. Yasmine.
 
 And a timer. On the counter. Broken. The same model as the third device.
 
@@ -103,7 +103,7 @@ The blueprints are photographed. The apartment is sealed. A team will process it
 
 Thomas stands in the kitchen and looks at the maps. The marks on the stations. This is planning. This is serious. This is not improvisation.
 
-Yasmin didn't just wake up one morning and decide to bomb the Métro. This was planned. For weeks. Maybe months.
+Yasmine didn't just wake up one morning and decide to bomb the Métro. This was planned. For weeks. Maybe months.
 
 The timer is broken. Just like the third device. This is important. Thomas thinks about this.
 
@@ -119,7 +119,7 @@ Two: The safe house contains blueprints, maps, evidence of planning. Names of al
 
 Three: The third timer failed. Either by accident or by deliberate sabotage.
 
-Thomas is getting closer. But Yasmin is still free. Hassan is still free. Inès is still free.
+Thomas is getting closer. But Yasmine is still free. Hassan is still free. Inès is still free.
 
 They're planning the next attack. The clock is running. Thomas can feel it.
 
@@ -148,7 +148,7 @@ They're planning the next attack. The clock is running. Thomas can feel it.
 **Intelligence gathered:**
 - Malik Benhadj confirmed as operations/timer activation
 - Safe house location and evidence
-- Cell names confirmed (Yasmin, Hassan, Malik, Inès)
+- Cell names confirmed (Yasmine, Hassan, Malik, Inès)
 - Possible internal conflict (timer sabotage?)
 - Next attack being planned (timer pressure continues)
 
@@ -157,4 +157,4 @@ They're planning the next attack. The clock is running. Thomas can feel it.
 2. Inès's interrogation/deal-making
 3. Cell meeting (inside the group, tension)
 4. Intelligence analysis of blueprints (what's the next target?)
-5. Yasmin's movement/surveillance (hunt escalates)
+5. Yasmine's movement/surveillance (hunt escalates)
