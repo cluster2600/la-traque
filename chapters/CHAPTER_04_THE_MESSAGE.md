@@ -51,15 +51,15 @@ It's a man. Mid-thirties. Dark hair. Dark eyes. He's sitting in front of a black
 
 "My name is Yasmine Boudjellal. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
 
-"Today, France felt pain. Forty-three people were trapped in darkness. Two died. Thirty-eight were rescued. This is a message. This is the beginning of France feeling one percent of the pain that Algeria has felt for one hundred thirty years.
+"Today, France felt pain. Today, Paris fell into darkness. Some are trapped. Some are dead. We do not know the exact numbers. But France will know soon. France will count the bodies. France will learn to count.
 
-"France colonized Algeria. France murdered. France tortured. France erased a nation. France took everything and left corpses. Hundreds of thousands of corpses.
+"This is the beginning. This is the message. France colonized Algeria. France murdered. France tortured. France erased a nation. France took everything and left corpses. Hundreds of thousands of corpses.
 
 "France has never apologized. France has never said 'we were wrong.' France has never said 'sorry for the children. Sorry for the blood. Sorry for the mothers who lost everything in the tunnels of Algiers and the mountains of Kabylie.'
 
-"Today we begin making France remember. Today we begin making France understand. We have placed three bombs. Two detonated. One failed. More will follow. More will follow until France says the words: 'We apologize for the colonization of Algeria. We apologize for the genocide. We apologize for the torture.'
+"We have sent a message. More will come. Soon. Very soon. More will follow until France says the words: 'We apologize for the colonization of Algeria. We apologize for the genocide. We apologize for the torture.'
 
-"Only then will this stop. Only then will France know the darkness it created.
+"Only then will this stop. Only then will France know the darkness it created."
 
 "This is not terrorism. This is justice. This is memory. This is the voice of the dead speaking through fire and blood.
 
