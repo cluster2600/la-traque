@@ -53,9 +53,9 @@ Thomas nods. One more thread. One more way to find them.
 
 The technician inserts the disc. The screen goes black for three seconds. Then static. Then a face.
 
-It's a man. Mid-thirties. Dark hair. Dark eyes. He's sitting in front of a black background. Nothing behind him. Nothing identifying. He's speaking French with a North African accent. Algerian. He's speaking slowly. Deliberately. Making sure every word is understood.
+It's a woman. Twenty-two years old. Dark hair. Dark eyes. Rage in her face. She's sitting in front of a black background. Nothing behind her. Nothing identifying. She's speaking French with a North African accent. Algerian diaspora. She's speaking slowly. Deliberately. Fury in every word.
 
-"My name is Yasmine Boudjellal. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
+"My name is Yasmine Boudjellal. I am the voice of those who have no voice. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
 
 "Today, France felt pain. Today, Paris fell into darkness. Some are trapped. Some are dead. We do not know the exact numbers. But France will know soon. France will count the bodies. France will learn to count.
 
