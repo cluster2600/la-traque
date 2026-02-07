@@ -31,7 +31,7 @@ She looks up from the book. Makes eye contact. Smiles.
 
 Thomas doesn't smile back. But he notices.
 
-Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Full Japanese. Born in Quebec to Japanese parents. Lived there until age fifteen. Then moved to Tokyo with her family. She teaches French literature. She covers classes when the regular teachers are absent.
+Her name is Taka Tachibana. She's a replacement teacher at Lycée français de Tokyo. Full Japanese. Born in Quebec to Japanese parents (Tachibana family). Lived there until age fifteen. Then moved to Tokyo with her family. She teaches French literature. She covers classes when the regular teachers are absent.
 
 Over the next two weeks, Thomas observes her routine. Starbucks. School. Library. Home. Same book. Different pages. Nothing suspicious. But also: intelligent. Observant. Careful.
 
@@ -61,11 +61,11 @@ He doesn't tell her about the mission. He tells her about Normandy. About his fa
 
 The mission ends in March 2005. Thomas gets recalled. The target was Chirac's son. Nothing criminal. Just verification. Just paranoia. Just politics.
 
-Thomas tells Taka he has to leave.
+By then, Taka is pregnant.
 
-She cries. He doesn't.
+Thomas tells her he has to leave. She cries. He doesn't.
 
-He marries her a year later. Some things you do because they're right. Some things you do because the alternative is worse. He's never been sure which category applies.
+He marries her anyway. Some things you do because they're right. Some things you do because the alternative is worse. He's never been sure which category applies.
 
 By 2018, they have a child. By 2018, they live on opposite sides of the world.
 
