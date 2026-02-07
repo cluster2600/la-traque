@@ -47,7 +47,7 @@ She smiles. "French. I read it in French. Better that way."
 
 "Because Baudelaire deserves to be read in his own language. Even in Tokyo."
 
-Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Born in Quebec. French-speaking childhood. Then Tokyo at fifteen. Japanese family, French education, living in Japan. Never quite belonging to any country. Always being a little bit foreign.
+Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Born in Quebec. French-speaking childhood. Then Tokyo at fifteen. Japanese family, moved to Japan, teaching French. Never quite belonging to any country. Always being a little bit foreign.
 
 He understands this. His childhood in Normandy was foreign. Rhodesia haunted it. His Navy training was foreign. Intelligence work is foreign. Everything is foreign.
 
