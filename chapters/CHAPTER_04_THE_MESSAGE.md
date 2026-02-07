@@ -87,6 +87,14 @@ The video plays again. Thomas watches the speaker's eyes. His hand placement. Hi
 
 "If we distribute it, you feed the narrative. You give them oxygen. You make them bigger than they are. We say nothing. We investigate quietly. We find them. Then we announce we've found them. No message. No broadcast. No platform."
 
+The official looks uncomfortable.
+
+"The director of France TV wants to broadcast a special report. Tonight. 8 PM. He's saying the public deserves to know."
+
+Thomas doesn't argue. He already knows the outcome.
+
+"Let him broadcast. Make a copy. Distribute it however he wants. By tonight, this video will be everywhere anyway. Better to control it than fight it. But understand what you're doing: you're giving Yasmine a platform. You're making her famous. You're spreading her message to every television in France."
+
 Moreau nods. He understands.
 
 "The third bomb," Thomas continues. "Where is it?"
