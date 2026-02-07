@@ -11,17 +11,9 @@ Nobody is in charge. Everyone is in charge. It's France.
 
 He parks the bike illegally. Three other motorcycles are parked illegally next to it. Police see him. Don't care. The key comes out. The engine dies. Silence. The bike ticks as it cools.
 
-Thomas walks toward the command center. His phone rings. Work phone. Moreau.
+Thomas walks toward the command center. He's thinking about the geometry. The tunnel under Paris. Modern. Limestone-based. Still fragile. The middle car trapped between Châtelet and Saint-Lazare for three kilometers. A tomb. But a tomb they can open. If they're careful. If they're fast.
 
-"Where are you?"
-
-"Walking in now."
-
-"They're saying the middle car is completely dark. No power. They're trying to establish communication through the tunnel walls."
-
-Thomas doesn't respond. He's thinking about the geometry. The tunnel under Paris. Modern. Limestone-based. Still fragile. The middle car trapped between Châtelet and Saint-Lazare for three kilometers. A tomb. But a tomb they can open. If they're careful. If they're fast.
-
-He hangs up. Keeps walking.
+He reaches the fire trucks.
 
 ---
 
