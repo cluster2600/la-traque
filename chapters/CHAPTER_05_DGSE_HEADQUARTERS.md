@@ -97,17 +97,29 @@ The briefing ends.
 
 Thomas is in his temporary office. A desk. A chair. A phone. A computer with secure connection. This is where he'll spend the next seventy-two hours. Maybe longer. Maybe until he finds them.
 
-Moreau enters.
+Moreau enters with a file.
 
-"The third bomb was real," Moreau says. "Technical analysis confirms it. It was supposed to detonate. The timer failed at 6:09 AM. Seven minutes after detonation of the second device."
+"Explosives analysis is complete," Moreau says. "Both devices used the same construction method. Military-grade Semtex. Professional detonation timing. The placement was calculated. Not random. They knew exactly where to place them for maximum effect."
 
-"Lucky," Thomas says.
+"Origin?" Thomas asks.
 
-"Very lucky."
+"Eastern Europe. Bulgaria most likely. The chemical signature matches Semtex sold through Bulgarian channels in the 1990s. Someone with access to that supply chain. Someone with military or intelligence background. Someone who knows how to build these devices."
 
-"That luck ends when they place the fourth bomb," Thomas says. "That one won't have a faulty timer."
+"Malik Benhadj?" Thomas asks.
 
-"You think they'll place another?"
+"Possible. He served. Could have connections. But we need confirmation."
+
+Thomas nods. The explosives tell a story. This cell has resources. This cell has training. This cell isn't amateur hour.
+
+"What about the devices themselves? Construction quality?"
+
+"Professional. Whoever assembled these knew what they were doing. Timing circuits, pressure triggers, Semtex mixture. All precision work. This isn't someone from YouTube tutorials. This is someone trained. Military or paramilitary."
+
+Thomas thinks about this. Professional explosives. Eastern European sourcing. Military training. This cell has capability. This cell has backing.
+
+"And they'll do it again," Thomas says. "They said they would."
+
+"You think they'll place another?" Moreau asks.
 
 "I know they will. They said they would."
 
