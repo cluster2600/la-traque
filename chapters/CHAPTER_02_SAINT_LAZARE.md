@@ -33,13 +33,23 @@ Thomas follows him through the city. Keeps distance. The target goes to work. Co
 
 One afternoon, Thomas is at Starbucks on Omotesando. Watching the street. Watching the target's building across the way.
 
-A girl sits at the next table. She's young. Maybe nineteen. Japanese face. French accent. She's reading Sartre. "L'Être et le Néant." In the original French. In a Starbucks. On a Wednesday afternoon.
+A girl sits at the next table. She's young. Maybe nineteen. Japanese face. She's reading Sartre. "L'Être et le Néant." In the original French. In a Starbucks. On a Wednesday afternoon.
 
-Thomas notices because his job is noticing. He catalogs her. Appearance. Behavior. Accent. Likelihood of being connected to the target.
+Thomas notices because his job is noticing. He catalogs her. Appearance. Behavior. Likelihood of being connected to the target.
 
 She looks up. Makes eye contact. Smiles.
 
+"Excuse me. Does this café have WiFi?"
+
+French accent. Not quite French. Something Canadian underneath.
+
 Thomas doesn't smile back. But he notices this too.
+
+"Yes," he says. "Password is on the receipt."
+
+She nods. Goes back to her book.
+
+Later, she orders an espresso. The barista speaks Japanese. She responds in Japanese. Then switches to French with the next customer. English with the one after.
 
 Her name is Taka. She's a student at Lycée français de Tokyo. Her father is Japanese. Her mother is French-Canadian. She speaks four languages. She laughs at the right moments. She asks questions that suggest intelligence.
 
