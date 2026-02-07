@@ -43,37 +43,37 @@ July 25, 1995. 4:45 PM.
 
 Thomas is sixteen years old. He's at a café in the 5th arrondissement. With other friends from summer. A group of them had met at a colony de vacances. Summer camp. They'd promised to meet in Paris after the vacation ended. One last time together before life separated them.
 
-Jérôme was supposed to be there. He was late. Very late. By 4:55 PM, he called Thomas's parents' apartment. Thomas answered. Jérôme's voice was rushed.
+Jérôme was supposed to be there. He was late. Very late. By 4:55 PM, he called Thomas's parents' apartment (landline). Thomas's mother answered. Jérôme's voice was rushed.
 
-"I'm sorry. I'm late. My parents wanted to talk. Can we meet somewhere else? Somewhere closer?"
+"Is Thomas there?"
 
-"Where?" Thomas asked.
+"No, he's at a café with friends. Can I take a message?"
 
-"Saint-Michel. I'm calling from home. I can be there in ten minutes. At the Métro entrance. Okay?"
+"Tell him I'm running late. Ask him to meet me at Saint-Michel Métro instead. I can be there in ten minutes. At the entrance."
 
-Thomas said okay.
+Thomas's mother wrote it down. She told Thomas when he called from the café at 5:05 PM to check in.
 
-Jérôme was sixteen. He was always late. He always apologized. He always had reasons. But he always showed up.
+Thomas said okay. Jérôme was always late. He always apologized. He always had reasons. But he always showed up.
 
 Thomas told the others. Said he'd go meet Jérôme. He'd catch up with them later. The others said fine. They stayed at the café.
 
-Thomas waited. The others chatted. Time passed. Five more minutes. Ten more minutes.
+Thomas left the café at 5:10 PM. He was walking toward the Métro when his mother found him. She'd left the apartment to come get him. They were heading to the station when the sirens started.
 
-Around 5:15 PM, Thomas's parents called. They wanted to know where he was. He told them he was at the café with friends. They said to stay put. They were coming to get him.
+Around 5:20 PM, they heard the news on the street. People running. Radios. Saint-Michel. An explosion. The RER B.
 
-The television was on in the café. Some news program. Then the interruption. Breaking news. An explosion. The Métro. Saint-Michel station. The RER B. Multiple casualties.
+Thomas and his mother stood on the street. People running. Cars stopping. Radio reports. Eight dead. One hundred fifty injured. The RER B. Saint-Michel.
 
-Thomas didn't move for three minutes.
+Thomas was supposed to be there. He was supposed to be on that train.
 
-Then he called his parents.
+But Jérôme called. Jérôme was late. Jérôme asked to reschedule. Jérôme took that train instead.
 
-They told him to stay put. They were coming to get him.
+The police were already setting up cordons. Thomas's mother pulled him away. They went to the police station to give a statement. Thomas told them about Jérôme. About the call. About meeting at Saint-Michel. About being five minutes away when the bomb went off.
 
-The phone lines jammed. The reports kept coming. Eight dead. One hundred fifty injured. No names yet. Bodies being removed from the wreckage.
+The phone lines at the station jammed with families calling. Trying to find out if loved ones were on the train.
 
-Thomas sat in the café and waited.
+Thomas waited with his mother. Hours passed. The reports kept coming. Eight confirmed dead. One hundred fifty injured. No names yet. Bodies being removed and taken to hospitals and morgues.
 
-Around midnight, a police officer approached him. Asking if he knew anyone on the train. Thomas said his friend was supposed to be there. Jérôme. He gave his name. The officer took notes.
+Around midnight, a police officer approached Thomas. Asking if he knew anyone on the train. Thomas said his friend was supposed to be there. Jérôme. He gave his name. The officer took notes.
 
 The next morning, his parents brought him to the police station. They asked him to identify the body. But identification was complicated. The bomb had been under a strapontin. A fold-down seat. Jérôme had been sitting on it. The blast was direct. The body was difficult to identify visually.
 
