@@ -220,12 +220,21 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - Intellectual vanity is his weakness
 - Confronts Thomas with uncomfortable truth: they are the same
 
-**Inès van der Meer**
+**Inès van der Meer** (Status: Shot during catacombs, critically wounded)
 - Age 44, Dutch-Belgian
 - Financier and facilitator
 - Money and logistics, cynical pragmatism
 - Not a believer, not a warrior
 - Her humanity is her vulnerability
+
+**The Financier** (Third arc victim)
+- Old fat man (name TBD)
+- Escaped to Switzerland (Zug canton)
+- Wealthiest enclave, tax haven, extreme privacy
+- Found in orgy with young Eastern European prostitutes
+- Exploitation and corruption on display
+- Final target: Drowned in Lake Zugersee by Thomas
+- Represents pure greed (unlike Yasmin's ideology)
 
 ---
 
