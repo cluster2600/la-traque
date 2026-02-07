@@ -21,9 +21,11 @@ Thomas is already moving.
 
 "We go now."
 
-The drive to France TV headquarters takes twelve minutes. Thomas doesn't ride the MV Agusta. Moreau drives. A black Peugeot. Fast but not reckless. Precision like everything else.
+The drive to France TV headquarters is fast. Sirens screaming. Two police motorcycles in front. Two behind. Red lights cutting through morning traffic. Paris parts around them. Officers on radios clearing the way. A black Peugeot in the middle. Moreau driving. Thomas in the passenger seat. Eyes forward.
 
-The France TV building is concrete and glass. Modern. Built in the 2000s. The security is tight. Police at every entrance. News crews are already arriving. The rumor spreads fast in Paris. The attack was hours ago. Now there's a message. Now there's proof of intent.
+Twelve minutes. The sirens don't stop until they arrive.
+
+The France TV building is concrete and glass. Modern. Built in the 2000s. The security is tight. Police at every entrance. News crews are already arriving. Officers with riot gear. The rumor spreads fast in Paris. The attack was hours ago. Now there's a message. Now there's proof of intent. Now there's an escort arriving with sirens.
 
 The head of security meets them. Nervous. Over his head.
 
