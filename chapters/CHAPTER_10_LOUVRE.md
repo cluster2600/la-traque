@@ -1,7 +1,7 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 10: LOUVRE
 
-The truck is an Iveco. Heavy construction vehicle. Stolen from a warehouse in Bois-de-Vincennes three days ago. It's been hidden in a garage in the 13th arrondissement.
+The truck is an Iveco panel truck. Heavy construction vehicle. Stolen from a warehouse in Bois-de-Vincennes three days ago. It's been hidden in a garage in the 13th arrondissement. The cargo is loaded inside: four metric tons of TNT. Military-grade explosive. Packed in metal containers. Wired for remote detonation. Yasmine's final message to France.
 
 The driver is a man. Age thirty-four. Name is Karim. He has a wife. Two children. A job at a construction company. A life that was ordinary until Yasmine found him.
 
@@ -29,15 +29,15 @@ The truck slides sideways. It hits a café. It hits a ticket booth. It hits peop
 
 The explosion comes at 2:48 PM.
 
-The truck's fuel tank ruptures. The explosive package detonated by Yasmine remotely. The blast is enormous. The plaza is fire.
+Four metric tons of TNT detonate. Remote trigger. Yasmine's finger on the button. The blast is apocalyptic. The plaza ceases to exist. Just fire. Just wind. Just obliteration.
 
-Two hundred meters of damage radius. Everyone within it is dead or dying. Glass everywhere. Blood everywhere. Smoke everywhere.
+Three hundred meters of damage radius. Four hundred meters at ground zero. Everyone within it is dead. Vaporized. Disintegrated. The blast wave takes buildings blocks away.
 
 The pyramid collapses.
 
-The iconic symbol of Paris falls inward. Implodes. Becomes rubble.
+The iconic symbol of Paris falls inward. Implodes. Becomes rubble. The glass shatters into millions of pieces. The metal frame folds like paper. Four metric tons of TNT doesn't leave anything standing.
 
-By 3:00 PM, the casualty count is one hundred forty-seven dead. By 3:30 PM, it's two hundred twelve. By 4:00 PM, it's three hundred eighteen.
+By 3:00 PM, the casualty count is three hundred dead. By 3:30 PM, it's four hundred twelve. By 4:00 PM, it's four hundred seventy-eight.
 
 Hundreds more are injured. Hundreds more are missing. The identification of bodies will take days.
 
