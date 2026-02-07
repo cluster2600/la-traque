@@ -35,7 +35,7 @@ They go to a secure room. Editing suite. Professional equipment. A technician is
 
 Moreau reads the letter first. His jaw tightens.
 
-"It's a statement. Demands. They claim responsibility. Three bombs. Two detonated, one failed." He looks up. "There's more coming. They're naming demands."
+"It's a statement. Demands. They claim responsibility. This is the message they're sending." He looks up. "There's more coming. They're naming demands."
 
 "What demands?" Thomas asks.
 
@@ -63,7 +63,7 @@ It's a man. Mid-thirties. Dark hair. Dark eyes. He's sitting in front of a black
 
 "France has never apologized. France has never said 'we were wrong.' France has never said 'sorry for the children. Sorry for the blood. Sorry for the mothers who lost everything in the tunnels of Algiers and the mountains of Kabylie.'
 
-"We have sent a message. More will come. Soon. Very soon. More will follow until France says the words: 'We apologize for the colonization of Algeria. We apologize for the genocide. We apologize for the torture.'
+"We have sent this message. More will come. Soon. Very soon. More will follow until France says the words: 'We apologize for the colonization of Algeria. We apologize for the genocide. We apologize for the torture.'
 
 "Only then will this stop. Only then will France know the darkness it created."
 
@@ -137,7 +137,7 @@ The Director is waiting. He's been briefed already. The DVD has been forwarded. 
 
 Thomas sits. The Director sits.
 
-"Four to seven person cell. At least one is Algerian based on accent. At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed three bombs. Two detonated. One is still waiting. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
+"Four to seven person cell. At least one is Algerian based on accent. At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed bombs in Métro 14. At least two detonated. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
 
 "Or until we stop them," the Director says.
 
