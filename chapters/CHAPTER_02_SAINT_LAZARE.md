@@ -29,9 +29,9 @@ It's raining in Tokyo. It's always raining in Tokyo. Thomas is 26 years old and 
 
 The target is Chirac's son. Age seventeen. His mother is Japanese. The son is a student at Lycée français de Tokyo. Thomas follows him to the school. Watches. Keeps distance. Nothing suspicious. Nothing worth the effort.
 
-One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's young. Maybe twenty-five. Japanese face. She orders in perfect Japanese. Switches to French with the barista. Then English with the next person in line.
+One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's tall. Very tall. Japanese features. Dark hair. She orders in perfect Japanese. Switches to French with the barista. Then English with the next person in line.
 
-Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Her father is Japanese. Her mother is French-Canadian. She teaches French literature. She covers classes when the regular teachers are absent.
+Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Full Japanese. Born in Quebec to Japanese parents. Lived there until age fifteen. Then moved to Tokyo with her family. Fluent in French, Japanese, and English. She teaches French literature. She covers classes when the regular teachers are absent.
 
 Thomas notices her because his job is noticing. She works at the school. She could be connected to the target. She could be anything.
 
@@ -49,7 +49,7 @@ She smiles. "How did you know?"
 
 She laughs. "That's a weird superpower."
 
-Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Being between worlds. Speaking French at home, Japanese in the classroom, English everywhere else. Never quite belonging to any country. Always being a little bit foreign.
+Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Born in Quebec. French-speaking childhood. Then Tokyo at fifteen. Japanese family, French education, living in Japan. Speaking French to her parents. Japanese to everyone else. English as the bridge. Never quite belonging to any country. Always being a little bit foreign.
 
 He understands this. His childhood in Normandy was foreign. Rhodesia haunted it. His Navy training was foreign. Intelligence work is foreign. Everything is foreign.
 
