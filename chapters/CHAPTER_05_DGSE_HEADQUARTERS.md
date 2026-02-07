@@ -7,7 +7,7 @@ The Director sits at the head. Bruno Léger. Sixty-two years old. Former field a
 
 To his right is the Deputy Director. Intelligence Operations. To the left is the Minister's representative. Young. Political. Nervous.
 
-Across from them are the team leads. Counter-terrorism. Middle East division. Russia and Caucasus division. Financial crimes. Technical analysis.
+Across from them are the team leads. Counter-terrorism. Middle East division. Maghreb division. Financial crimes. Technical analysis.
 
 Thomas enters. Everyone's attention shifts to him.
 
@@ -57,9 +57,9 @@ Nobody has an answer.
 
 "There's a reason. There's always a reason. It's either logistical or it's personal. Either the cell has easy access to that line or that line means something to them. I need to know which."
 
-He looks at the Russia and Caucasus lead.
+He looks at the Maghreb lead.
 
-"I need profiles on every known Chechen-Russian cell operating in Europe. I need travel patterns. I need financial flows. I need anyone with explosives training. I need anyone with Paris connections."
+"I need profiles on every known Algerian cell operating in Europe. I need travel patterns. I need financial flows. I need anyone with explosives training. I need anyone with Paris connections."
 
 "We'll have preliminary reports by tomorrow," the lead says.
 
@@ -145,11 +145,11 @@ He underlines it twice.
 
 **Chapter 5 Notes:**
 - DGSE headquarters briefing room (Director Bruno Léger)
-- Attendees: Deputy Director, Minister's representative, Counter-terrorism lead, Middle East division, Russia/Caucasus division, Financial crimes, Technical analysis
-- Thomas's assessment: 4-7 person cell, Chechen-Russian speaker, political ideology (Algeria apology demand)
+- Attendees: Deputy Director, Minister's representative, Counter-terrorism lead, Middle East division, Russia/Maghreb division, Financial crimes, Technical analysis
+- Thomas's assessment: 4-7 person cell, Algerian speaker, political ideology (Algeria apology demand)
 - Third bomb was real but had faulty timer (mechanical luck)
 - Key intelligence: Métro 14 location is either logistical or personal (not random)
-- Resource mobilization: financial traces, travel records, communications monitoring, Chechen/diaspora investigation
+- Resource mobilization: financial traces, travel records, communications monitoring, Algerian/diaspora investigation
 - Thomas's order: Find why Métro 14 specifically
 - Thomas meets with survivors for eyewitness testimony
 - First name emerges from financial analysis: Marko Sladović (Serbian, operations specialist)

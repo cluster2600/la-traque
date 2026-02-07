@@ -107,7 +107,7 @@ Thomas already knows there's a third bomb. He doesn't need to be told. If there 
 
 He's already thinking about the cell. Four people minimum. Could be five. Could be seven. One is the speaker. One placed the bombs. One is the logistics. One is the money. One might be the planner.
 
-The speaker has a Chechen accent. Possibly Chechen-Russian. Possibly Caucasus background. The ideology is anti-colonial. The target is French. The message mentions Algeria specifically.
+The speaker has an Algerian accent. Possibly Algerian diaspora. Possibly Maghreb background. The ideology is anti-colonial. The target is French. The message mentions Algeria specifically.
 
 This is political. This is personal. This is someone's war.
 
@@ -125,13 +125,13 @@ The Director is waiting. He's been briefed already. The DVD has been forwarded. 
 
 "Dieudegard," the Director says. "What do you need?"
 
-"Full mobilization," Thomas says. "All available agents. All contacts in the Maghreb, Caucasus, Russia. I want financial records. I want travel records. I want names."
+"Full mobilization," Thomas says. "All available agents. All contacts in the Maghreb. I want financial records. I want travel records. I want names."
 
 "We're already on it. The question is: what's your theory?"
 
 Thomas sits. The Director sits.
 
-"Four to seven person cell. At least one is Chechen-Russian based on accent. At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed three bombs. Two detonated. One is still waiting. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
+"Four to seven person cell. At least one is Algerian based on accent. At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed three bombs. Two detonated. One is still waiting. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
 
 "Or until we stop them," the Director says.
 
@@ -154,7 +154,7 @@ He already knows where to start.
 - Thomas doesn't participate in tunnel rescue (hands off to team, leaves for TV HQ)
 - Views the video: speaker demands French apology for Algerian colonization
 - Third bomb threat mentioned (creates urgency)
-- Thomas's assessment: 4-7 person cell, Chechen-Russian element, political ideology
+- Thomas's assessment: 4-7 person cell, Algerian element, political ideology
 - Decision: suppress public distribution of message (don't feed narrative)
 - Transition to DGSE headquarters for official briefing and resource mobilization
 - Director gives Thomas full authority to investigate
