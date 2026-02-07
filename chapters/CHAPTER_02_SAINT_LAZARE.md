@@ -23,27 +23,31 @@ It's raining in Tokyo. It's always raining in Tokyo. Thomas is 26 years old and 
 
 The target is Chirac's son. Age seventeen. His mother is Japanese. The son is a student at Lycée français de Tokyo. Thomas follows him to the school. Watches. Keeps distance. Nothing suspicious. Nothing worth the effort.
 
-One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's tall. Very tall. Japanese features. Dark hair. She orders in perfect Japanese. Switches to French with the barista. Then English with the next person in line.
+One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's tall. Very tall. Japanese features. Dark hair. She orders in Japanese. Sits. Opens a book. "Les Fleurs du Mal" by Baudelaire. In French.
 
-Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Full Japanese. Born in Quebec to Japanese parents. Lived there until age fifteen. Then moved to Tokyo with her family. Fluent in French, Japanese, and English. She teaches French literature. She covers classes when the regular teachers are absent.
+Thomas notices because his job is noticing. She's reading French poetry in a Tokyo Starbucks. She's at the school. She could be connected to the target. She could be anything.
 
-Thomas notices her because his job is noticing. She works at the school. She could be connected to the target. She could be anything.
+She looks up from the book. Makes eye contact. Smiles.
 
-Over the next two weeks, Thomas observes her routine. Starbucks. School. Library. Home. Nothing suspicious. But also: intelligent. Observant. Careful.
+Thomas doesn't smile back. But he notices.
+
+Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Full Japanese. Born in Quebec to Japanese parents. Lived there until age fifteen. Then moved to Tokyo with her family. She teaches French literature. She covers classes when the regular teachers are absent.
+
+Over the next two weeks, Thomas observes her routine. Starbucks. School. Library. Home. Same book. Different pages. Nothing suspicious. But also: intelligent. Observant. Careful.
 
 By week three, he's certain she's not connected to the target. By week four, he's certain he wants to know her.
 
 He approaches her at Starbucks. Casual. Not surveillance. Just a man. Just a question.
 
-"You're at the school, aren't you? Lycée français?"
+"Les Fleurs du Mal," he says. "Baudelaire in Japanese."
 
-She smiles. "How did you know?"
+She smiles. "French. I read it in French. Better that way."
 
-"I recognize people. It's what I do."
+"Why?"
 
-She laughs. "That's a weird superpower."
+"Because Baudelaire deserves to be read in his own language. Even in Tokyo."
 
-Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Born in Quebec. French-speaking childhood. Then Tokyo at fifteen. Japanese family, French education, living in Japan. Speaking French to her parents. Japanese to everyone else. English as the bridge. Never quite belonging to any country. Always being a little bit foreign.
+Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Born in Quebec. French-speaking childhood. Then Tokyo at fifteen. Japanese family, French education, living in Japan. Never quite belonging to any country. Always being a little bit foreign.
 
 He understands this. His childhood in Normandy was foreign. Rhodesia haunted it. His Navy training was foreign. Intelligence work is foreign. Everything is foreign.
 
