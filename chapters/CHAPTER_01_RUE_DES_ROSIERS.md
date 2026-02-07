@@ -15,7 +15,7 @@ Thomas doesn't ask questions yet. He waits. This is how it works. Moreau talks. 
 
 "Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. Two separate train cars. First reports came in four minutes ago."
 
-Thomas sets down the phone on speaker. He's already getting out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess. He bought it in 2000. Twenty-three years ago. The year after Jérôme died was a few years back then. The apartment has been his anchor ever since. Precision. Order. Control.
+Thomas sets down the phone on speaker. He's already getting out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess. He bought it in 2000. Twenty-three years ago. Five years after Jérôme died. The apartment has been his anchor ever since. Precision. Order. Control.
 
 "How many casualties?" Thomas asks, moving to the closet.
 
@@ -33,7 +33,9 @@ He pulls on black tactical pants. Black shirt. Boots. The clothes he keeps ready
 
 "We need you coordinating from the command center. Not on-site."
 
-Thomas doesn't respond. He's already heading out the door. He grabs the keys to the MV Agusta Brutale. Four cylinders. Dark metal. Italian precision. The bike is waiting in the courtyard. Always ready.
+Thomas doesn't respond. He's already heading out the door. He grabs the keys to the MV Agusta Brutale. Four cylinders. Dark metal. Italian precision. The bike is parked in the courtyard below. Always ready.
+
+He moves down the stairs. Fast. The Brutale is waiting. He kicks the engine alive. The sound echoes in the courtyard. 6:14 AM. Empty Paris. He opens the throttle and moves toward the Métro.
 
 ---
 
@@ -57,15 +59,15 @@ Thomas said okay. Jérôme was always late. He always apologized. He always had 
 
 Thomas told the others. Said he'd go meet Jérôme. He'd catch up with them later. The others said fine. They stayed at the café.
 
-Thomas left the café at 5:10 PM. He was walking toward the Métro when his mother found him. She'd left the apartment to come get him. They were heading to the station when the sirens started.
+Thomas left the café at 5:10 PM. He was walking toward the Métro when his mother came out of an apartment building. She'd left the apartment to come get him. She wanted him home. They were heading to the Métro entrance when the sirens started.
 
-Around 5:20 PM, they heard the news on the street. People running. Radios. Saint-Michel. An explosion. The RER B.
-
-Thomas and his mother stood on the street. People running. Cars stopping. Radio reports. Eight dead. One hundred fifty injured. The RER B. Saint-Michel.
+Around 5:20 PM, they heard the news on the street. People running. Cars stopping. Radio reports. Saint-Michel. An explosion. The RER B.
 
 Thomas was supposed to be there. He was supposed to be on that train.
 
 But Jérôme called. Jérôme was late. Jérôme asked to reschedule. Jérôme took that train instead.
+
+Thomas and his mother stood on the street. People running. Chaos. Radio reports. Eight dead. One hundred fifty injured. The RER B. Saint-Michel.
 
 The police were already setting up cordons. Thomas's mother pulled him away. They went to the police station to give a statement. Thomas told them about Jérôme. About the call. About meeting at Saint-Michel. About being five minutes away when the bomb went off.
 
@@ -81,7 +83,7 @@ They used dental records. Dental records took two days.
 
 Two days of not knowing. Two days of hoping. Two days of the mathematics being impossible.
 
-On day three, it was confirmed. Jérôme was dead. One of eight. Sitting on a strapontin. Waiting for Thomas. Thomas was safe. At the café. With the others. Waiting for Jérôme to show up.
+On day three, it was confirmed. Jérôme was dead. One of eight. Sitting on a strapontin. Waiting for Thomas. Thomas was safe. On the street. With his mother. Five minutes away from death.
 
 Jérôme was late by five minutes. He took a train that had a bomb on it. He sat on a seat that was directly above the bomb. The bomb detonated. The mathematics of death are impossible.
 
@@ -93,7 +95,7 @@ Twenty-three years later, he hasn't forgotten. He's still not sure if it was luc
 
 ---
 
-Thomas is in the car now. Driving fast through empty Paris streets. The radio is on. The news keeps talking. Métro 14. Two explosions. Multiple trains. Hundreds of casualties. Numbers are climbing. The reports are fragmenting. Nobody knows how many are dead.
+Thomas is on the motorcycle now. Driving fast through empty Paris streets. The radio is on. The news keeps talking. Métro 14. Two explosions. Multiple trains. Hundreds of casualties. Numbers are climbing. The reports are fragmenting. Nobody knows how many are dead.
 
 Thomas knows it's bad.
 
@@ -111,9 +113,10 @@ Always.
 
 **END CHAPTER 1**
 
-**Word count:** ~1,900 words (7-8 pages)
-**Style:** Lee Child (present tense, sparse description, dialogue-driven)
-**Opening:** Phone call (immediate urgency)
-**Apartment detail:** Bought in 2000 (23 years ago, anchor point)
-**Flashback:** Saint-Michel 1995 (Jérôme's death, strapontin detail, body ID 2 days)
-**Themes:** Randomness, timing, control through discipline
+**Word count:** ~2,000 words (8 pages)  
+**Style:** Lee Child (present tense, sparse description, dialogue-driven)  
+**Transport:** MV Agusta Brutale motorcycle ONLY (no car)  
+**Opening:** Phone call (immediate urgency)  
+**Apartment:** Bought in 2000 (anchor point)  
+**Flashback:** Saint-Michel 1995 (Jérôme, strapontin, 2 days ID, landlines only)  
+**Themes:** Randomness, timing, five-minute margins, cosmic chance
