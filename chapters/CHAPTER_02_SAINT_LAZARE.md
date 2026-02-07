@@ -27,7 +27,7 @@ He hangs up. Keeps walking.
 
 It's raining in Tokyo. It's always raining in Tokyo. Thomas is 26 years old and he's been in the city for three weeks. The embassy posting is nominal. Attaché. Political affairs. It's a cover. His real work is surveillance.
 
-The target is Chirac's son. Age thirty-two. His mother is Japanese. The son works as a director at the Lycée français de Tokyo. Thomas follows him to the school. Watches. Keeps distance. Nothing suspicious. Nothing worth the effort.
+The target is Chirac's son. Age seventeen. His mother is Japanese. The son is a student at Lycée français de Tokyo. Thomas follows him to the school. Watches. Keeps distance. Nothing suspicious. Nothing worth the effort.
 
 One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's young. Maybe twenty-five. Japanese face. She orders in perfect Japanese. Switches to French with the barista. Then English with the next person in line.
 
