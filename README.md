@@ -21,7 +21,7 @@ Thomas Dieudegard, 40, is a former French Navy captain (Capitaine de Corvette) a
 
 On a February morning in 2018, three bombs are placed in Métro Line 14 between Châtelet and Saint-Lazare stations. Two detonate. The middle car goes dark with 43+ civilians trapped inside. Thomas coordinates the rescue operation.
 
-But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's best friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Jérôme was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). The delay of being lost on the way to the meeting saved Thomas's life. It killed Jérôme.
+But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's best friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at the summer meeting with their friend group. Jérôme was late and missed it. He decided to take the RER B train to join them later. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by simply being at the right place at the right time. Jérôme died for being late.
 
 Now, as Thomas rescues strangers from darkness, he's also hunting the terrorist cell responsible. His investigation leads him to Yasmin Aliyev, a Chechen-Russian cell leader, and three other conspirators. What starts as a professional duty becomes a personal obsession — a second chance to save lives, to prevent the next thirty-minute delay from killing another Jérôme.
 
@@ -63,8 +63,12 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - **Best Friend:** Jérôme (no last name given in outline)
 - **Date of Death:** July 25, 1995 (Saint-Michel RER B bombing)
 - **Thomas's Age:** 16 years old
-- **The Delay:** Thomas got lost on the way to meet Jérôme at the Métro station. He was taking a wrong turn that cost him 5+ minutes. By the time he realized his mistake, he was at a different entrance. He decided to go home and reschedule. That confusion saved his life. Jérôme waited at Saint-Michel and died on a strapontin directly above the bomb. Body identification took 2 days (dental records).
-- **Psychological Impact:** Drives entire adult life. Obsession with prevention, order, control. Fear of randomness and chance. Determination to save lives to balance the cosmic equation of Jérôme's death. Not fear of being late, but fear of the randomness that decides who lives and dies.
+- **The Meeting:** Summer group of friends met at a café (colony de vacances reunion). Thomas was there. Jérôme was LATE.
+- **Jérôme's Choice:** Jérôme called Thomas's parents' apartment. He apologized for being late. Asked to reschedule at a different location (Saint-Michel Métro, closer to home). Thomas said okay.
+- **The Bomb:** Jérôme took the RER B train to Saint-Michel. He was on a strapontin (fold-down seat) directly above the bomb. The bomb detonated. He was one of 8 dead.
+- **The Randomness:** Thomas survived by being at the café. He didn't catch the train. Jérôme died because he was late to the first meeting and tried to catch up by taking that specific train at that specific time. Pure chance. Placement on the strapontin was pure chance.
+- **Body Identification:** Took 2 days (dental records required, bomb damage was extensive).
+- **Psychological Impact:** Drives entire adult life. Obsession with prevention, order, control. Discipline as a weapon against randomness. Determination to save lives, to prevent the next Jérôme from dying to chance. Not guilt about being late, but awareness that TIMING decides everything. Being 5 minutes early or late decides life or death. Thomas became obsessed with control, with seeing threats before they happen, with preventing randomness from taking anyone else.
 
 **Personality**
 - Quiet, observant, controlled
