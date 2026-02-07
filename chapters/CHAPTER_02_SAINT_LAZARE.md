@@ -5,7 +5,7 @@ The MV Agusta Brutale cuts through Paris traffic like a blade. Four cylinders sc
 
 He keeps the speedometer below 100. Just barely. The morning traffic parts. Drivers see the bike and move. It's not aggression. It's inevitability. A force moving through space. Nothing can stop it. Nothing should try.
 
-The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles everywhere. The street is chaos. Not organized chaos. French chaos. Three different agencies arguing about jurisdiction. Two ambulances parked in conflicting directions. A fire chief yelling at a police captain about who's in command. News crews trying to set up behind barriers that keep moving. Someone's radio is playing the national anthem. A taxi driver is trying to deliver a passenger to the station entrance. Firefighters standing with blueprints arguing about which floor is where. An old woman demanding to be let through because she has a 3:00 PM appointment at Sephora.
+The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles everywhere. The street is chaos. Not organized chaos. French chaos. Three different agencies arguing about jurisdiction. Two ambulances parked in conflicting directions. A fire chief yelling at a police captain about who's in command. News crews trying to set up behind barriers that keep moving. Someone's radio is playing the national anthem. A taxi driver is trying to deliver a passenger to the station entrance. Firefighters standing with blueprints arguing about which floor is where.
 
 Nobody is in charge. Everyone is in charge. It's France.
 
