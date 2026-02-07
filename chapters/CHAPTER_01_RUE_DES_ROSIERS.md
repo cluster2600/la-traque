@@ -45,19 +45,13 @@ July 25, 1995. 4:45 PM.
 
 Thomas is sixteen years old. He's at a café in the 5th arrondissement. With other friends from summer. A group of them had met at a colony de vacances. Summer camp. They'd promised to meet in Paris after the vacation ended. One last time together before life separated them.
 
-Jérôme was supposed to be there. He was late. Very late. By 4:55 PM, he called Thomas's parents' apartment (landline). Thomas's mother answered. Jérôme's voice was rushed.
+Jérôme was supposed to be there. He was late. Very late. By 5:00 PM, it was clear he wasn't coming.
 
-"Tell Thomas I'm running late. I'm sorry. I'll catch him later."
+Thomas waited. The others waited. By 6:00 PM, they gave up. They made other plans. They'd catch up with Jérôme later. He was always late anyway.
 
-That's all. No rescheduled meeting. No Saint-Michel. Just an apology for being late.
+Around 7:00 PM, Thomas's mother came to pick him up. She wanted him home. They drove back to Normandy that evening.
 
-Thomas's mother told Thomas when he called from the café at 5:05 PM to check in.
-
-Thomas said okay. Jérôme was always late. He always apologized. He always had reasons. But he always showed up.
-
-Thomas waited at the café with the others. They talked. They drank. They made plans for the rest of the evening. Around 7:00 PM, Thomas's mother came to pick him up. She wanted him home. They drove back to Normandy that evening.
-
-Thomas arrived home around 9:30 PM.
+Thomas arrived home around 9:30 PM. No calls. No messages. No way to know anything had happened.
 
 The next morning, his father came into his room. Early. Before Thomas was awake.
 
@@ -77,9 +71,9 @@ Thomas sat up. Slow.
 
 His father didn't have the answer yet.
 
-Later that day, Thomas's mother called Jérôme's mother. Found out. Jérôme had called that afternoon. Said he was running late to meet the friends. Apologized. Then he called back an hour later. Said he was taking the RER B to Saint-Michel to catch up with the group there.
+Later that day, Thomas's mother called Jérôme's mother. Found out the details. Jérôme had shown up at home late that afternoon. Said he was going to meet the friends in Paris. Took the RER B to Saint-Michel. He was on the 5:17 PM train. One of eight dead.
 
-But Thomas had already left. Already gone home to Normandy. Already safe.
+Thomas had already left Paris. Already driven to Normandy with his mother. Already safe in bed when the bomb detonated.
 
 Jérôme was on a train that had a bomb under a seat. A fold-down seat called a strapontin. Jérôme was sitting on it. One of eight dead.
 
