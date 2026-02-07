@@ -5,21 +5,21 @@ The MV Agusta Brutale cuts through Paris traffic like a blade. Four cylinders sc
 
 He keeps the speedometer below 100. Just barely. The morning traffic parts. Drivers see the bike and move. It's not aggression. It's inevitability. A force moving through space. Nothing can stop it. Nothing should try.
 
-The radio in his helmet crackles. Moreau's voice.
+The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles. The street is chaos. Organized chaos. But still chaos.
+
+He parks the bike illegally. Nobody's going to ticket him today. The key comes out. The engine dies. Silence. The bike ticks as it cools.
+
+Thomas walks toward the command center. His phone rings. Work phone. Moreau.
 
 "Where are you?"
 
-"Two minutes out."
+"Walking in now."
 
 "They're saying the middle car is completely dark. No power. They're trying to establish communication through the tunnel walls."
 
 Thomas doesn't respond. He's thinking about the geometry. The tunnel under Paris is limestone. Nineteenth-century work. Fragile. The middle car trapped between Châtelet and Saint-Lazare is basically a tomb. But it's a tomb they can open. If they're careful. If they're fast.
 
-The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles. The street is chaos. Organized chaos. But still chaos.
-
-He parks the bike illegally. Nobody's going to ticket him today. The key comes out. The engine dies. Silence. The bike ticks as it cools.
-
-Thomas walks toward the command center.
+He hangs up. Keeps walking.
 
 ---
 
