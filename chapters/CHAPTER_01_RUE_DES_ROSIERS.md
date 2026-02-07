@@ -1,17 +1,39 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 1: RUE DES ROSIERS
 
-The MV Agusta Brutale is parked in the courtyard. Four cylinders. Dark metal. Italian precision. Thomas walks past it every morning. Every morning he thinks about riding. Every morning he rides.
-
-5:47 AM. The alarm doesn't wake him. He's been awake for twenty minutes. The ceiling is white. The radiator ticks. Paris is still sleeping.
-
-He gets out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess. The walls are old. The wood is old. The building is old. Built in 1847. He knows this. He knows everything about the place he lives.
-
-The La Marzocco has already warmed. The machine wakes before he does. It's programmed that way. He programmed it that way. Precision. Order. The espresso pulls dark and thick. No sugar. No milk. Just the coffee. Black. Bitter. Real.
-
-He stands at the window with the cup and watches the street below. Rue des Rosiers. The Marais. Empty at this hour. A man walking a dog. A cyclist. The city waking up slow. Somewhere a siren. Probably ambulance. Probably nothing. Probably routine.
-
 The phone rings at 6:12 AM.
+
+Not his personal phone. His work phone. The encrypted one. The one that only rings when something is wrong.
+
+Thomas has been awake for twenty minutes. Lying in the dark. Ceiling is white. Radiator ticks. Paris is still sleeping. He doesn't reach for the phone immediately. He waits. Listening. Understanding. Then he answers.
+
+"Dieudegard."
+
+"It's Moreau. We have a situation."
+
+Thomas doesn't ask questions yet. He waits. This is how it works. Moreau talks. Thomas listens. Then Thomas moves.
+
+"Métro Line 14. Between Châtelet and Saint-Lazare. Multiple explosions reported. Two separate train cars. First reports came in four minutes ago."
+
+Thomas sets down the phone on speaker. He's already getting out of bed. Cold floor. Bare feet. The apartment is small. One bedroom. Living room. Kitchen. Bathroom. Everything minimal. Everything necessary. Nothing excess.
+
+"How many casualties?" Thomas asks, moving to the closet.
+
+"Unknown. Early estimates. The cars were packed. Morning commute. Heavy passenger load. Both cars are dark. No communication from either one. Emergency services are mobilizing."
+
+"How many passengers?" Thomas asks.
+
+"Estimates between one hundred fifty and three hundred per car."
+
+Three hundred. Per car. Two cars.
+
+He pulls on black tactical pants. Black shirt. Boots. The clothes he keeps ready. Always ready.
+
+"I'm moving. I'll be there in twelve minutes."
+
+"We need you coordinating from the command center. Not on-site."
+
+Thomas doesn't respond. He's already heading out the door. He grabs the keys to the MV Agusta Brutale. Four cylinders. Dark metal. Italian precision. The bike is waiting in the courtyard. Always ready.
 
 Not his personal phone. His work phone. The encrypted one. The one that only rings when something is wrong.
 
