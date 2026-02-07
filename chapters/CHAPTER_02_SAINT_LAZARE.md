@@ -5,9 +5,11 @@ The MV Agusta Brutale cuts through Paris traffic like a blade. Four cylinders sc
 
 He keeps the speedometer below 100. Just barely. The morning traffic parts. Drivers see the bike and move. It's not aggression. It's inevitability. A force moving through space. Nothing can stop it. Nothing should try.
 
-The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles. The street is chaos. Organized chaos. But still chaos.
+The Brutale turns onto Rue Saint-Lazare. Thomas can see the station entrance. Police. Fire brigade. Emergency vehicles everywhere. The street is chaos. Not organized chaos. French chaos. Three different agencies arguing about jurisdiction. Two ambulances parked in conflicting directions. A fire chief yelling at a police captain about who's in command. News crews trying to set up behind barriers that keep moving. Someone's radio is playing the national anthem. A taxi driver is trying to deliver a passenger to the station entrance. Firefighters standing with blueprints arguing about which floor is where. An old woman demanding to be let through because she has a 3:00 PM appointment at Sephora.
 
-He parks the bike illegally. Nobody's going to ticket him today. The key comes out. The engine dies. Silence. The bike ticks as it cools.
+Nobody is in charge. Everyone is in charge. It's France.
+
+He parks the bike illegally. Three other motorcycles are parked illegally next to it. Police see him. Don't care. The key comes out. The engine dies. Silence. The bike ticks as it cools.
 
 Thomas walks toward the command center. His phone rings. Work phone. Moreau.
 
@@ -17,7 +19,7 @@ Thomas walks toward the command center. His phone rings. Work phone. Moreau.
 
 "They're saying the middle car is completely dark. No power. They're trying to establish communication through the tunnel walls."
 
-Thomas doesn't respond. He's thinking about the geometry. The tunnel under Paris is limestone. Nineteenth-century work. Fragile. The middle car trapped between Châtelet and Saint-Lazare is basically a tomb. But it's a tomb they can open. If they're careful. If they're fast.
+Thomas doesn't respond. He's thinking about the geometry. The tunnel under Paris. Modern. Limestone-based. Still fragile. The middle car trapped between Châtelet and Saint-Lazare for three kilometers. A tomb. But a tomb they can open. If they're careful. If they're fast.
 
 He hangs up. Keeps walking.
 
