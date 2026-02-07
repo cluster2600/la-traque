@@ -99,11 +99,9 @@ He arrives at the command center at 6:26 AM.
 
 The chaos is organized but barely. Police. Fire brigade. Army liaisons. Medical personnel. Everyone trying to process what's happening.
 
-Two bombs. Two train cars. Hundreds of people trapped in darkness. And Thomas has to find who did this and stop them before the third bomb detonates.
+Two bombs. Two train cars. Hundreds of people trapped in darkness. And Thomas has to find who did this.
 
-Because there's always a third bomb.
-
-Always.
+That's all. That's enough.
 
 ---
 
