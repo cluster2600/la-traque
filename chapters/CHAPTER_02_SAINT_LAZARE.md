@@ -27,49 +27,39 @@ He hangs up. Keeps walking.
 
 It's raining in Tokyo. It's always raining in Tokyo. Thomas is 26 years old and he's been in the city for three weeks. The embassy posting is nominal. Attaché. Political affairs. It's a cover. His real work is surveillance.
 
-The target is Chirac's son. Age thirty-two. His mother is Japanese. His father pulled strings to keep him out of the French press. Thomas is here to verify something. No one will say what.
+The target is Chirac's son. Age thirty-two. His mother is Japanese. The son works as a director at the Lycée français de Tokyo. Thomas follows him to the school. Watches. Keeps distance. Nothing suspicious. Nothing worth the effort.
 
-Thomas follows him through the city. Keeps distance. The target goes to work. Comes home. Meets with people. Nothing suspicious. Nothing worth the effort.
+One afternoon, Thomas is at Starbucks near the school. Waiting. Watching. A woman comes in. She's young. Maybe twenty-five. Japanese face. She orders in perfect Japanese. Switches to French with the barista. Then English with the next person in line.
 
-One afternoon, Thomas is at Starbucks on Omotesando. Watching the street. Watching the target's building across the way.
+Her name is Taka. She's a replacement teacher at Lycée français de Tokyo. Her father is Japanese. Her mother is French-Canadian. She teaches French literature. She covers classes when the regular teachers are absent.
 
-A girl sits at the next table. She's young. Maybe nineteen. Japanese face. She's reading Sartre. "L'Être et le Néant." In the original French. In a Starbucks. On a Wednesday afternoon.
+Thomas notices her because his job is noticing. She works at the school. She could be connected to the target. She could be anything.
 
-Thomas notices because his job is noticing. He catalogs her. Appearance. Behavior. Likelihood of being connected to the target.
+Over the next two weeks, Thomas observes her routine. Starbucks. School. Library. Home. Nothing suspicious. But also: intelligent. Observant. Careful.
 
-She looks up. Makes eye contact. Smiles.
+By week three, he's certain she's not connected to the target. By week four, he's certain he wants to know her.
 
-"Excuse me. Does this café have WiFi?"
+He approaches her at Starbucks. Casual. Not surveillance. Just a man. Just a question.
 
-French accent. Not quite French. Something Canadian underneath.
+"You're at the school, aren't you? Lycée français?"
 
-Thomas doesn't smile back. But he notices this too.
+She smiles. "How did you know?"
 
-"Yes," he says. "Password is on the receipt."
+"I recognize people. It's what I do."
 
-She nods. Goes back to her book.
+She laughs. "That's a weird superpower."
 
-Later, she orders an espresso. The barista speaks Japanese. She responds in Japanese. Then switches to French with the next customer. English with the one after.
+Over the next weeks, they talk. At Starbucks. At the school gates. At restaurants. She tells him about her life. Being between worlds. Speaking French at home, Japanese in the classroom, English everywhere else. Never quite belonging to any country. Always being a little bit foreign.
 
-Her name is Taka. She's a student at Lycée français de Tokyo. Her father is Japanese. Her mother is French-Canadian. She speaks four languages. She laughs at the right moments. She asks questions that suggest intelligence.
+He understands this. His childhood in Normandy was foreign. Rhodesia haunted it. His Navy training was foreign. Intelligence work is foreign. Everything is foreign.
 
-Over the next six weeks, Thomas sees her at Starbucks. Same table. Same time. Same book, different pages.
-
-It might be coincidence. Thomas doesn't believe in coincidence.
-
-By week seven, he's certain she's not connected to the target. By week eight, he's certain he wants to see her again.
+Maybe that's why they fit.
 
 By week twelve, they're in a hotel room overlooking the Shinjuku skyline. She's sleeping. Thomas watches the city lights reflect in her eyes. He's thinking about the mission. He's thinking about duty. He's thinking about how easily duty can be compartmented when you're good at your job.
 
 When you're very good.
 
 He doesn't tell her about the mission. He tells her about Normandy. About his family. About the wine his mother lost in Rhodesia. He tells her about his brother Louis and his sister Victoire. He tells her everything except the one thing that matters.
-
-She tells him about her life in Tokyo. About being between worlds. About speaking French at home and Japanese at school and English everywhere else. About never quite belonging to any country. About always being a little bit foreign.
-
-He understands this. His childhood in Normandy was foreign. Rhodesia haunted it. His Navy training was foreign. Intelligence work is foreign. Everything is foreign.
-
-Maybe that's why they fit.
 
 The mission ends in March 2005. Thomas gets recalled. The target was Chirac's son. Nothing criminal. Just verification. Just paranoia. Just politics.
 
