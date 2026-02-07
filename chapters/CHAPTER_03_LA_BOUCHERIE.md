@@ -1,7 +1,7 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 3: LA BOUCHERIE
 
-The tunnel mouth is black. The probe lights cut through but they don't reach far. Just ten meters ahead. Then darkness swallows everything. Thomas walks slowly. The team behind him follows. Three firefighters. One medic. One structural engineer. Everyone breathing heavy. Everyone trying not to think about the weight of Paris above them.
+The tunnel mouth is black. The probe lights cut through but they don't reach far. Just ten meters ahead. Then darkness swallows everything. Thomas walks slowly. The team behind him follows. Three firefighters. One medic. One structural engineer. Everyone breathing heavy. Everyone trying not to think about the weight of Paris above them. Line 14 is the deepest tunnel in Paris. Fifty meters down. Fifty meters of limestone and earth and city pressing down. The air is cold. The walls are weeping. Everything wants to collapse.
 
 The first body is thirty meters in.
 
