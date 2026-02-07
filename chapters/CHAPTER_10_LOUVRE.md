@@ -1,11 +1,11 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 10: LOUVRE
 
-The truck is a Renault. Eighteen-wheel cargo hauler. Stolen from a warehouse in Bois-de-Vincennes three days ago. It's been hidden in a garage in the 13th arrondissement. Wait.
+The truck is an Iveco. Heavy construction vehicle. Stolen from a warehouse in Bois-de-Vincennes three days ago. It's been hidden in a garage in the 13th arrondissement.
 
-The driver is a man. Age thirty-four. Name is Karim. He has a wife. Two children. A job at a construction company. A life that was ordinary until Yasmin found him.
+The driver is a man. Age thirty-four. Name is Karim. He has a wife. Two children. A job at a construction company. A life that was ordinary until Yasmine found him.
 
-Yasmin gave him a choice: die for nothing, or die for something. Die for France to remember.
+Yasmine gave him a choice: die for nothing, or die for something. Die for France to remember.
 
 Karim chose to die for something.
 
@@ -13,13 +13,13 @@ At 2:47 PM on a Wednesday, Karim drives the truck toward the Louvre. The plaza i
 
 The pyramid that represents France's new identity. Modern. Glass. Transparent. Open to the world.
 
-Karim drives.
+Karim drives at controlled speed. Sixty kilometers per hour. No acceleration. No ramming. Just steady. Just forward.
 
-The truck accelerates. Seventy kilometers per hour. Eighty. Ninety. The brakes are disconnected. Yasmin made sure of that. The accelerator is jammed. The steering wheel is lashed to go straight.
+The brakes are disconnected. Yasmine made sure of that. The accelerator maintains 60 km/h. The steering wheel is lashed to go straight toward the pyramid.
 
 Karim sits in the cab. He's praying. In Arabic. To a God he hasn't spoken to in ten years. But now he's speaking. Now he's asking for forgiveness. Now he's asking for his children to forgive him.
 
-The truck hits the plaza at 102 kilometers per hour.
+The truck hits the plaza at 60 kilometers per hour.
 
 The pyramid is in the way. The truck doesn't stop. Glass shatters. Metal crumples. The front of the truck caves in. But momentum carries it forward. Into the plaza. Into the crowd.
 
@@ -29,7 +29,7 @@ The truck slides sideways. It hits a café. It hits a ticket booth. It hits peop
 
 The explosion comes at 2:48 PM.
 
-The truck's fuel tank ruptures. The explosive package detonated by Yasmin remotely. The blast is enormous. The plaza is fire.
+The truck's fuel tank ruptures. The explosive package detonated by Yasmine remotely. The blast is enormous. The plaza is fire.
 
 Two hundred meters of damage radius. Everyone within it is dead or dying. Glass everywhere. Blood everywhere. Smoke everywhere.
 
@@ -49,11 +49,11 @@ Thomas doesn't respond. He just listens.
 
 "The pyramid is destroyed. The plaza is destroyed. We're looking at a coordinated cell attack. We don't know if there are more. We don't know if they're still—"
 
-"Yasmin," Thomas says.
+"Yasmine," Thomas says.
 
 "What?"
 
-"Yasmin. She's still free. She did this."
+"Yasmine. She's still free. She did this."
 
 The voice on the phone goes silent.
 
@@ -71,7 +71,7 @@ By the time Thomas arrives, the plaza is locked down. Army everywhere. Medical t
 
 And bodies. Hundreds of tourists. Hundreds of school children. Hundreds of ordinary Parisians who just wanted to see the famous pyramid on a Wednesday afternoon.
 
-Thomas walks through the wreckage. He's looking for something. A message. A sign. Something that tells him Yasmin was here.
+Thomas walks through the wreckage. He's looking for something. A message. A sign. Something that tells him Yasmine was here.
 
 He finds it on the café wall. Spray-painted in red. Arabic. French. English.
 
@@ -81,21 +81,21 @@ THIS IS THE BEGINNING."
 
 Thomas reads it. He understands.
 
-Yasmin isn't going to stop. Karim was the first. There will be others. There will be more trucks. More pyramids. More symbols of France will fall.
+Yasmine isn't going to stop. Karim was the first. There will be others. There will be more trucks. More pyramids. More symbols of France will fall.
 
 Unless Thomas stops her.
 
 By evening, the government is in emergency session. The President is declaring martial law nationwide. The military is mobilizing. Border patrols are being reinforced. Every airport. Every port. Every road.
 
-Yasmin Boudjellal is officially wanted for terrorism. Her face is on every news broadcast.
+Yasmine Boudjellal is officially wanted for terrorism. Her face is on every news broadcast.
 
 But she's already gone.
 
 By midnight, Thomas knows this. He's been tracking her movements. The café owner across from the plaza saw a woman leave the area at 2:46 PM. Before the attack. She was filming on her phone. She was documenting.
 
-The woman had a Chechen or North African accent. She was directing people toward and away from the impact zone. She was orchestrating the chaos.
+The woman had a Algerian or North African accent. She was directing people toward and away from the impact zone. She was orchestrating the chaos.
 
-It was Yasmin.
+It was Yasmine.
 
 By 6:00 AM the next morning, Thomas has a decision to make.
 
@@ -117,7 +117,7 @@ Thomas hangs up.
 
 He gets in the MV Agusta. He leaves Paris. He's heading south. He's heading toward Spain. He's heading toward Morocco.
 
-He doesn't have authorization. He doesn't have backup. He doesn't have anything except the knowledge that Yasmin is out there. And she's not going to stop.
+He doesn't have authorization. He doesn't have backup. He doesn't have anything except the knowledge that Yasmine is out there. And she's not going to stop.
 
 So neither is he.
 
@@ -132,7 +132,7 @@ So neither is he.
 - 300+ casualties (Louvre plaza, school groups, tourists)
 - Pyramid destroyed (iconic symbol falls)
 - Message left: "FRANCE REMEMBERS NOW"
-- Yasmin orchestrated from outside (filming, documenting)
+- Yasmine orchestrated from outside (filming, documenting)
 - She escaped at 2:46 PM (before detonation)
 - Thomas realizes: She's still free, will continue attacking
 - Government declares nationwide martial law
@@ -147,9 +147,9 @@ So neither is he.
 **Themes:** Revenge justified by escalation, the hunter becoming the hunted (morally)
 
 **Major developments:**
-- Second attack validates Yasmin's power
+- Second attack validates Yasmine's power
 - Scale increased (Louvre iconic, hundreds die)
-- Yasmin still free (never caught, always ahead)
+- Yasmine still free (never caught, always ahead)
 - Thomas goes rogue (abandons official mandate)
 - Hunt becomes personal/international
 
