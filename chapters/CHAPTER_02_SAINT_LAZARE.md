@@ -53,7 +53,7 @@ He understands this. His childhood in Normandy was foreign. Rhodesia haunted it.
 
 Maybe that's why they fit.
 
-By week twelve, they're in a hotel room overlooking the Shinjuku skyline. She's sleeping. Thomas watches the city lights reflect in her eyes. He's thinking about the mission. He's thinking about duty. He's thinking about how easily duty can be compartmented when you're good at your job.
+By week twelve, they're in a love hotel in Shinjuku. Room overlooking the neon streets below. She's sleeping. Thomas watches the city lights reflect in her eyes. He's thinking about the mission. He's thinking about duty. He's thinking about how easily duty can be compartmented when you're good at your job.
 
 When you're very good.
 
