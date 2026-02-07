@@ -17,7 +17,7 @@ Thomas doesn't use slides. Doesn't use PowerPoint. He just talks. He stands at t
 
 "We have a cell. Minimum four people. Maximum seven. The speaker identifies himself as Yasmine Boudjellal. Algerian. Based on accent and dialect analysis, he's from northern Algeria. Possibly from Algiers. He's the ideologue. He's the voice. He's calling for France to apologize for Algerian colonization.
 
-"Two bombs were placed in Métro Line 14. Two detonated. The third was supposed to detonate but didn't. Technical analysis shows the third device had a faulty timer. It was a luck event. Not planning. Not mercy. Just mechanical failure.
+"Two bombs detonated in Métro Line 14 between Châtelet and Saint-Lazare. Current confirmed death toll is three hundred twenty-seven. One hundred forty-three injured. The casualty count is still rising as bodies are recovered from the tunnel.
 
 "The cell has a political agenda. They want France to apologize for Algerian colonization. They'll escalate. They'll place more bombs. They'll target crowded areas. They'll keep escalating until we stop them or until France makes a public apology."
 
