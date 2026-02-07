@@ -49,7 +49,7 @@ Jérôme was supposed to be there. He was late. Very late. By 5:00 PM, it was cl
 
 Thomas waited. The others waited. By 6:00 PM, they gave up. They made other plans. They'd catch up with Jérôme later. He was always late anyway.
 
-Around 7:00 PM, Thomas's mother came to pick him up. She wanted him home. They drove back to Normandy that evening.
+Around 6:30 PM, Thomas left the café. He took the train back to Normandy. Alone. His mother was waiting for him there. The journey took three hours.
 
 Thomas arrived home around 9:30 PM. No calls. No messages. No way to know anything had happened.
 
