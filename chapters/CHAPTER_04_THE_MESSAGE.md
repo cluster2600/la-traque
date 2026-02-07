@@ -41,7 +41,13 @@ Moreau reads the letter first. His jaw tightens.
 
 "France apologize. For colonization. For Algeria. Or they keep bombing."
 
-Thomas nods. Takes the letter. Reads. Single page. Typed. No signature. No watermark. No clue to origin except the words themselves.
+Thomas nods. Takes the letter. Reads. Single page. Typed. No signature. No watermark. No visible clue to origin except the words themselves.
+
+A technician is already examining it. Forensics. She looks up.
+
+"The printer has a serial signature," she says. "Every printer leaves invisible marks on paper. Microdots. Unique to each machine. This came from an Epson LX-300 series printer. Manufactured in 1997-2002. Common in small offices and homes. The serial number is embedded in the cyan dots. We're running it against the international printer database now."
+
+Thomas nods. One more thread. One more way to find them.
 
 "Play the DVD," Thomas says.
 
