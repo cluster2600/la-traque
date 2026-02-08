@@ -37,9 +37,9 @@ Yasmine looks at them. She's different now. Not full of hate. Full of clarity. H
 
 She pulls out a map. Paris to the coast. Coast to Mediterranean. Mediterranean to North Africa. Different paths radiating outward like spokes on a wheel.
 
-"Malik goes northeast. Belgium. Then Germany. Then Poland. Then boat from Baltic to Algeria through Libya. Takes longer. Safer. Two weeks."
+"Malik goes northeast. Belgium. Then Germany. Then Turkey. Then boat from Istanbul to Algeria. Takes longer. Safer. Three weeks."
 
-Malik nods. He's surprised. He thought he'd go to Marseille. But Yasmine has reorganized. She has her reasons.
+Malik nods. He's surprised. He thought he'd go to Marseille. But Yasmine has reorganized. She has her reasons. Turkey is neutral. Istanbul is chaotic. Boats leave from there all the time.
 
 "Hassan Jr. goes through Switzerland. Lausanne. Then Italy. Then Sicily. Then boat to Tunisia, then overland to Algiers. Ten days."
 
