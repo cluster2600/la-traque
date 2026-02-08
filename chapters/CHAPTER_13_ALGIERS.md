@@ -25,9 +25,37 @@ She's seen as a foreigner.
 
 After a week, she realizes she hates Algiers. The city is crowded. The city is loud. The city is not the place she imagined in her rage. The place where she would return as a hero. The place where the Algerian people would welcome her as a liberator.
 
-Instead, she's a stranger. A foreigner. Someone who left and came back. Someone who doesn't belong anymore.
+Nobody knows who she is.
 
-She waits for the others. Malik should arrive within a week. Hassan Jr. within two weeks. Amina after three. They'll find her. They'll reassure her. They'll make sense of this displacement.
+She killed three thousand French people. She destroyed the Louvre pyramid. She bombed the Élysée Palace. She struck the Eiffel Tower. She detonated a barge at Bercy. She showed France that Algeria was not forgotten. That colonization had a price. That the dead were counting.
+
+But in Algiers, nobody cares.
+
+The café owner doesn't recognize her. The grocer doesn't whisper her name. The neighborhood doesn't know she's the one. Nobody has heard of Yasmine Boudjellal. Nobody knows she killed three thousand people. Nobody celebrates her.
+
+She thought she would be a hero. She thought she would return to Algeria as a liberator. She thought the Algerian people would understand. Would embrace her. Would see her rage as their rage. Would see her violence as their justice.
+
+Instead, she's invisible.
+
+She walks through Algiers and nobody notices her. Not because she's hidden. Because they don't care. Because France's war is not Algeria's war anymore. Because Algerians have moved on. Because the colonial rage that burned in her for twenty-two years doesn't burn in them anymore.
+
+They're living. Working. Raising families. Forgetting.
+
+And she's killing.
+
+The gap is unbridgeable.
+
+She walks past a newspaper stand. The French attack is on the front page. "Terror in Paris." "3,000 dead." "National Tragedy." But no name. No cell. No Yasmine. Just "unknown terrorists" and "investigation ongoing." She's not famous. She's not legendary. She's just another crime in a world full of crimes.
+
+Nobody in Algiers even knows France is burning.
+
+The news doesn't reach here the same way. Or people don't care. Or they hear it and think: good, France deserved it, now let's go back to our lives.
+
+There's no celebration. No street parties. No recognition.
+
+She's alone in a city of three million people and nobody knows who she is.
+
+She waits for the others. Malik should arrive within a week. Hassan Jr. within two weeks. Amina after three. They'll find her. They'll understand her. They'll see her the way she sees herself: as a liberator. As a warrior. As someone who changed history.
 
 But no one arrives.
 
@@ -69,13 +97,27 @@ She finds a hotel. A small place. The kind of place that doesn't ask for documen
 
 She sits in her room. She looks out the window at the desert. At the mountains. At the place where everything ends.
 
+She's misunderstood everywhere.
+
+In France, they see her as a terrorist. A killer. A threat to be eliminated.
+
+In Algeria, they see her as a foreigner. A French person playing at Algerian identity. Someone who doesn't belong.
+
+Nobody sees her as she sees herself: a liberator. A warrior for justice. Someone fighting for the forgotten dead.
+
+She killed three thousand people and nobody understands why. Nobody sees the righteous rage behind the bombs. Nobody sees the colonial debt being paid. Nobody cares.
+
+She's alone in her comprehension. Alone in her rage. Alone in her mission.
+
 And she waits.
 
 She doesn't know what she's waiting for. She doesn't know what comes next. She just knows that Thomas is coming. She can feel it. The way she felt the bombs detonate. The way she felt the pyramid fall. The way she felt France burning.
 
+Thomas will understand. Not why she did it. But that she did it. He'll see her as a worthy opponent. As someone who matters. As someone whose actions have consequence.
+
 Thomas is coming.
 
-And when he arrives, she'll face him.
+And when he arrives, she'll finally be seen.
 
 ---
 
