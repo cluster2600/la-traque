@@ -29,7 +29,7 @@ The Swiss secret service didn't know Thomas's team was in Zug.
 
 They didn't know that a French DGSE operation was happening on Swiss soil. They didn't know that authorization had been given. They didn't know that the Director had made arrangements. They didn't know anything.
 
-Two members of Thomas's team were on the street side. Beaumont and De Richelieu. Watching the front of the house. Watching the road. Watching for police. Watching for intervention. Ready to create distraction if needed.
+Two members of Thomas's team were on the street side. Beaumont and Richelieu. Watching the front of the house. Watching the road. Watching for police. Watching for intervention. Ready to create distraction if needed.
 
 Four members went in through the lake side.
 
@@ -105,7 +105,7 @@ The Arab men were still in the living room. Standing naked. Understanding that t
 
 They left eventually. Dressed. Called for the girls. Left the house. Left Zug. Left Switzerland. They understood the message. They understood that business with explosives had consequences. They understood that the French had reach. They understood that silence was survival.
 
-Beaumont and De Richelieu reported: clear. No police. No intervention. No complications.
+Beaumont and Richelieu reported: clear. No police. No intervention. No complications.
 
 The Swiss secret service never knew.
 
@@ -137,7 +137,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - 4 men present: Malik + 3 Arab men (associates)
 - Girl caught between two men (transaction in progress)
 - Swiss secret service: unaware of French operation
-- Front surveillance: Beaumont + De Richelieu (street side)
+- Front surveillance: Beaumont + Richelieu (street side)
 - Lake entry: Thomas + Tarkovsky + De Vergennes + Leclerc
 - Girls evacuated (survival priority)
 - Arab men frozen (understood message)

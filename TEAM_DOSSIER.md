@@ -82,7 +82,7 @@
 
 ### 6. SPECIALIST STEPHANE DE RICHELIEU
 - **Rank:** Specialist (no commission), DGSE Technical Operations
-- **Full name:** Stéphane Henri de Richelieu
+- **Full name:** Stéphane Henri Richelieu
 - **Background:** Nobility (Southwest France, technology heritage)
 - **Age:** 31
 - **Specialization:** Communications, tech, signals intelligence
@@ -103,7 +103,7 @@
 - **Tarkovsky:** Intelligence lead (recon, target verification)
 - **De Vergennes:** Logistics lead (equipment, coordination)
 - **Leclerc:** Medical lead (trauma, emergencies)
-- **De Richelieu:** Technical lead (communications, systems)
+- **Richelieu:** Technical lead (communications, systems)
 
 ### Communication hierarchy:
 1. Thomas issues orders
@@ -117,7 +117,7 @@
 - **Point:** Beaumont (weapons, assault lead)
 - **Left flank:** Tarkovsky (recon coverage)
 - **Right flank:** Leclerc (medical coverage)
-- **Rear:** De Richelieu (communications, tech)
+- **Rear:** Richelieu (communications, tech)
 - **Command center:** Thomas (oversight, decisions)
 - **Logistics:** De Vergennes (equipment, resupply, vehicles)
 
@@ -131,7 +131,7 @@
 - **Tarkovsky:** Final satellite intelligence review
 - **De Vergennes:** Equipment inventory, vehicle preparation
 - **Leclerc:** Medical supply checks, emergency readiness
-- **De Richelieu:** Communications test, satellite links
+- **Richelieu:** Communications test, satellite links
 
 ### Insertion (Beach landing):
 - **Thomas:** Oversees landing, confirms Touareg team
@@ -139,7 +139,7 @@
 - **Tarkovsky:** Ground reconnaissance, threat assessment
 - **De Vergennes:** Vehicle loading, equipment distribution
 - **Leclerc:** Medical readiness, emergency setup
-- **De Richelieu:** Communications with support aircraft
+- **Richelieu:** Communications with support aircraft
 
 ### Travel to Tadrart (Toyota convoy):
 - **Beaumont:** Lead vehicle, navigation, threat watch
@@ -147,7 +147,7 @@
 - **De Vergennes:** Third vehicle (if needed), logistics support
 - **Thomas:** Command vehicle, decision authority
 - **Leclerc:** Follows, medical readiness
-- **De Richelieu:** Communications, satellite tracking
+- **Richelieu:** Communications, satellite tracking
 
 ### House assault:
 - **Beaumont:** Lead, entry, weapon deployment
@@ -155,7 +155,7 @@
 - **Thomas:** Command, authorization, final execution
 - **De Vergennes:** Perimeter security, vehicle control
 - **Leclerc:** Standby, casualty response
-- **De Richelieu:** Communications blackout, signal blocking
+- **Richelieu:** Communications blackout, signal blocking
 
 ### Extraction:
 - **Beaumont:** Rear guard, covering withdrawal
@@ -163,7 +163,7 @@
 - **Thomas:** Final target confirmation, authorization
 - **De Vergennes:** Vehicle organization, speed optimization
 - **Leclerc:** Casualty check (team + target)
-- **De Richelieu:** Communications, extraction coordination
+- **Richelieu:** Communications, extraction coordination
 
 ---
 
@@ -210,7 +210,7 @@
 ### Vehicle coordination:
 - **Toyota 1 (Lead):** Beaumont + Touareg driver
 - **Toyota 2 (Intelligence):** Tarkovsky + Touareg driver
-- **Toyota 3 (Support):** De Vergennes + Leclerc + De Richelieu + Thomas + Touareg driver
+- **Toyota 3 (Support):** De Vergennes + Leclerc + Richelieu + Thomas + Touareg driver
 
 ### Communication:
 - Encrypted radio network (Toulouse managed)
@@ -326,10 +326,10 @@
 - **Background:** Professional military medical lineage
 - **Legacy:** Medical excellence, field medicine pioneer
 
-### Stéphane de Richelieu
+### Stéphane Richelieu
 - **Region:** Southwest France
 - **Family tradition:** Scholars, technologists, engineers
-- **Title:** Baron de Richelieu (cadet branch)
+- **Title:** Baron Richelieu (cadet branch)
 - **Legacy:** Innovation, technical expertise, administrative tradition
 
 ---
