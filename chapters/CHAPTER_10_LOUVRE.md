@@ -37,29 +37,45 @@ The pyramid collapses.
 
 The iconic symbol of Paris falls inward. Implodes. Becomes rubble. The glass shatters into millions of pieces. The metal frame folds like paper. Four metric tons of TNT doesn't leave anything standing.
 
-By 3:00 PM, the casualty count is three hundred dead. By 3:30 PM, it's four hundred twelve. By 4:00 PM, it's four hundred seventy-eight.
+But this is not the only explosion.
 
-Hundreds more are injured. Hundreds more are missing. The identification of bodies will take days.
+At 2:48 PM, the same second, another Iveco panel truck detonates in front of the Élysée Palace. Four metric tons of TNT. The gates obliterated. The guard detail vaporized. Presidential security compromised. The President's residence is burning.
 
-Thomas is in the command center when he gets the call.
+At 2:48 PM, the same second, a third Iveco panel truck detonates beneath the Eiffel Tower. Four metric tons of TNT. The iron tower shakes. The base is damaged. The structure holds but trembles. The plaza is fire. The tourists are screaming.
 
-"There's been an attack," the voice says. "The Louvre. A truck. Massive casualties."
+Three simultaneous attacks. Three iconic symbols of Paris. Three trucks. Twelve metric tons of TNT. Yasmine's true message.
+
+She didn't attack the metro for transportation. She attacked three symbols of French power. Three messages at the same moment.
+
+By 3:00 PM, the casualty count across all three sites is one thousand two hundred dead. By 3:30 PM, it's one thousand six hundred. By 4:00 PM, it's approaching two thousand.
+
+Hospitals are overwhelmed. Morgues are overwhelmed. Ambulances are turning away dying people because there's nowhere to put them. 
+
+France is burning.
+
+Thomas is in the command center when the calls start coming in.
+
+"Multiple attacks," the voice says. "Simultaneous. Louvre. Élysée. Eiffel Tower."
+
+Thomas goes very still.
+
+"Three Iveco trucks. Three massive explosions. Two PM forty-eight. All at the same time. Casualties in the thousands. Presidential palace is burning. The tower is damaged. The pyramid is gone."
 
 Thomas doesn't respond. He just listens.
 
-"The pyramid is destroyed. The plaza is destroyed. We're looking at a coordinated cell attack. We don't know if there are more. We don't know if they're still—"
+"We're looking at coordinated attacks. We don't know if there are more. We don't know if—"
 
-"Yasmine," Thomas says.
+"Yasmine," Thomas says quietly.
 
 "What?"
 
-"Yasmine. She's still free. She did this."
+"Yasmine. She's still free. She did this. All of it."
 
 The voice on the phone goes silent.
 
 "That's impossible," the voice says. "The catacomb cell is contained. Hassan and Inès are in custody. We have her associates. We have the infrastructure."
 
-"She's still free," Thomas says. "The catacomb was a distraction. This is her real attack. This is the escalation."
+"She had backup," Thomas says. "She had other cells. This wasn't one attack. This was coordinated. This was planned from the beginning. The metro was the opening move. This is the real assault."
 
 Thomas is already moving. He's grabbing his coat. He's heading for the door.
 
@@ -71,13 +87,21 @@ By the time Thomas arrives, the plaza is locked down. Army everywhere. Medical t
 
 And bodies. Hundreds of tourists. Hundreds of school children. Hundreds of ordinary Parisians who just wanted to see the famous pyramid on a Wednesday afternoon.
 
-Thomas walks through the wreckage. He's looking for something. A message. A sign. Something that tells him Yasmine was here.
+Thomas walks through the wreckage at the Louvre. He's looking for something. A message. A sign. Something that tells him Yasmine was here.
 
-He finds it on the café wall. Spray-painted in red. Arabic. French. English.
+He finds messages at all three sites. Spray-painted in red. Arabic. French. English.
 
-"FRANCE REMEMBERS NOW.
-ONE THOUSAND ALGERIAN DEAD FOR EVERY DAY OF OCCUPATION.
-THIS IS THE BEGINNING."
+At the Louvre: "FRANCE REMEMBERS NOW."
+
+At the Élysée: "YOUR LEADERS ARE NOT SAFE."
+
+At the Eiffel Tower: "PARIS BURNS FOR ALGERIA."
+
+And everywhere, the same message repeated in multiple languages:
+
+"ONE THOUSAND ALGERIAN DEAD FOR EVERY DAY OF OCCUPATION.
+FRANCE HAS TWENTY-FOUR HOURS TO APOLOGIZE FOR COLONIZATION.
+AFTER THAT, WE BURN EVERYTHING."
 
 Thomas reads it. He understands.
 
