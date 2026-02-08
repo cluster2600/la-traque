@@ -37,9 +37,13 @@ Yasmine looks at them. She's different now. Not full of hate. Full of clarity. H
 
 She pulls out a map. Paris to the coast. Coast to Mediterranean. Mediterranean to North Africa. Different paths radiating outward like spokes on a wheel.
 
-"Malik goes northeast. Belgium. Then Germany. Then Turkey. Then boat from Istanbul to Algeria. Takes longer. Safer. Three weeks."
+"Malik goes east. Switzerland. Zug. He has contacts there. Money people. Finance specialists. He'll convert our assets. Move the cryptocurrency. Build a fortress. He stays. He doesn't flee. He builds."
 
-Malik nods. He's surprised. He thought he'd go to Marseille. But Yasmine has reorganized. She has her reasons. Turkey is neutral. Istanbul is chaotic. Boats leave from there all the time.
+Malik nods. He's surprised. But he understands. Someone needs to secure the money. Someone needs to ensure the network survives financially. If Yasmine is captured. If Hassan is captured. If everyone is captured. The money remains. The network persists.
+
+"Switzerland," Malik says. "Zug."
+
+"Zug," Yasmine confirms. "You build. You wait. You secure our future."
 
 "Hassan Jr. goes through Switzerland. Lausanne. Then Italy. Then Sicily. Then boat to Tunisia, then overland to Algiers. Ten days."
 

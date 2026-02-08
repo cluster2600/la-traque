@@ -45,11 +45,11 @@ Wallets. Exchanges. IP addresses. Bitcoin transactions traced through the blockc
 
 Every transaction becomes a line on a map.
 
-"Malik moved funds through Istanbul," De Vergennes says. "Syrian broker. Conversion to gold. Then Switzerland. Zug."
+"Malik is building his nest in Zug," De Vergennes says. "Moving funds directly. Cryptocurrency to Swiss exchanges. Exchanges to gold, diamonds, bonds. All in Zug. He's not moving. He's staying put and accumulating."
 
 "How much?"
 
-"At least six hundred thousand euros. Probably more. He's building a nest."
+"Millions. Probably tens of millions by now. He's been working for weeks. Professional conversion. Layer by layer. Building an impenetrable fortress."
 
 Thomas marks Zug on the map. Red circle.
 
