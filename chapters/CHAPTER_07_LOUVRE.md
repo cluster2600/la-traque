@@ -21,21 +21,29 @@ Karim sits in the cab. He's praying. In Arabic. To a God he hasn't spoken to in 
 
 The truck hits the plaza at 60 kilometers per hour.
 
-The pyramid is in the way. The truck doesn't stop. Glass shatters. Metal crumples. The front of the truck caves in. But momentum carries it forward. Into the plaza. Into the crowd.
+The pyramid is in the way. The truck doesn't stop. Glass shatters. Metal crumples. The front of the truck caves in. But momentum carries it forward. Through the glass. Into the pyramid itself.
 
-People are running. People are screaming. People are dying.
+The pyramid has a hollow center. A basement. An underground space for storage and machinery. The truck crashes through the internal structure. Glass explodes inward. Metal beams collapse. The truck falls into the hole beneath the pyramid.
 
-The truck slides sideways. It hits a café. It hits a ticket booth. It hits people. So many people.
+It's ten meters down. A basement level. Dark. Confined. The truck lands hard. Suspension breaks. The cargo shifts. The TNT containers rattle but hold.
+
+People are running. People are screaming. People are dying. The pyramid is collapsing on top of the truck.
 
 The explosion comes at 2:48 PM.
 
-Four metric tons of TNT detonate. Remote trigger. Yasmine's finger on the button. The blast is apocalyptic. The plaza ceases to exist. Just fire. Just wind. Just obliteration.
+Four metric tons of TNT detonate. Remote trigger. Yasmine's finger on the button. From inside the basement. From inside the hole beneath the pyramid.
+
+The blast is contained at first. Underground. The basement becomes a furnace. But the explosion is too massive. Twelve metric tons of explosives in an enclosed space. The basement becomes a bomb chamber.
+
+The blast erupts upward. The pyramid explodes from underneath. The glass doesn't just fall. It's blown outward in all directions. Shrapnel. Shards. Deadly projectiles moving at supersonic speed.
 
 Three hundred meters of damage radius. Four hundred meters at ground zero. Everyone within it is dead. Vaporized. Disintegrated. The blast wave takes buildings blocks away.
 
-The pyramid collapses.
+The pyramid collapses inward and outward simultaneously. The iconic symbol of Paris implodes from the explosion beneath it. The entire structure falls into the crater created by the detonation. The glass shatters into millions of pieces. The metal frame folds. The basement is obliterated.
 
-The iconic symbol of Paris falls inward. Implodes. Becomes rubble. The glass shatters into millions of pieces. The metal frame folds like paper. Four metric tons of TNT doesn't leave anything standing.
+The truck is gone. The hole is gone. The underground infrastructure is gone. Everything beneath the pyramid is erased.
+
+Four metric tons of TNT doesn't leave anything standing.
 
 But this is not the only explosion.
 
