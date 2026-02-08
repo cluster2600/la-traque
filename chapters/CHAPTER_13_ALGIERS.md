@@ -95,7 +95,41 @@ She's not a liberator. She's just another person trying to pay an impossible deb
 
 But she tried. That has to mean something.
 
-She leaves the museum. She takes a taxi. She finds the Touareg driver at the stand. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
+She leaves the museum. Before finding the Touareg driver, she makes a phone call. A secure line. A number she's memorized. A contact she hasn't used in weeks.
+
+The finance guy answers. Hassan Boudjellal. Her cousin. The one who moved money. The one who funded the operation. The one who never left Paris.
+
+"It's me," she says.
+
+Silence on the line. Then recognition.
+
+"You made it," he says.
+
+"I made it."
+
+"The others?"
+
+"Gone. All of them. Malik. Hassan Jr. Amina. All gone."
+
+Another silence. Longer this time. Then:
+
+"So it's just you."
+
+"It's just me," she confirms. "The cell is only me now."
+
+"What will you do?"
+
+She doesn't answer immediately. She looks out the window. At the city that rejected her. At the monument she honored. At the museum she just left.
+
+"I'm going south," she says. "To Tadrart."
+
+"For what?"
+
+"For the end," she says.
+
+She hangs up. She doesn't wait for his response. She doesn't need to. Hassan will understand. Hassan will spread the word through whatever network remains. The cell is gone. Only Yasmine survives. Only Yasmine continues.
+
+She takes a taxi. She finds the Touareg driver at the stand. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
 
 "Tadrart," she says.
 
