@@ -73,7 +73,29 @@ Amina made it as far as Tunisia. Then disappeared. The network assumes police. A
 
 Yasmine is alone.
 
-After six weeks in Algiers, she makes a decision. She leaves the apartment. She takes what money she has. She goes to the taxi stand. She finds a driver. A Touareg. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
+After six weeks in Algiers, she makes a decision. But before she leaves, she goes to the museum.
+
+The Museum of Martyrs. The place where Algeria remembers its dead. Hundreds of thousands of names. Thousands of photographs. Men. Women. Children. All killed in the war of independence. All sacrificed so Algeria could be free.
+
+She walks through the museum in silence. She looks at the faces. She reads the names. She sees the photographs of torture. The photographs of massacres. The photographs of French soldiers with their prisoners. The photographs of Algerian bodies in ditches.
+
+This is why she killed three thousand people.
+
+This is the debt. This is the memory. This is the reason.
+
+She stands in front of a photograph. A girl. Maybe ten years old. Shot by French soldiers. The girl's name is beneath the photograph. Fatima Aouet. Born 1947. Died 1961. Fourteen years old.
+
+Yasmine touches the glass. She doesn't cry. She just touches it. Like she's making contact with the dead. Like she's telling Fatima: I'm sorry. I tried. I killed three thousand of them. It wasn't enough.
+
+She walks through the rest of the museum. Every photograph is a debt. Every name is a scream. Every death is a reason.
+
+By the time she exits, she understands something. The museum doesn't see her. The dead don't recognize her. She killed three thousand people and the dead are still not satisfied. The debt is still unpaid. The memory is still incomplete.
+
+She's not a liberator. She's just another person trying to pay an impossible debt.
+
+But she tried. That has to mean something.
+
+She leaves the museum. She takes a taxi. She finds the Touareg driver at the stand. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
 
 "Tadrart," she says.
 
