@@ -49,11 +49,9 @@ Moreau reads the letter first. His jaw tightens.
 
 Thomas nods. Takes the letter. Reads. Single page. Typed. No signature. No watermark. No visible clue to origin except the words themselves.
 
-A technician is already examining it. Forensics. She looks up.
+The letter will go to DGSE labs. Analysis later. Printer forensics. Ink analysis. Paper source. Everything examined in a clean room with proper equipment.
 
-"The printer has a serial signature," she says. "Every printer leaves invisible marks on paper. Microdots. Unique to each machine. This came from an Epson LX-300 series printer. Manufactured in 1997-2002. Common in small offices and homes. The serial number is embedded in the cyan dots. We're running it against the international printer database now."
-
-Thomas nods. One more thread. One more way to find them.
+Not here. Not now.
 
 "Play the DVD," Thomas says.
 
