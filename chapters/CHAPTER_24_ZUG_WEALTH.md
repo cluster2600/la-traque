@@ -9,7 +9,7 @@ It's a legitimate business. Except the money isn't legitimate. It's from Qatar. 
 
 Malik is the nexus. He takes the money. He converts it. He hides it. He protects it.
 
-The apartment is expensive. Lake view. Modern. Clean lines. The kind of place where rich people hide their money and themselves.
+The house is expensive. On the lake. Modern. Clean lines. Private. The kind of place where rich people hide their money and themselves.
 
 He rents it for twelve thousand francs per month. Cash. Six months upfront. The landlord doesn't ask questions. The landlord sees cash and stops caring about background checks.
 
@@ -69,7 +69,7 @@ Fifty million francs. That's what Malik built. That's what he's hiding. That's w
 
 In Marseille, De Vergennes shows Thomas the final report.
 
-"He's there," De Vergennes says. "Confirmed location. Seestrasse 47. Third floor. Lake-view apartment. Rented under false name. But the IP addresses match. The transaction patterns match. It's him."
+"He's there," De Vergennes says. "Confirmed location. House on the lake. Zug city center. Rented under false name. But the IP addresses match. The transaction patterns match. The lake access confirms it. It's him."
 
 "How much has he accumulated?" Thomas asks.
 
@@ -83,11 +83,11 @@ Thomas whistles.
 
 "When do we move?"
 
-"The surveillance team is in position. Beaumont and Tarkovsky are watching the apartment. They've been there three days. They know his routine. They know when he leaves. They know when he's vulnerable."
+"The surveillance team is in position. Beaumont and Tarkovsky are watching the house. They've been there three days. They know his routine. They know when he leaves. They know when he's vulnerable."
 
 "Tell me the plan."
 
-De Vergennes pulls up the floor plan. Malik's apartment. Entry points. Exits. Safe location.
+De Vergennes pulls up the floor plan. Malik's house. Entry points. Exits. Safe location.
 
 "He hosts parties," De Vergennes says. "Every week. Girls. Associates. Business partners. The parties happen at night. Loud. Chaotic. Perfect cover for entry."
 

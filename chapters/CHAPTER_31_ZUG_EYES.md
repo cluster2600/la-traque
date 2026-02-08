@@ -107,7 +107,7 @@ At 7:30 PM, three cars arrive. Expensive. Audi. BMW. Mercedes.
 
 Men in suits. Women in dresses. Laughter. Music starts inside.
 
-By 8:00 PM, the apartment is loud.
+By 8:00 PM, the house is loud.
 
 Music.
 
@@ -125,7 +125,7 @@ He lays the plan on the table. Floor plan of the building. Marked with entry poi
 
 Beaumont nods.
 
-"Four through the dock. Me. Tarkovsky. De Vergennes. Leclerc. We enter from the lake. We move through the apartment. We secure Malik. We open the safe. We extract documents and assets."
+"Four through the dock. Me. Tarkovsky. De Vergennes. Leclerc. We enter from the lake. We move through the house. We secure Malik. We open the safe. We extract documents and assets."
 
 "Time limit?" Tarkovsky asks.
 
@@ -219,7 +219,7 @@ About to be violated.
 
 The dock is empty.
 
-The apartment glows with light on the third floor.
+the house glows with light on the third floor.
 
 Figures move behind glass.
 

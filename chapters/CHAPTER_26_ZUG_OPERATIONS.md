@@ -13,11 +13,11 @@ The families pay him five percent management fees. That's millions per year. Per
 
 Malik takes his percentage. Keeps it in Zug. Builds his fortress.
 
-The apartment is comfortable. Lake view. Expensive but not ostentatious. The kind of place a financial consultant would rent. Professional. Discrete.
+the house is comfortable. Lake view. Expensive but not ostentatious. The kind of place a financial consultant would rent. Professional. Discrete.
 
-He has a routine. Morning coffee at the same café. Walk along the lake at the same time. Lunch at a restaurant near the central square. Back to the apartment for afternoon operations.
+He has a routine. Morning coffee at the same café. Walk along the lake at the same time. Lunch at a restaurant near the central square. Back to the house for afternoon operations.
 
-The apartment has a desk. A laptop. Encrypted connections. Everything he needs.
+the house has a desk. A laptop. Encrypted connections. Everything he needs.
 
 He's converting cryptocurrency into physical assets. Gold. Diamonds. Bearer bonds. The conversion is slow. Methodical. Layer by layer. He doesn't rush.
 
@@ -35,7 +35,7 @@ By the end of month two, he has one point five million.
 
 By the end of month three, he's buying the safe.
 
-Custom made. Swiss craftsmanship. Fireproof. Waterproof. Built into the wall of the apartment. Hidden behind a painting.
+Custom made. Swiss craftsmanship. Fireproof. Waterproof. Built into the wall of the house. Hidden behind a painting.
 
 The installer is professional. He doesn't ask what goes inside. He just builds. He gets paid. He leaves.
 
@@ -49,7 +49,7 @@ And cash. One thousand franc notes. Stacks of them. Hundreds of thousands of fra
 
 He's building a nest egg. A fortress. A place where the world can't reach him.
 
-The lake is beautiful. The apartment is safe. Switzerland feels like refuge.
+The lake is beautiful. the house is safe. Switzerland feels like refuge.
 
 But Malik doesn't feel safe. He feels hunted.
 
@@ -90,7 +90,7 @@ One kilogram of gold at a time.
 **Chapter 26 Notes:**
 - Malik stays in Zug (doesn't flee to Istanbul)
 - Three-week residence established
-- Comfortable apartment by lake
+- House on the lake
 - Professional routine (café, walks, lunch)
 - Converts crypto to physical assets
 - Slow, methodical conversion (patience)

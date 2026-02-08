@@ -157,7 +157,7 @@ Thomas nods.
 
 They move Malik down the hall. Leclerc half-carrying him. Malik's feet dragging on marble floor.
 
-The apartment is expensive. Furniture. Art. Floor-to-ceiling windows overlooking the lake.
+the house is expensive. Furniture. Art. Floor-to-ceiling windows overlooking the lake.
 
 Money everywhere.
 
