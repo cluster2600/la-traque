@@ -45,7 +45,7 @@ The Touaregs distribute robes. Desert clothes. Local dress. Indigo. Wrapped. Eff
 
 "Two servants. Possibly armed. Hassan paid for protection. The target is inside. Waiting."
 
-Thomas checks his Glock. The suppressor is clean. The magazine is full. The safety is off.
+Thomas checks his Glock. The suppressor is clean. The magazine is full. The trigger is ready.
 
 "We move," he says.
 
