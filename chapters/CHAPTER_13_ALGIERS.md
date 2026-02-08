@@ -17,7 +17,11 @@ The apartment overlooks the city. The Mediterranean is visible from the balcony.
 
 Hundreds of thousands of Algerian dead. The monument stands for them.
 
+But the city below is dirty. Streets filled with trash. Buildings crumbling. Walls covered in graffiti. The smell of sewage and smoke. Algiers is old. Algiers is broken. Algiers is falling apart.
+
 Yasmine sits on the balcony and looks at the monument. This is why she did it. This is why she killed three thousand French people. This monument. This memory. This refusal to forget.
+
+But she looks at the city and she sees only decay. Only poverty. Only failure. The city her rage was supposed to liberate is a place she doesn't want to be.
 
 But something is wrong.
 
@@ -31,7 +35,7 @@ She feels it. The distance. The way people notice her. The way the grocer studie
 
 She's seen as a foreigner.
 
-After a week, she realizes she hates Algiers. The city is crowded. The city is loud. The city is not the place she imagined in her rage. The place where she would return as a hero. The place where the Algerian people would welcome her as a liberator.
+After a week, she realizes she hates Algiers. The city is crowded. The city is loud. The city is dirty. Filthy streets. Crumbling buildings. Sewage smell. Peeling paint. Broken infrastructure. The city is not the place she imagined in her rage. The place where she would return as a hero. The place where the Algerian people would welcome her as a liberator. The city she liberated is a dump.
 
 Nobody knows who she is.
 
