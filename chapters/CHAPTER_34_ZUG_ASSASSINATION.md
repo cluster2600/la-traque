@@ -3,11 +3,11 @@
 
 Malik Benhadj never left Switzerland.
 
-He thought he was safe. He thought hiding in Zug, in a house on the lake, meant invisibility. He thought money and darkness meant survival.
+He thought he was safe. He thought hiding in Zug, in a house on the lake, meant invisibility. He thought cryptocurrency and darkness meant survival.
 
 He was wrong.
 
-The financial transactions they found in the Mantes-la-Jolie TNT lab led directly to him. Eight million euros. Wire transfers. Bank codes. Routing numbers. All traced to Zug. All traced to a house. All traced to a man who thought he could disappear into Swiss wealth and anonymity.
+The bitcoin transactions they found in the Mantes-la-Jolie TNT lab led directly to him. Eight million euros equivalent in bitcoin. Wallet addresses. Transaction IDs. Blockchain traces. All pointed to Zug. All pointed to a house. All pointed to a man who thought he could disappear into Swiss wealth and cryptocurrency anonymity.
 
 Thomas's team watched him for three days.
 
@@ -113,7 +113,7 @@ Thomas and his team extracted to the safe house. To rest. To debrief. To prepare
 
 Malik Benhadj was dead.
 
-The eight million euros remained in the Swiss banks. The accounts would be seized. The money would disappear into government vaults. The transaction chain was broken.
+The eight million euros in bitcoin remained. The wallets were frozen. The private keys were lost. The cryptocurrency would disappear into government control. The transaction chain was broken.
 
 But Malik was dead.
 
@@ -127,8 +127,8 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 
 **Chapter 34 Notes:**
 - Malik Benhadj: financier, never escaped, always in Zug
-- Financial transactions traced from Mantes-la-Jolie TNT lab
-- Eight million euros wire transfers, bank codes, routing numbers
+- Bitcoin transactions traced from Mantes-la-Jolie TNT lab
+- Eight million euros equivalent in bitcoin, wallet addresses, blockchain traces
 - Team surveillance: 3 days observation
 - House: lake chalet, ponton, private access
 - Evening operation: during orgy
@@ -150,7 +150,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 
 **Key details:**
 - Malik: didn't escape, felt safe, miscalculated
-- Financial chain: traced, broken
+- Bitcoin chain: traced on blockchain, broken
 - Lake house: ideal for covert entry/exit
 - Orgy: target occupied, distracted, vulnerable
 - Baby oil: made drowning difficult (buoyancy, slipperiness)
