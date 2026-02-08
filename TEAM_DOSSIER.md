@@ -8,14 +8,15 @@
 ### 1. THOMAS DIEUDEGARD (COMMANDER)
 - **Rank:** Colonel, DGSE
 - **Full name:** Thomas Claude de Dieudegard
-- **Background:** Nobility (French aristocracy)
+- **Background:** Nobility (French aristocracy, Île-de-France)
 - **Age:** 42
-- **Specialization:** Command, Authorization, Personal Vendetta
-- **Role:** Team leader, decision maker
+- **Specialization:** Command, Authorization, Strategic Operations
+- **Role:** Team leader, decision maker, final execution
 - **Family:** Married Taka (Tokyo), holiday friend Jérôme (deceased), mother Magdalena (Normandy)
 - **Motivation:** Revenge (Jérôme - holiday friend), Duty (DGSE), Justice (2,391 dead)
 - **Combat style:** Professional, deliberate, authorized
-- **Status:** Active operational command
+- **Languages:** French (native), English (fluent), Arabic (fluent)
+- **Status:** Active operational command, Director-authorized
 
 ---
 
@@ -24,44 +25,46 @@
 - **Full name:** Louis-Marie Gaston de Beaumont
 - **Background:** Nobility (Burgundy region, ancient lineage)
 - **Age:** 38
-- **Specialization:** Weapons master, tactical assault
-- **Role:** Deputy commander, weapons specialist
-- **Combat experience:** 15+ years special ops
-- **Expertise:** Glock 19, FN P90, suppressed weapons, close-quarters combat
+- **Specialization:** Surveillance, tactical reconnaissance, assault planning
+- **Role:** Surveillance specialist, tactical planning, entry lead
+- **Combat experience:** 15+ years DGSE special ops
+- **Expertise:** Surveillance planning, threat assessment, tactical entry, weapons deployment
+- **Languages:** French (native), Arabic (fluent), German (fluent)
 - **Personality:** Calm, methodical, precise
-- **Reputation:** Never missed a kill, professional executioner
-- **Status:** Second-in-command, lead assault
+- **Reputation:** Never missed a detail, flawless assault planning
+- **Status:** Second-in-command, surveillance lead
 
 ---
 
-### 3. LIEUTENANT CHRISTIAN DE TARKOVSKY
-- **Rank:** Lieutenant, DGSE Intelligence
+### 3. LIEUTENANT CHRISTIAN TARKOVSKY
+- **Rank:** Lieutenant, DGSE Special Operations
 - **Full name:** Christian Édouard Tarkovsky
-- **Background:** Nobility (Jewish Polish heritage, Franco-Polish integration)
+- **Background:** Former Russian Spetsnaz (defected 2001), Jewish Polish heritage, Franco-Polish integration
 - **Age:** 34
-- **Specialization:** Intelligence, recon, surveillance
-- **Role:** Recon lead, target verification
-- **Expertise:** Satellite imagery, ground reconnaissance, pattern analysis
-- **Languages:** French (fluent), Arabic (fluent), German (fluent), Polish (basic), Yiddish (basic)
-- **Personality:** Analytical, detail-focused, strategic
-- **Reputation:** Identifies targets others miss
-- **Status:** Intelligence officer, lead recon
-- **Family heritage:** Polish-Jewish nobility, assimilated into French aristocracy (Polish/Yiddish preserved informally, not professionally)
+- **Specialization:** Close quarters elimination, tactical execution, threat neutralization
+- **Role:** Elimination tactics specialist, target execution
+- **Combat experience:** 15+ years special ops (Spetsnaz + DGSE)
+- **Expertise:** Close quarters combat, suppressed weapons, professional execution, threat assessment
+- **Languages:** Russian (native), French (fluent), Arabic (fluent), Polish (basic), Yiddish (basic)
+- **Personality:** Analytical, direct, matter-of-fact
+- **Reputation:** Identifies threat vectors others miss, efficient execution
+- **Status:** Tactical execution specialist
 
 ---
 
 ### 4. SERGEANT MAJOR RÉMI DE VERGENNES
-- **Rank:** Sergeant major, DGSE Logistics
+- **Rank:** Sergeant major, DGSE Intelligence
 - **Full name:** Rémi Alphonse de Vergennes
 - **Background:** Nobility (Occitanie region, military tradition)
 - **Age:** 40
-- **Specialization:** Logistics, equipment, supply chain
-- **Role:** Logistics coordinator, equipment master
-- **Expertise:** Weapons systems, vehicles, helicopter coordination, supply management
-- **Languages:** French, English, Spanish
-- **Personality:** Organized, no-nonsense, reliable
-- **Reputation:** Equipment never fails under his watch
-- **Status:** Logistics master, equipment specialist
+- **Specialization:** Financial intelligence, cryptocurrency tracking, money trail analysis
+- **Role:** Financial analyst, cryptocurrency specialist, target location tracker
+- **Combat experience:** 10+ years DGSE financial intelligence
+- **Expertise:** Bitcoin analysis, blockchain tracking, financial networks, money laundering detection, target pattern analysis
+- **Languages:** French (native), English (fluent), Spanish (fluent), Crypto protocols (expert)
+- **Personality:** Organized, analytical, detail-focused
+- **Reputation:** Finds hidden money, identifies targets through financial trails
+- **Status:** Financial intelligence specialist, primary tracker
 
 ---
 
@@ -70,116 +73,117 @@
 - **Full name:** Marc-André Michel Leclerc
 - **Background:** Normandy region, military medical heritage
 - **Age:** 29
-- **Specialization:** Combat medicine, field trauma, tactical paramedic
-- **Role:** Medical officer, field trauma response
-- **Expertise:** Emergency medicine, wound treatment, trauma stabilization, surgery knowledge
-- **Languages:** French, English, Italian
+- **Specialization:** Combat medicine, field trauma, tactical paramedic, emergency response
+- **Role:** Medical officer, field trauma response, extraction logistics
+- **Combat experience:** 8+ years DGSE combat medical operations
+- **Expertise:** Emergency medicine, wound treatment, trauma stabilization, surgical knowledge, triage
+- **Languages:** French (native), English (fluent), Italian (fluent)
 - **Personality:** Calm under pressure, compassionate, pragmatic
-- **Reputation:** Saves operators others give up on
-- **Status:** Combat medic, emergency response
+- **Reputation:** Saves operators others give up on, field expertise
+- **Status:** Combat medic, emergency response lead
 
 ---
 
-### 6. SPECIALIST STEPHANE DE RICHELIEU
-- **Rank:** Specialist (no commission), DGSE Technical Operations
+### 6. SPECIALIST STÉPHANE RICHELIEU
+- **Rank:** Specialist (no commission), DGSE Special Operations
 - **Full name:** Stéphane Henri Richelieu
-- **Background:** Nobility (Southwest France, technology heritage)
+- **Background:** Southwest France, weapons master tradition
 - **Age:** 31
-- **Specialization:** Communications, tech, signals intelligence
-- **Role:** Communications officer, tech specialist
-- **Expertise:** Radio systems, encrypted communications, satellite links, technical surveillance
-- **Languages:** French, English, German, Russian
-- **Personality:** Detail-oriented, innovative, slightly aloof
-- **Reputation:** Makes impossible communications work
-- **Status:** Technical specialist, comms officer
+- **Specialization:** Weapons expert, suppressed firearms, tactical equipment
+- **Role:** Weapons specialist, equipment master, technical operations
+- **Combat experience:** 12+ years DGSE weapons and tactical operations
+- **Expertise:** Glock 19, FN P90, suppressed weapon systems, quiet elimination, tactical hardware, equipment reliability
+- **Languages:** French (native), English (fluent), Arabic (fluent)
+- **Personality:** Professional, methodical, precise
+- **Reputation:** Weapons never fail under his watch, technical solutions expert
+- **Status:** Weapons specialist, equipment reliability master
 
 ---
 
 ## TEAM DYNAMICS
 
 ### Leadership structure:
-- **Thomas:** Overall commander (authorized, supported by Director)
-- **Beaumont:** Tactical assault lead (weapons, close combat)
-- **Tarkovsky:** Intelligence lead (recon, target verification)
-- **De Vergennes:** Logistics lead (equipment, coordination)
-- **Leclerc:** Medical lead (trauma, emergencies)
-- **Richelieu:** Technical lead (communications, systems)
 
-### Communication hierarchy:
-1. Thomas issues orders
-2. Montfort executes assault
-3. La Fontaine provides real-time intelligence
-4. Castelnau coordinates logistics
-5. Rennes stands ready for casualties
-6. Toulouse maintains all communications
+**Thomas (Commander):**
+- Final decision authority
+- Mission authorization
+- Target confirmation
+- Strategic direction
 
-### Combat formation:
-- **Point:** Beaumont (weapons, assault lead)
-- **Left flank:** Tarkovsky (recon coverage)
-- **Right flank:** Leclerc (medical coverage)
-- **Rear:** Richelieu (communications, tech)
-- **Command center:** Thomas (oversight, decisions)
-- **Logistics:** De Vergennes (equipment, resupply, vehicles)
+**Beaumont (Deputy):**
+- Surveillance planning
+- Tactical entry coordination
+- Assault execution
+- Rear guard operations
 
----
+**Tarkovsky (Execution):**
+- Threat elimination
+- Target execution
+- Close quarters operations
+- Tactical assessment
 
-## OPERATIONAL ROLES (TADRART INSERTION)
+**De Vergennes (Intelligence):**
+- Financial tracking
+- Target location identification
+- Pattern analysis
+- Money trail intelligence
 
-### Pre-insertion (Helicopter/Transport):
-- **Thomas:** Mission briefing, authorization confirmation
-- **Beaumont:** Weapon checks, assault readiness
-- **Tarkovsky:** Final satellite intelligence review
-- **De Vergennes:** Equipment inventory, vehicle preparation
-- **Leclerc:** Medical supply checks, emergency readiness
-- **Richelieu:** Communications test, satellite links
+**Leclerc (Medical):**
+- Casualty response
+- Emergency stabilization
+- Extraction support
+- Team health maintenance
 
-### Insertion (Beach landing):
-- **Thomas:** Oversees landing, confirms Touareg team
-- **Beaumont:** Weapons drawn, perimeter security
-- **Tarkovsky:** Ground reconnaissance, threat assessment
-- **De Vergennes:** Vehicle loading, equipment distribution
-- **Leclerc:** Medical readiness, emergency setup
-- **Richelieu:** Communications with support aircraft
+**Richelieu (Weapons):**
+- Equipment reliability
+- Weapon systems
+- Technical operations
+- Tactical hardware
 
-### Travel to Tadrart (Toyota convoy):
-- **Beaumont:** Lead vehicle, navigation, threat watch
-- **Tarkovsky:** Second vehicle, perimeter coverage
-- **De Vergennes:** Third vehicle (if needed), logistics support
-- **Thomas:** Command vehicle, decision authority
-- **Leclerc:** Follows, medical readiness
-- **Richelieu:** Communications, satellite tracking
+### Operational roles:
 
-### House assault:
-- **Beaumont:** Lead, entry, weapon deployment
-- **Tarkovsky:** Cover, secondary threat elimination
+**Reconnaissance phase:**
+- **De Vergennes:** Track financial movements, identify targets
+- **Tarkovsky:** Satellite imagery analysis, pattern recognition
+- **Beaumont:** Surveillance planning, tactical assessment
+
+**Assault planning:**
+- **Thomas:** Authorization, strategic direction
+- **Beaumont:** Tactical entry planning, assault choreography
+- **Tarkovsky:** Threat assessment, execution planning
+- **Richelieu:** Weapon systems, equipment readiness
+
+**Assault execution:**
+- **Beaumont:** Lead entry, weapon deployment
+- **Tarkovsky:** Target execution, threat elimination
 - **Thomas:** Command, authorization, final execution
 - **De Vergennes:** Perimeter security, vehicle control
 - **Leclerc:** Standby, casualty response
-- **Richelieu:** Communications blackout, signal blocking
+- **Richelieu:** Equipment management, technical support
 
-### Extraction:
+**Extraction:**
 - **Beaumont:** Rear guard, covering withdrawal
 - **Tarkovsky:** Route security, threat assessment
 - **Thomas:** Final target confirmation, authorization
 - **De Vergennes:** Vehicle organization, speed optimization
 - **Leclerc:** Casualty check (team + target)
-- **Richelieu:** Communications, extraction coordination
+- **Richelieu:** Equipment recovery, technical operations
 
 ---
 
 ## TEAM CHARACTERISTICS
 
 ### French Nobility:
-- All members from aristocratic backgrounds
+- All members from aristocratic backgrounds (except Tarkovsky - Russian defector)
 - Military service = family tradition
-- Names reflect regional France (Burgundy, Loire, Occitanie, Brittany, Southwest)
+- Names reflect regional France (Burgundy, Île-de-France, Occitanie, Normandy, Southwest)
 - Educational background = elite military schools
 - Professionalism = cultural expectation
 
 ### Specialization:
 - No redundancy (each role unique)
-- Complementary expertise (assault + intel + logistics + medical + tech)
-- Experience levels (29-42 years old, 10-20 years service)
+- Complementary expertise (assault + intel + logistics + medical + weapons)
+- Experience levels (29-42 years old, 8-15 years DGSE service)
 - Proven track record (selected for this mission)
 
 ### Professionalism:
@@ -188,6 +192,7 @@
 - All trained for international operations
 - All experienced in special ops
 - All committed to mission success
+- All understand deniable operations
 
 ### Loyalty:
 - To Thomas (commander)
@@ -197,26 +202,26 @@
 
 ---
 
-## EQUIPMENT & SPECIALTIES
+## EQUIPMENT & WEAPONS
 
 ### Personal weapons:
-- **Montfort:** Glock 19 + FN P90 (primary), suppressed
-- **La Fontaine:** Glock 19 + surveillance equipment
-- **Castelnau:** Glock 19 + logistics coordination
-- **Thomas:** Glock 19 (final execution), suppressed
-- **Rennes:** Glock 19 + medical kit
-- **Toulouse:** Glock 19 + communications gear
+- **All operators:** Glock 19 with suppressors (primary)
+- **All operators:** FN P90 with suppressors (contingency)
+- **Richelieu:** Technical support equipment
+- **Leclerc:** Medical trauma kit
+- **De Vergennes:** Financial tracking equipment
 
 ### Vehicle coordination:
-- **Toyota 1 (Lead):** Beaumont + Touareg driver
-- **Toyota 2 (Intelligence):** Tarkovsky + Touareg driver
-- **Toyota 3 (Support):** De Vergennes + Leclerc + Richelieu + Thomas + Touareg driver
+- **Entry vehicles:** 3 Toyota Land Cruisers (desert-ready)
+- **Coordination:** De Vergennes manages logistics
+- **Support:** Local Touareg contacts for ground transport
 
 ### Communication:
-- Encrypted radio network (Toulouse managed)
-- Satellite uplink (Toulouse monitored)
-- Signal blocking (Toulouse deployed pre-assault)
+- Encrypted radio network (frequency-hopping)
+- Satellite uplink (real-time coordination)
+- Signal blocking (pre-assault deployment)
 - Backup systems (redundant, failsafe)
+- Mobile operations (satellite phones)
 
 ---
 
@@ -225,46 +230,46 @@
 ### Why this team?
 
 **Thomas:**
-- Authorized by Director
-- Personal motivation (Jérôme)
+- Authorized by Director (full authority)
+- Personal motivation (Jérôme - holiday friend)
 - 20+ years command experience
 - Political backing
 - Final decision authority
 
-**Montfort:**
-- Best assault specialist available
-- Clean execution record
+**Beaumont:**
+- Best surveillance and assault specialist available
+- Tactical planning expertise
 - Calm under pressure
-- Weapons mastery
-- Close-quarters expert
+- Assault choreography mastery
+- Leadership capability
 
-**La Fontaine:**
-- Satellite intelligence expertise
-- Target verification skills
-- Strategic thinking
-- Arabic language (Libya intel possible)
-- Pattern recognition
+**Tarkovsky:**
+- Close quarters execution specialist
+- Threat assessment expertise
+- Russian special ops background
+- Multiple languages (including Arabic)
+- Cold, efficient operational mindset
 
-**Castelnau:**
-- Logistics coordination experience
-- Equipment reliability expertise
-- Vehicle management (Toyotas)
-- Supply chain understanding
-- Helicopter coordination
+**De Vergennes:**
+- Financial intelligence mastery
+- Cryptocurrency tracking expertise
+- Target identification through money trails
+- Pattern recognition capability
+- Lead tracker for cell members
 
-**Rennes:**
+**Leclerc:**
 - Combat medicine expertise
 - Trauma stabilization skills
 - Young, physically strong
 - Emergency decision maker
 - Keeps operators alive
 
-**Toulouse:**
-- Communications expertise
-- Satellite link management
-- Signal blocking capability
+**Richelieu:**
+- Weapons expertise
+- Equipment reliability mastery
 - Technical problem-solver
-- Real-time coordination
+- Tactical hardware knowledge
+- Suppressed weapon systems expert
 
 ---
 
@@ -276,6 +281,7 @@
 - Trust established
 - Communication patterns known
 - Backup systems mutual
+- Proven reliability
 
 ### Professional respect:
 - No ego conflicts
@@ -285,9 +291,9 @@
 - Execution focused
 
 ### Unit effectiveness:
-- Combined experience: ~110+ years special ops
+- Combined experience: ~85+ years special ops
 - Language capabilities: 15+ languages
-- Technical expertise: Full spectrum (weapons, intel, logistics, medical, comms)
+- Technical expertise: Full spectrum (weapons, intel, finance, medical, tech)
 - Geographic knowledge: North Africa, Middle East, Europe
 - Mission success rate: 96%+ (historical)
 
@@ -296,62 +302,86 @@
 ## NOBLE FAMILY BACKGROUNDS
 
 ### Thomas Dieudegard
-- **Region:** Île-de-France (Paris region)
-- **Family tradition:** DGSE, military command
-- **Title:** Counts/Counts de Dieudegard (historical)
-- **Legacy:** 3+ generations military service
+- **Region:** Île-de-France (Paris)
+- **Heritage:** Ancient French nobility
+- **Status:** Colonel, DGSE
 
 ### Louis-Marie de Beaumont
 - **Region:** Burgundy
-- **Family tradition:** Military commanders, weapons masters
-- **Title:** Marquis de Beaumont
-- **Legacy:** Warrior heritage, precision tradition
+- **Heritage:** Ancient French nobility
+- **Status:** Captain, DGSE
+- **Reputation:** Master tactician
 
 ### Christian Tarkovsky
-- **Region:** Polish-Jewish origin, Franco-Polish integration
-- **Family tradition:** Strategic intelligence, diplomacy, analysis, legal scholarship
-- **Title:** Baron Tarkovsky (adopted French nobility)
-- **Heritage:** Jewish Polish aristocracy, assimilated into French DGSE
-- **Legacy:** Intellectual + military combined (Polish-Jewish diaspora expertise)
+- **Origin:** Russia (Spetsnaz), naturalized French
+- **Heritage:** Polish-Jewish nobility (historical)
+- **Status:** Lieutenant, DGSE
+- **Expertise:** International special ops
 
 ### Rémi de Vergennes
-- **Region:** Occitanie (Southwest)
-- **Family tradition:** Military logistics, crusaders
-- **Title:** Marquis de Vergennes
-- **Legacy:** Organization, supply mastery, diplomatic corps
+- **Region:** Occitanie
+- **Heritage:** French nobility, military tradition
+- **Status:** Sergeant Major, DGSE
+- **Expertise:** Financial operations
 
 ### Marc-André Leclerc
 - **Region:** Normandy
-- **Family tradition:** Military medical officers, trauma surgeons
-- **Background:** Professional military medical lineage
-- **Legacy:** Medical excellence, field medicine pioneer
+- **Heritage:** Military medical tradition
+- **Status:** Corporal, DGSE
+- **Expertise:** Combat medicine
 
 ### Stéphane Richelieu
 - **Region:** Southwest France
-- **Family tradition:** Scholars, technologists, engineers
-- **Title:** Baron Richelieu (cadet branch)
-- **Legacy:** Innovation, technical expertise, administrative tradition
+- **Heritage:** Weapons master tradition
+- **Status:** Specialist, DGSE
+- **Expertise:** Tactical equipment
 
 ---
 
-## OPERATIONAL SUMMARY
+## OPERATIONAL AUTHORIZATION
 
-**Team Size:** 6 French DGSE operators
-**Commander:** Thomas Dieudegard (Colonel)
-**Mission:** Tadrart insertion, target elimination, extraction
-**Target:** Yasmine Boudjellal (one person, stone house)
-**Duration:** ~48 hours (insertion to extraction)
-**Support:** 
-- Horizon-class helicopter (transport)
-- Attack helicopters (air cover)
-- Touareg guides (3 additional, local knowledge)
-- DGSE satellite surveillance
-- Director authorization (full support)
+### Director authorization:
+- Full operational authority
+- Unlimited resources
+- Deniable operations
+- Foreign soil operations approved
+- No administrative oversight
 
-**Status:** Ready for deployment
+### Authorization limits:
+- Five targets (cell members)
+- International scope (North Africa + Europe)
+- Elimination authority (no arrests)
+- Two-month timeline
+- No publicity
+
+### Chain of command:
+- Thomas → Director (verbally only)
+- No written authorization
+- No official record
+- Plausible deniability maintained
+- France disavows if compromised
 
 ---
 
-**Last updated:** 2026-02-08
-**Classification:** DGSE Operational (Confidential)
-**Authorization:** Director, DGSE
+## MISSION STATUS
+
+**Status:** Active
+**Targets:** 5 cell members
+**Scope:** International (5 countries)
+**Timeline:** 2-4 months
+**Authorization:** Full
+**Resources:** Unlimited
+**Team:** 6 DGSE operators
+**Leadership:** Thomas Dieudegard
+
+**Next steps:**
+1. Financial tracking (De Vergennes on Malik)
+2. Target location identification
+3. Surveillance planning
+4. Assault execution
+5. Extraction coordination
+6. Final target (Yasmine) - Tadrart insertion
+
+---
+
+**END TEAM DOSSIER**
