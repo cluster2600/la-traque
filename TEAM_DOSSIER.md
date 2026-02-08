@@ -34,15 +34,15 @@
 
 ---
 
-### 3. LIEUTENANT CHRISTIAN DE VALOIS
+### 3. LIEUTENANT CHRISTIAN DE TARKOVSKY
 - **Rank:** Lieutenant, DGSE Intelligence
-- **Full name:** Christian Édouard de Valois
-- **Background:** Nobility (Loire Valley, royal heritage family)
+- **Full name:** Christian Édouard de Tarkovsky
+- **Background:** Nobility (Franco-Russian heritage, strategic lineage)
 - **Age:** 34
 - **Specialization:** Intelligence, recon, surveillance
 - **Role:** Recon lead, target verification
 - **Expertise:** Satellite imagery, ground reconnaissance, pattern analysis
-- **Languages:** French, Arabic, German, Darija
+- **Languages:** French, Arabic, German, Russian
 - **Personality:** Analytical, detail-focused, strategic
 - **Reputation:** Identifies targets others miss
 - **Status:** Intelligence officer, lead recon
@@ -64,10 +64,10 @@
 
 ---
 
-### 5. CORPORAL MARC-ANDRÉ DE VAUBAN
+### 5. CORPORAL MARC-ANDRÉ DE LECLERC
 - **Rank:** Corporal, DGSE Medical/Combat Medic
-- **Full name:** Marc-André Michel de Vauban
-- **Background:** Nobility (Brittany region, naval heritage)
+- **Full name:** Marc-André Michel de Leclerc
+- **Background:** Nobility (Normandy region, military medical heritage)
 - **Age:** 29
 - **Specialization:** Combat medicine, field trauma, tactical paramedic
 - **Role:** Medical officer, field trauma response
@@ -99,9 +99,9 @@
 ### Leadership structure:
 - **Thomas:** Overall commander (authorized, supported by Director)
 - **Beaumont:** Tactical assault lead (weapons, close combat)
-- **De Valois:** Intelligence lead (recon, target verification)
+- **De Tarkovsky:** Intelligence lead (recon, target verification)
 - **De Vergennes:** Logistics lead (equipment, coordination)
-- **De Vauban:** Medical lead (trauma, emergencies)
+- **De Leclerc:** Medical lead (trauma, emergencies)
 - **De Richelieu:** Technical lead (communications, systems)
 
 ### Communication hierarchy:
@@ -114,8 +114,8 @@
 
 ### Combat formation:
 - **Point:** Beaumont (weapons, assault lead)
-- **Left flank:** De Valois (recon coverage)
-- **Right flank:** De Vauban (medical coverage)
+- **Left flank:** De Tarkovsky (recon coverage)
+- **Right flank:** De Leclerc (medical coverage)
 - **Rear:** De Richelieu (communications, tech)
 - **Command center:** Thomas (oversight, decisions)
 - **Logistics:** De Vergennes (equipment, resupply, vehicles)
@@ -127,41 +127,41 @@
 ### Pre-insertion (Helicopter/Transport):
 - **Thomas:** Mission briefing, authorization confirmation
 - **Beaumont:** Weapon checks, assault readiness
-- **De Valois:** Final satellite intelligence review
+- **De Tarkovsky:** Final satellite intelligence review
 - **De Vergennes:** Equipment inventory, vehicle preparation
-- **De Vauban:** Medical supply checks, emergency readiness
+- **De Leclerc:** Medical supply checks, emergency readiness
 - **De Richelieu:** Communications test, satellite links
 
 ### Insertion (Beach landing):
 - **Thomas:** Oversees landing, confirms Touareg team
 - **Beaumont:** Weapons drawn, perimeter security
-- **De Valois:** Ground reconnaissance, threat assessment
+- **De Tarkovsky:** Ground reconnaissance, threat assessment
 - **De Vergennes:** Vehicle loading, equipment distribution
-- **De Vauban:** Medical readiness, emergency setup
+- **De Leclerc:** Medical readiness, emergency setup
 - **De Richelieu:** Communications with support aircraft
 
 ### Travel to Tadrart (Toyota convoy):
 - **Beaumont:** Lead vehicle, navigation, threat watch
-- **De Valois:** Second vehicle, perimeter coverage
+- **De Tarkovsky:** Second vehicle, perimeter coverage
 - **De Vergennes:** Third vehicle (if needed), logistics support
 - **Thomas:** Command vehicle, decision authority
-- **De Vauban:** Follows, medical readiness
+- **De Leclerc:** Follows, medical readiness
 - **De Richelieu:** Communications, satellite tracking
 
 ### House assault:
 - **Beaumont:** Lead, entry, weapon deployment
-- **De Valois:** Cover, secondary threat elimination
+- **De Tarkovsky:** Cover, secondary threat elimination
 - **Thomas:** Command, authorization, final execution
 - **De Vergennes:** Perimeter security, vehicle control
-- **De Vauban:** Standby, casualty response
+- **De Leclerc:** Standby, casualty response
 - **De Richelieu:** Communications blackout, signal blocking
 
 ### Extraction:
 - **Beaumont:** Rear guard, covering withdrawal
-- **De Valois:** Route security, threat assessment
+- **De Tarkovsky:** Route security, threat assessment
 - **Thomas:** Final target confirmation, authorization
 - **De Vergennes:** Vehicle organization, speed optimization
-- **De Vauban:** Casualty check (team + target)
+- **De Leclerc:** Casualty check (team + target)
 - **De Richelieu:** Communications, extraction coordination
 
 ---
@@ -208,8 +208,8 @@
 
 ### Vehicle coordination:
 - **Toyota 1 (Lead):** Beaumont + Touareg driver
-- **Toyota 2 (Intelligence):** De Valois + Touareg driver
-- **Toyota 3 (Support):** De Vergennes + De Vauban + De Richelieu + Thomas + Touareg driver
+- **Toyota 2 (Intelligence):** De Tarkovsky + Touareg driver
+- **Toyota 3 (Support):** De Vergennes + De Leclerc + De Richelieu + Thomas + Touareg driver
 
 ### Communication:
 - Encrypted radio network (Toulouse managed)
@@ -306,11 +306,11 @@
 - **Title:** Marquis de Beaumont
 - **Legacy:** Warrior heritage, precision tradition
 
-### Christian de Valois
-- **Region:** Loire Valley
-- **Family tradition:** Royal lineage, diplomats, strategists
-- **Title:** Baron de Valois
-- **Legacy:** Intellectual + military combined (royal blood)
+### Christian de Tarkovsky
+- **Region:** Franco-Russian heritage
+- **Family tradition:** Strategic intelligence, diplomacy, analysis
+- **Title:** Baron de Tarkovsky
+- **Legacy:** Intellectual + military combined (Franco-Russian)
 
 ### Rémi de Vergennes
 - **Region:** Occitanie (Southwest)
@@ -318,11 +318,11 @@
 - **Title:** Marquis de Vergennes
 - **Legacy:** Organization, supply mastery, diplomatic corps
 
-### Marc-André de Vauban
-- **Region:** Brittany
-- **Family tradition:** Naval officers, maritime tradition
-- **Title:** Baron de Vauban
-- **Legacy:** Naval/military engineering (Vauban fortifications family)
+### Marc-André de Leclerc
+- **Region:** Normandy
+- **Family tradition:** Military medical officers, trauma surgeons
+- **Title:** Baron de Leclerc
+- **Legacy:** Medical excellence, field medicine pioneer
 
 ### Stéphane de Richelieu
 - **Region:** Southwest France
