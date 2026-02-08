@@ -19,9 +19,9 @@
 
 ---
 
-### 2. CAPTAIN JEAN-CLAUDE DE MONTFORT
+### 2. CAPTAIN LOUIS-MARIE DE BEAUMONT
 - **Rank:** Captain, DGSE Special Operations
-- **Full name:** Jean-Claude Philippe de Montfort
+- **Full name:** Louis-Marie Gaston de Beaumont
 - **Background:** Nobility (Burgundy region, ancient lineage)
 - **Age:** 38
 - **Specialization:** Weapons master, tactical assault
@@ -34,10 +34,10 @@
 
 ---
 
-### 3. LIEUTENANT FRANÇOIS DE LA FONTAINE
+### 3. LIEUTENANT CHRISTIAN DE VALOIS
 - **Rank:** Lieutenant, DGSE Intelligence
-- **Full name:** François Édouard de La Fontaine
-- **Background:** Nobility (Loire Valley, literary heritage family)
+- **Full name:** Christian Édouard de Valois
+- **Background:** Nobility (Loire Valley, royal heritage family)
 - **Age:** 34
 - **Specialization:** Intelligence, recon, surveillance
 - **Role:** Recon lead, target verification
@@ -49,9 +49,9 @@
 
 ---
 
-### 4. SERGEANT PIERRE-LOUIS DE CASTELNAU
+### 4. SERGEANT MAJOR RÉMI DE VERGENNES
 - **Rank:** Sergeant major, DGSE Logistics
-- **Full name:** Pierre-Louis Alphonse de Castelnau
+- **Full name:** Rémi Alphonse de Vergennes
 - **Background:** Nobility (Occitanie region, military tradition)
 - **Age:** 40
 - **Specialization:** Logistics, equipment, supply chain
@@ -64,9 +64,9 @@
 
 ---
 
-### 5. CORPORAL GABRIEL DE RENNES
+### 5. CORPORAL MARC-ANDRÉ DE VAUBAN
 - **Rank:** Corporal, DGSE Medical/Combat Medic
-- **Full name:** Gabriel Michel de Rennes
+- **Full name:** Marc-André Michel de Vauban
 - **Background:** Nobility (Brittany region, naval heritage)
 - **Age:** 29
 - **Specialization:** Combat medicine, field trauma, tactical paramedic
@@ -79,9 +79,9 @@
 
 ---
 
-### 6. SPECIALIST VICTOR DE TOULOUSE
+### 6. SPECIALIST STEPHANE DE RICHELIEU
 - **Rank:** Specialist (no commission), DGSE Technical Operations
-- **Full name:** Victor Henri de Toulouse
+- **Full name:** Stéphane Henri de Richelieu
 - **Background:** Nobility (Southwest France, technology heritage)
 - **Age:** 31
 - **Specialization:** Communications, tech, signals intelligence
@@ -98,11 +98,11 @@
 
 ### Leadership structure:
 - **Thomas:** Overall commander (authorized, supported by Director)
-- **Montfort:** Tactical assault lead (weapons, close combat)
-- **La Fontaine:** Intelligence lead (recon, target verification)
-- **Castelnau:** Logistics lead (equipment, coordination)
-- **Rennes:** Medical lead (trauma, emergencies)
-- **Toulouse:** Technical lead (communications, systems)
+- **Beaumont:** Tactical assault lead (weapons, close combat)
+- **De Valois:** Intelligence lead (recon, target verification)
+- **De Vergennes:** Logistics lead (equipment, coordination)
+- **De Vauban:** Medical lead (trauma, emergencies)
+- **De Richelieu:** Technical lead (communications, systems)
 
 ### Communication hierarchy:
 1. Thomas issues orders
@@ -113,12 +113,12 @@
 6. Toulouse maintains all communications
 
 ### Combat formation:
-- **Point:** Montfort (weapons, assault lead)
-- **Left flank:** La Fontaine (recon coverage)
-- **Right flank:** Rennes (medical coverage)
-- **Rear:** Toulouse (communications, tech)
+- **Point:** Beaumont (weapons, assault lead)
+- **Left flank:** De Valois (recon coverage)
+- **Right flank:** De Vauban (medical coverage)
+- **Rear:** De Richelieu (communications, tech)
 - **Command center:** Thomas (oversight, decisions)
-- **Logistics:** Castelnau (equipment, resupply, vehicles)
+- **Logistics:** De Vergennes (equipment, resupply, vehicles)
 
 ---
 
@@ -126,43 +126,43 @@
 
 ### Pre-insertion (Helicopter/Transport):
 - **Thomas:** Mission briefing, authorization confirmation
-- **Montfort:** Weapon checks, assault readiness
-- **La Fontaine:** Final satellite intelligence review
-- **Castelnau:** Equipment inventory, vehicle preparation
-- **Rennes:** Medical supply checks, emergency readiness
-- **Toulouse:** Communications test, satellite links
+- **Beaumont:** Weapon checks, assault readiness
+- **De Valois:** Final satellite intelligence review
+- **De Vergennes:** Equipment inventory, vehicle preparation
+- **De Vauban:** Medical supply checks, emergency readiness
+- **De Richelieu:** Communications test, satellite links
 
 ### Insertion (Beach landing):
 - **Thomas:** Oversees landing, confirms Touareg team
-- **Montfort:** Weapons drawn, perimeter security
-- **La Fontaine:** Ground reconnaissance, threat assessment
-- **Castelnau:** Vehicle loading, equipment distribution
-- **Rennes:** Medical readiness, emergency setup
-- **Toulouse:** Communications with support aircraft
+- **Beaumont:** Weapons drawn, perimeter security
+- **De Valois:** Ground reconnaissance, threat assessment
+- **De Vergennes:** Vehicle loading, equipment distribution
+- **De Vauban:** Medical readiness, emergency setup
+- **De Richelieu:** Communications with support aircraft
 
 ### Travel to Tadrart (Toyota convoy):
-- **Montfort:** Lead vehicle, navigation, threat watch
-- **La Fontaine:** Second vehicle, perimeter coverage
-- **Castelnau:** Third vehicle (if needed), logistics support
+- **Beaumont:** Lead vehicle, navigation, threat watch
+- **De Valois:** Second vehicle, perimeter coverage
+- **De Vergennes:** Third vehicle (if needed), logistics support
 - **Thomas:** Command vehicle, decision authority
-- **Rennes:** Follows, medical readiness
-- **Toulouse:** Communications, satellite tracking
+- **De Vauban:** Follows, medical readiness
+- **De Richelieu:** Communications, satellite tracking
 
 ### House assault:
-- **Montfort:** Lead, entry, weapon deployment
-- **La Fontaine:** Cover, secondary threat elimination
+- **Beaumont:** Lead, entry, weapon deployment
+- **De Valois:** Cover, secondary threat elimination
 - **Thomas:** Command, authorization, final execution
-- **Castelnau:** Perimeter security, vehicle control
-- **Rennes:** Standby, casualty response
-- **Toulouse:** Communications blackout, signal blocking
+- **De Vergennes:** Perimeter security, vehicle control
+- **De Vauban:** Standby, casualty response
+- **De Richelieu:** Communications blackout, signal blocking
 
 ### Extraction:
-- **Montfort:** Rear guard, covering withdrawal
-- **La Fontaine:** Route security, threat assessment
+- **Beaumont:** Rear guard, covering withdrawal
+- **De Valois:** Route security, threat assessment
 - **Thomas:** Final target confirmation, authorization
-- **Castelnau:** Vehicle organization, speed optimization
-- **Rennes:** Casualty check (team + target)
-- **Toulouse:** Communications, extraction coordination
+- **De Vergennes:** Vehicle organization, speed optimization
+- **De Vauban:** Casualty check (team + target)
+- **De Richelieu:** Communications, extraction coordination
 
 ---
 
@@ -207,9 +207,9 @@
 - **Toulouse:** Glock 19 + communications gear
 
 ### Vehicle coordination:
-- **Toyota 1 (Lead):** Montfort + Touareg driver
-- **Toyota 2 (Intelligence):** La Fontaine + Touareg driver
-- **Toyota 3 (Support):** Castelnau + Rennes + Toulouse + Thomas + Touareg driver
+- **Toyota 1 (Lead):** Beaumont + Touareg driver
+- **Toyota 2 (Intelligence):** De Valois + Touareg driver
+- **Toyota 3 (Support):** De Vergennes + De Vauban + De Richelieu + Thomas + Touareg driver
 
 ### Communication:
 - Encrypted radio network (Toulouse managed)
@@ -300,35 +300,35 @@
 - **Title:** Counts/Counts de Dieudegard (historical)
 - **Legacy:** 3+ generations military service
 
-### Jean-Claude de Montfort
+### Louis-Marie de Beaumont
 - **Region:** Burgundy
-- **Family tradition:** Military commanders, knights (medieval)
-- **Title:** Counts de Montfort
+- **Family tradition:** Military commanders, weapons masters
+- **Title:** Marquis de Beaumont
 - **Legacy:** Warrior heritage, precision tradition
 
-### François de La Fontaine
+### Christian de Valois
 - **Region:** Loire Valley
-- **Family tradition:** Writers, diplomats, strategists
-- **Title:** Counts/Barons de La Fontaine
-- **Legacy:** Intellectual + military combined
+- **Family tradition:** Royal lineage, diplomats, strategists
+- **Title:** Baron de Valois
+- **Legacy:** Intellectual + military combined (royal blood)
 
-### Pierre-Louis de Castelnau
+### Rémi de Vergennes
 - **Region:** Occitanie (Southwest)
 - **Family tradition:** Military logistics, crusaders
-- **Title:** Counts de Castelnau
-- **Legacy:** Organization, supply mastery
+- **Title:** Marquis de Vergennes
+- **Legacy:** Organization, supply mastery, diplomatic corps
 
-### Gabriel de Rennes
+### Marc-André de Vauban
 - **Region:** Brittany
 - **Family tradition:** Naval officers, maritime tradition
-- **Title:** Counts/Barons de Rennes
-- **Legacy:** Medical/naval combination (ship medicine heritage)
+- **Title:** Baron de Vauban
+- **Legacy:** Naval/military engineering (Vauban fortifications family)
 
-### Victor de Toulouse
-- **Region:** Southwest France (Toulouse area)
+### Stéphane de Richelieu
+- **Region:** Southwest France
 - **Family tradition:** Scholars, technologists, engineers
-- **Title:** Counts de Toulouse (historical)
-- **Legacy:** Innovation, technical expertise
+- **Title:** Baron de Richelieu (cadet branch)
+- **Legacy:** Innovation, technical expertise, administrative tradition
 
 ---
 
