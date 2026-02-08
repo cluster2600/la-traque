@@ -9,7 +9,7 @@ He answers. The noise of the command center swallows the moment. Voices. Sirens.
 
 "Thomas? Ben jy veilig?" (Thomas? Are you safe?)
 
-Her name is Magdalena van der Merwe. She's sixty-seven. She's Afrikaans. South African. She lives in the 8th arrondissement. Near the Élysée Palace. Three kilometers from one of the attacks.
+Her name is Magdalena van der Merwe. She's sixty-seven. She's Afrikaans. South African. She lives in Mont-Saint-Aignan. Normandy. North of Paris. Away from the city. Away from the attacks.
 
 "Ja, Ma. Ek is veilig," Thomas says. "Ek is by die hoofkwartier." (Yes, Mom. I'm safe. I'm at headquarters.)
 
@@ -19,7 +19,7 @@ Her name is Magdalena van der Merwe. She's sixty-seven. She's Afrikaans. South A
 
 "Ek het dit gevoel," she says. "Die hele woonstelling het geskud. Die vensters het gegons. Ek dink dit was 'n aardbewing." (I felt it. The whole apartment shook. The windows rattled. I thought it was an earthquake.)
 
-Thomas closes his eyes. He thinks about the Élysée Palace. Three hundred and forty-one people dead. And his mother felt the explosion from three kilometers away.
+Thomas closes his eyes. He thinks about Paris. About the explosions. About the chaos in the city. His mother is safe in Normandy. But she felt the distant rumble. She heard the news. She's afraid.
 
 "Jy moet weggaan," he says. (You must leave.)
 
@@ -27,7 +27,7 @@ Thomas closes his eyes. He thinks about the Élysée Palace. Three hundred and f
 
 "Parys. Jy moet Parys verlaat." (Paris. You must leave Paris.)
 
-There's silence on the line. His mother doesn't understand. She's lived in Paris for sixty-seven years. She's never left. Paris is home. She came from South Africa decades ago, built her life here.
+There's silence on the line. His mother doesn't understand. She's lived in Mont-Saint-Aignan for decades. She's safe there. But now the government is in crisis. Now the borders are closing. Now nowhere feels safe.
 
 "Ek verstaan nie," she says. (I don't understand.)
 
@@ -103,15 +103,13 @@ He goes back to work.
 
 **Chapter 2.5 Notes:**
 - Thomas's mother: Magdalena van der Merwe, 67, Afrikaans, South African
-- Lives 8th arrondissement (near Élysée)
+- Lives Mont-Saint-Aignan, Normandy (north of Paris, safe from city)
 - Phone call immediately after command center arrival
-- Mother felt explosion three kilometers away
-- Windows rattled, thought it was earthquake
-- Thomas realizes mother is in danger zone
-- Suggests leaving Paris
-- Offers Tokyo as refuge (Taka + granddaughter)
-- Mother reluctant (never flew, doesn't speak Japanese, longtime Paris resident)
-- Thomas insists (for her safety)
+- Mother heard news from Paris, felt distant fear
+- Thomas realizes mother should leave region entirely
+- Suggests Tokyo as refuge (Taka + granddaughter)
+- Mother reluctant (never flew, doesn't speak Japanese, settled in Normandy)
+- Thomas insists (for her safety, broader security crisis)
 - Mother agrees
 - Flight arranged: tomorrow morning, first class, direct
 - Personal touch: Thomas cares for mother despite mission
@@ -124,13 +122,13 @@ He goes back to work.
 - **67 years old**
 - **Afrikaans speaker** (South African origin)
 - **White South African name** (van der Merwe)
-- **Lives Paris 8th** (Élysée neighborhood, migrated decades ago)
+- **Lives Mont-Saint-Aignan, Normandy** (settled decades ago, away from Paris)
 - Never flew before
 - Doesn't speak Japanese
 - Taka in Tokyo (wife/ex-wife?)
 - Granddaughter in Tokyo
 - Gets on flight tomorrow
-- Safe away from Paris
+- Safe away from France entirely
 - **Entire conversation in Afrikaans**
 
 **Thematic weight:**
