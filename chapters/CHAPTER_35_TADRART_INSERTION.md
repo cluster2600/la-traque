@@ -105,7 +105,7 @@ Yasmine doesn't run. She doesn't beg. She just looks at him.
 
 Thomas's jaw tightens. But he doesn't speak. He doesn't confirm. He doesn't deny.
 
-"My son," he says.
+"A friend," he says. "A holiday friend."
 
 Yasmine nods. "Then this is about duty. And vengeance. Both. Mixed together. You think you're coming to get justice. But you're really coming for blood."
 
@@ -127,13 +127,13 @@ The first shot is silent. The suppressor works perfectly. Yasmine falls.
 
 One shot. One kill. One moment. One ending.
 
-She never knew his name. She never knew who hunted her. She never knew that her life would end in a stone house in Tadrart. At the hands of a man she'd never met. Because of a son she'd never killed.
+She never knew his name. She never knew who hunted her. She never knew that her life would end in a stone house in Tadrart. At the hands of a man she'd never met. Because of a friend she'd never killed.
 
 This is where it ends. In a stone house in Tadrart. In the Sahara. In the middle of nowhere.
 
 This is where everything stops.
 
-Thomas lowers the Glock. He looks at the body. He looks at the woman who killed his son. Who killed three thousand people. Who was never even aware that Thomas existed.
+Thomas lowers the Glock. He looks at the body. He looks at the woman who killed his friend. Who killed three thousand people. Who was never even aware that Thomas existed.
 
 The hunt is over.
 
