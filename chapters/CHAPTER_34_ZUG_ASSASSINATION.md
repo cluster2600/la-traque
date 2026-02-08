@@ -7,7 +7,7 @@ He thought he was safe. He thought hiding in Zug, in a house on the lake, meant 
 
 He was wrong.
 
-The bitcoin transactions they found in the Mantes-la-Jolie TNT lab led directly to him. Eight million euros equivalent in bitcoin. Wallet addresses. Transaction IDs. Blockchain traces. All pointed to Zug. All pointed to a house. All pointed to a man who thought he could disappear into Swiss wealth and cryptocurrency anonymity.
+The bitcoin transactions they found in the Mantes-la-Jolie TNT lab led directly to him. Wallet addresses. Transaction IDs. Blockchain traces. All pointed to Zug. All pointed to a house. All pointed to a man who thought he could disappear into Swiss wealth and cryptocurrency anonymity.
 
 Thomas's team watched him for three days.
 
@@ -61,6 +61,42 @@ Malik tried to run.
 
 Leclerc caught him. The medic. The young one. Malik was heavy. Malik was slick with baby oil. Malik was difficult to hold. But Leclerc held him anyway. The medical training translated to body awareness. To leverage. To control. To moving a heavy, unwilling body.
 
+Before they took him to the lake, they searched the house.
+
+Malik's bedroom. The safe in the closet. De Vergennes opened it with explosives. Professional. Quiet. Efficient.
+
+Inside: gold bars. Stacks of them. Ten ounces each. Professional storage. Untraceable wealth.
+
+Watches. Rolex. Patek Philippe. Omega. Thousands of francs each. Hidden in velvet cases.
+
+And cash.
+
+One thousand franc notes. Stacks of them. Bundled. Organized. Hundreds of thousands of francs. Maybe more. Professional money launderers keep physical currency for emergencies. For bribes. For escape.
+
+Thomas looked at De Vergennes.
+
+"Take it," Thomas said.
+
+"All of it?" De Vergennes asked.
+
+"All of it."
+
+The team packed the gold. The watches. The cash. Into bags. Into duffels. Into pockets.
+
+Three million Swiss francs in cash. Two million more in gold and watches.
+
+Five million Swiss francs.
+
+Leclerc looked at Thomas. Medical officer. Young. Professional.
+
+"For what?" Leclerc asked.
+
+"Retirement," Thomas said.
+
+They understood. They understood that this was off-books. They understood that this was not official. They understood that five million francs, distributed among six operators, meant financial security for life. They understood that this was the price of silence. This was the reward for professionalism. This was the compensation for risk.
+
+They took it all.
+
 They took him to the lake.
 
 The ponton. The dark water. The Swiss night.
@@ -111,11 +147,15 @@ The Swiss secret service never knew.
 
 Thomas and his team extracted to the safe house. To rest. To debrief. To prepare for the final operation.
 
+With five million Swiss francs in gold, watches, and cash.
+
 Malik Benhadj was dead.
 
-The eight million euros in bitcoin remained. The wallets were frozen. The private keys were lost. The cryptocurrency would disappear into government control. The transaction chain was broken.
+The bitcoin wallets were frozen. The private keys were lost. The cryptocurrency would disappear into government control. The transaction chain was broken.
 
-But Malik was dead.
+But the team had the physical wealth. Five million francs. Untraceable. Untaxable. Theirs.
+
+Retirement financed by a dead man's safe.
 
 And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a Swiss lake. Unaware that her operation was collapsing. Unaware that the hunt was closing in. Unaware that death was waiting in the Sahara.
 
@@ -128,37 +168,50 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 **Chapter 34 Notes:**
 - Malik Benhadj: financier, never escaped, always in Zug
 - Bitcoin transactions traced from Mantes-la-Jolie TNT lab
-- Eight million euros equivalent in bitcoin, wallet addresses, blockchain traces
 - Team surveillance: 3 days observation
 - House: lake house, ponton, private access
 - Evening operation: during orgy
 - Malik: heavy, fat, covered in baby oil
 - 3 Slavic girls present
 - 4 men present: Malik + 3 Arab men (associates)
-- Girl caught between two men (transaction in progress)
 - Swiss secret service: unaware of French operation
 - Front surveillance: Beaumont + Richelieu (street side)
 - Lake entry: Thomas + Tarkovsky + De Vergennes + Leclerc
+
+**House search & loot:**
+- Safe in closet (explosives opened)
+- Gold bars (stacks, 10 ounces each)
+- Watches (Rolex, Patek Philippe, Omega)
+- One thousand franc notes (bundles)
+- Total: 5 million Swiss francs
+- 3 million francs in cash
+- 2 million in gold and watches
+- Distributed among 6 operators
+- Purpose: retirement, off-books compensation
+
+**Assassination:**
 - Girls evacuated (survival priority)
 - Arab men frozen (understood message)
 - Malik drowned in lake
-- Body left floating (evidence, problem for Swiss)
-- Extraction: clean, no police, no intervention
+- Body left floating
+- Extraction: clean, no police
 - Swiss never knew French were on their turf
-- Eight million euros seized
+
+**Aftermath:**
+- Bitcoin wallets frozen (government control)
+- Physical wealth: 5 million CHF (team kept)
 - Operation success: financier eliminated
+- Team financed for retirement
 
 **Key details:**
 - Malik: didn't escape, felt safe, miscalculated
 - Bitcoin chain: traced on blockchain, broken
 - Lake house: ideal for covert entry/exit
 - Orgy: target occupied, distracted, vulnerable
-- Baby oil: made drowning difficult (buoyancy, slipperiness)
+- Baby oil: made drowning difficult
 - Leclerc: medical training translated to body control
 - Drowning: not quick, not easy, but inevitable
 - Body floated: embarrassment for Swiss authorities
-- Arab men: understood message, fled
-- Girls: survival priority, evacuated
 
 **Thematic weight:**
 - Money doesn't protect you
@@ -166,8 +219,9 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Switzerland isn't refuge
 - French reach is international
 - Silence is survival
+- Professional reward: off-books wealth
 - Next: Tadrart (final confrontation)
 
-**Word count:** ~1,400 words
+**Word count:** ~1,700 words
 **Style:** Lee Child (spare, professional, methodical)
-**Tone:** Assassination narrative, professional execution, moral complexity
+**Tone:** Assassination narrative, heist element, professional execution, moral ambiguity
