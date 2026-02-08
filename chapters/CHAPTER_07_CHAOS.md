@@ -47,7 +47,7 @@ Thomas is in the detention facility. Walking between the containers. Watching. T
 
 They won't be released soon.
 
-A man approaches Thomas. Age maybe forty. Algerian accent.
+A man approaches Thomas. Age maybe forty. Suburban French accent. Algerian heritage.
 
 "I live here," the man says. "I wasn't rioting. I was walking home. They arrested me anyway. Why?"
 

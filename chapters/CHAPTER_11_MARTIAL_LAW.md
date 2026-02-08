@@ -23,7 +23,7 @@ Malik Benhadj is there. Operations specialist. The one who built the Iveco truck
 
 Hassan Medjahed is not there. He's in custody. In a DGSE holding facility. Being interrogated. But Hassan won't talk. Hassan believes in the cause. Hassan will die before he betrays Yasmine.
 
-Inès Benmansour is not there. She was wounded in the catacombs and recaptured by police. She's also being held. Also interrogated. Also staying silent.
+Inès Benmansour is not there. She was captured by police during the evacuation. She's being held. Being interrogated. Staying silent.
 
 But the core remains. Yasmine. Malik. Three others whose names are known only to each other.
 

@@ -17,7 +17,7 @@ Yasmine sits on the balcony and looks at the monument. This is why she did it. T
 
 But something is wrong.
 
-On the street, people look at her. Not with recognition. With suspicion. She's Algerian. She speaks Arabic. She knows the culture. But she's not Algerian. She's French-Algerian. She's been in France her whole life. Her accent is wrong. Her clothes are wrong. Her mannerisms are wrong.
+On the street, people look at her. Not with recognition. With suspicion. She's Algerian. She speaks Arabic. She knows the culture. But she's not Algerian. She's French-Algerian. She's been in France her whole life. Her French accent is suburban Parisian (not North African). Her clothes are too modern. Her mannerisms are too French. She doesn't fit.
 
 She feels it. The distance. The way people notice her. The way the grocer studies her when she buys food. The way the café owner watches her. The way the neighborhood knows she doesn't belong.
 

@@ -53,7 +53,7 @@ Thomas nods. One more thread. One more way to find them.
 
 The technician inserts the disc. The screen goes black for three seconds. Then static. Then a face.
 
-It's a woman. Twenty-two years old. Dark hair. Dark eyes. Rage in her face. She's sitting in front of a black background. Nothing behind her. Nothing identifying. She's speaking French with a North African accent. Algerian diaspora. She's speaking slowly. Deliberately. Fury in every word.
+It's a woman. Twenty-two years old. Dark hair. Dark eyes. Rage in her face. She's sitting in front of a black background. Nothing behind her. Nothing identifying. She's speaking French with a suburban accent. Parisian suburbs. She's speaking slowly. Deliberately. Fury in every word.
 
 "My name is Yasmine Boudjellal. I am the voice of those who have no voice. I speak for the dead. For the forgotten. For the mothers of Algeria who buried children in mass graves while France pretended it was not genocide.
 
@@ -113,7 +113,7 @@ Thomas already knows there's a third bomb. He doesn't need to be told. If there 
 
 He's already thinking about the cell. Four people minimum. Could be five. Could be seven. One is the speaker. One placed the bombs. One is the logistics. One is the money. One might be the planner.
 
-The speaker has an Algerian accent. Possibly Algerian diaspora. Possibly Maghreb background. The ideology is anti-colonial. The target is French. The message mentions Algeria specifically.
+The speaker has a suburban French accent. Parisian suburbs. French-born Algerian identity. The ideology is anti-colonial. The target is French. The message mentions Algeria specifically.
 
 This is political. This is personal. This is someone's war.
 
@@ -137,7 +137,7 @@ The Director is waiting. He's been briefed already. The DVD has been forwarded. 
 
 Thomas sits. The Director sits.
 
-"Four to seven person cell. At least one is Algerian based on accent. At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed bombs in Métro 14. At least two detonated. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
+"Four to seven person cell. All members appear Algerian heritage. All speak French (suburban accent, not North African). At least one has knowledge of Paris infrastructure. At least one has explosives training. At least one is handling ideology and messaging. At least one is funding. They've placed bombs in Métro 14. At least two detonated. They have a political agenda: force France to apologize for Algerian colonization. They will escalate. They will keep escalating until they force a response."
 
 "Or until we stop them," the Director says.
 

@@ -89,7 +89,7 @@ Thomas doesn't respond. He just listens.
 
 The voice on the phone goes silent.
 
-"That's impossible," the voice says. "The catacomb cell is contained. Hassan and Inès are in custody. We have her associates. We have the infrastructure."
+"That's impossible," the voice says. "The cell should be contained. Hassan is in custody. We have her associates. We have the infrastructure."
 
 "She had backup," Thomas says. "She had other cells. This wasn't one attack. This was coordinated. This was planned from the beginning. The metro was the opening move. This is the real assault."
 
@@ -145,7 +145,7 @@ But she's already gone.
 
 By midnight, Thomas knows this. He's been tracking her movements. The café owner across from the plaza saw a woman leave the area at 2:46 PM. Before the attack. She was filming on her phone. She was documenting.
 
-The woman had a Algerian or North African accent. She was directing people toward and away from the impact zone. She was orchestrating the chaos.
+The woman had a suburban French accent. She was directing people toward and away from the impact zone. She was orchestrating the chaos. Yasmine. Finally visible. Finally in control. Finally being seen.
 
 It was Yasmine.
 
