@@ -127,13 +127,29 @@ She doesn't answer immediately. She looks out the window. At the city that rejec
 
 "For the end," she says.
 
-She hangs up. She doesn't wait for his response. She doesn't need to. Hassan will understand. Hassan will spread the word through whatever network remains. The cell is gone. Only Yasmine survives. Only Yasmine continues.
+She hangs up. Hassan is already moving. She hears him on the other end making calls. Arranging. Coordinating.
 
-She takes a taxi. She finds the Touareg driver at the stand. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
+Within an hour, a text message arrives: "Driver waiting at the Casbah Hotel. Toyota. 11 AM. He knows where to take you."
 
-"Tadrart," she says.
+Yasmine goes to the hotel. At 11 AM, a Toyota Land Cruiser pulls up. An old model. Desert-worn. The kind of vehicle that's crossed the Sahara a thousand times. The driver is Touareg. Dark-skinned, blue robes, veiled. A professional. Not a smuggler. A driver. Someone Hassan hired.
 
-The driver nods. He doesn't ask why. He doesn't ask her name. He doesn't ask if she's running from something. He just nods. Tadrart is far. Tadrart pays well.
+"Hassan sent me," the driver says in French. The only words he speaks.
+
+She gets in the passenger seat. They drive south. Out of Algiers. Out of the city that rejected her. Out toward the desert.
+
+Two days of driving. Two days of sand. Two days of silence between them. The driver doesn't ask questions. The driver doesn't care who she is. Hassan paid him. That's all that matters.
+
+By the second evening, the landscape changes. Mountains appear. The desert hardens. The driver points ahead.
+
+"Tadrart," he says.
+
+They arrive at a small house. On the edge of town. Made of stone. Simple. Anonymous. Hassan's house. A safe house. A place prepared in advance. A place waiting for her.
+
+The driver stops the car. He gives her a key. He leaves. He drives back north without saying goodbye.
+
+She's alone in Hassan's house in Tadrart. The house is small. There's food in the kitchen. Water in the containers. A bed in the corner. Money on the table. Enough for weeks.
+
+Hassan thought of everything. Hassan prepared. Hassan knew she would need a refuge.
 
 She doesn't know why she chooses a Touareg driver. Maybe because he's not Algerian. Maybe because he won't see her as a foreigner. Maybe because the Touareg don't care about French wars or Algerian independence. They have their own struggles. They have their own honor codes.
 
@@ -151,11 +167,13 @@ The Touareg drives in silence. Two days. Three days. The car rumbles. The desert
 
 The town is small. The town is poor. The town is the end of the road. The place where the car stops and everyone gets out because there's nowhere else to go.
 
-Yasmine gets out of the car. She gives the Touareg money. He takes it. He doesn't ask for her name. He doesn't tell her his. He just nods and turns the car around and heads back north. Back to Algiers. Back to the next person needing to disappear.
+She enters Hassan's house. She closes the door. She looks at the room. The bed. The water. The money. The food. Hassan arranged all of this from Paris. Hassan prepared a refuge.
 
-She's carrying a small bag. She has money. She has rage. She has the knowledge that she killed three thousand people and it wasn't enough. It wasn't enough to change anything. It wasn't enough to make France apologize. It wasn't enough to make the world notice.
+She sits on the bed. She looks out the window at the desert. At the mountains. At the place where everything ends.
 
-She finds a hotel. A small place. The kind of place that doesn't ask for documents. The kind of place that takes cash and doesn't care who you are. The Touareg driver probably comes here. Probably brings other people. Other refugees. Other people running.
+She has money. She has a house. She has a refuge. She has rage. She has the knowledge that she killed three thousand people and it wasn't enough. It wasn't enough to change anything. It wasn't enough to make France apologize. It wasn't enough to make the world notice.
+
+But Hassan understands. Hassan prepared. Hassan knew she would survive Algiers and need a place to wait.
 
 She sits in her room. She looks out the window at the desert. At the mountains. At the place where everything ends.
 
