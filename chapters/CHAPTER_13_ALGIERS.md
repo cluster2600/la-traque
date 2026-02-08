@@ -5,7 +5,11 @@ The fishing boat arrives in Algiers at dawn. Yasmine is alone on deck. She's bee
 
 She doesn't see him. She makes it.
 
-The harbor is chaos. Boats everywhere. People shouting in Arabic. French. English. The smell of salt and diesel and fish. She disappears into the crowd. She's Algerian. She belongs here. Or she should.
+At the harbor, she stops at a shop. She buys a burka. Full coverage. Black fabric. Only her eyes visible. The vendor doesn't ask questions. Women buy burkas every day.
+
+She puts it on. The fabric is heavy. It smells like unknown women. Unknown lives. She covers herself completely. Her face. Her body. Her identity.
+
+The harbor is chaos. Boats everywhere. People shouting in Arabic. French. English. The smell of salt and diesel and fish. She disappears into the crowd. Now she looks Algerian. Now she belongs. Or she tries to.
 
 She takes a taxi up the hill. Up past the old French colonial buildings. Up past the markets. Up to a small apartment that a contact arranged. A contact of a contact. Someone who knows someone who owes someone a favor.
 
@@ -17,7 +21,11 @@ Yasmine sits on the balcony and looks at the monument. This is why she did it. T
 
 But something is wrong.
 
-On the street, people look at her. Not with recognition. With suspicion. She's Algerian. She speaks Arabic. She knows the culture. But she's not Algerian. She's French-Algerian. She's been in France her whole life. Her French accent is suburban Parisian (not North African). Her clothes are too modern. Her mannerisms are too French. She doesn't fit.
+On the street, people look at her. Not with recognition. With suspicion. The burka should hide her. The burka should make her invisible. But underneath, she's still wrong. Her eyes move wrong. Her walk is wrong. The way she holds herself is wrong.
+
+She's Algerian. She speaks Arabic. She knows the culture. But she's not Algerian. She's French-Algerian. She's been in France her whole life. Her French accent is suburban Parisian (not North African). Under the burka, her clothes are too modern (she bought them in Paris). Her mannerisms are too French. Even hidden, she doesn't fit.
+
+The burka is a costume. And underneath, everyone can tell she's wearing it.
 
 She feels it. The distance. The way people notice her. The way the grocer studies her when she buys food. The way the café owner watches her. The way the neighborhood knows she doesn't belong.
 
