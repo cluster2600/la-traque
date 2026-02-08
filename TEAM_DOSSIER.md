@@ -42,11 +42,11 @@
 - **Specialization:** Intelligence, recon, surveillance
 - **Role:** Recon lead, target verification
 - **Expertise:** Satellite imagery, ground reconnaissance, pattern analysis
-- **Languages:** French, Arabic, German, Polish, Yiddish
+- **Languages:** French (fluent), Arabic (fluent), German (fluent), Polish (basic), Yiddish (basic)
 - **Personality:** Analytical, detail-focused, strategic
 - **Reputation:** Identifies targets others miss
 - **Status:** Intelligence officer, lead recon
-- **Family heritage:** Polish-Jewish nobility, assimilated into French aristocracy
+- **Family heritage:** Polish-Jewish nobility, assimilated into French aristocracy (Polish/Yiddish preserved informally, not professionally)
 
 ---
 
