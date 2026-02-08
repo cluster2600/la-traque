@@ -1,7 +1,7 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 12: MANTES-LA-JOLIE
 
-Thomas doesn't go to Montpellier. He goes to Mantes-la-Jolie first.
+Thomas goes to Mantes-la-Jolie first.
 
 Because Yasmine grew up there. Because the cell must have had infrastructure. Because explosives don't manufacture themselves.
 
@@ -15,7 +15,9 @@ The door is padlocked. Thomas cuts through it. Inside: the laboratory.
 
 It's still warm. Still smells like chemicals. Still smells like TNT.
 
-Tables with equipment. Beakers. Scales. Thermometers. Instructions written in Arabic on a whiteboard. Formulas. Calculations. Precise measurements. This is where they built the explosives. This is where they turned chemistry into terror.
+Tables with equipment. Beakers. Scales. Thermometers. Instructions written in French on a whiteboard. Formulas. Calculations. Precise measurements. This is where they built the explosives. This is where they turned chemistry into terror.
+
+Scattered around: energy drink cans. Rolling papers. A PS4 controller on the ground. Posters for French rap artists on the walls. This isn't a madrassa. This isn't a training camp. This is where kids from the HLMs built bombs between video games and weed smoke.
 
 Thomas takes photographs. He calls Moreau.
 
