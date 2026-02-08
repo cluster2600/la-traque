@@ -1,15 +1,15 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 35: TADRART INSERTION
 
-The intelligence comes from Hassan.
+The intelligence comes from the safe.
 
-Hassan Medjahed was captured in Lyon. He broke under interrogation. Not immediately. Not easily. But eventually, he broke.
+Malik's safe in Zug. The documents they found. Papers. Folios. Details about everything.
 
-He gave up the cell's locations. He gave up the safe houses. He gave up the escape routes. And he gave up Tadrart.
+Names. Locations. Hassan's house in Tadrart. The refuge. The route. The contact. Everything the cell needed. Everything Malik financed. Everything written down by a man who needed insurance.
 
-"She's going south," Hassan said. "To my cousin's house. Tadrart. Desert refuge. Hassan will protect her there."
+Thomas had the coordinates immediately. The DGSE had satellite imagery within hours. A small house. On the edge of a desert town. Inhabited. Servants moving in and out. The target location.
 
-Thomas had the coordinates within hours. The DGSE had Satellite imagery within days. A small house. On the edge of a desert town. Inhabited. Servants moving in and out. The target location.
+Yasmine waiting. Hassan's cousin. The financier's insurance policy had just killed her.
 
 Now Thomas is in a Horizon-class helicopter. A military transport. Fast. Armed. Built for special operations insertion.
 
