@@ -35,11 +35,15 @@ They find proof of the operation.
 
 By then, the city is in chaos. The increased police presence. The military checkpoints. The random interrogations. The invasions of privacy. Young men stopped on the street for no reason except their appearance. Families dragged from their homes. Searches without warrants. Questions without answers.
 
-The residents of Mantes-la-Jolie are scared. They're angry. They're insulted. They're targeted.
+But there's another crisis. The drug trade has stopped. The dealers can't operate. The police are everywhere. The checkpoints stop every car. The surveillance is total. No deals. No money. No income.
+
+The young men who sell drugs to survive are losing everything. The money that fed their families. The economy that kept the suburbs alive. The informal system that worked when the government didn't.
+
+The residents of Mantes-la-Jolie are scared. They're angry. They're insulted. They're targeted. And they're broke.
 
 The riots begin.
 
-Young men gather in the streets. They throw rocks. They burn cars. They build barricades. The police respond with tear gas. With rubber bullets. With violence.
+Young men gather in the streets. Not just angry. Desperate. They throw rocks. They burn cars. They build barricades. They're fighting for their livelihood. The police respond with tear gas. With rubber bullets. With violence.
 
 The military arrives.
 
