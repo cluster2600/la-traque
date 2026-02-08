@@ -141,9 +141,11 @@ She doesn't answer immediately. She looks out the window. At the city that rejec
 
 She hangs up. Hassan is already moving. She hears him on the other end making calls. Arranging. Coordinating.
 
-Within an hour, a text message arrives: "Driver waiting at the Casbah Hotel. Toyota. 11 AM. He knows where to take you."
+Within an hour, a text message arrives: "Driver waiting at the Sofitel. Toyota. 11 AM. Walk there. He knows where to take you."
 
-Yasmine goes to the hotel. At 11 AM, a Toyota Land Cruiser pulls up. An old model. Desert-worn. The kind of vehicle that's crossed the Sahara a thousand times. The driver is Touareg. Dark-skinned, blue robes, veiled. A professional. Not a smuggler. A driver. Someone Hassan hired.
+Yasmine walks. Through the dirty streets of Algiers. Through the crowds. Through the smell of sewage and garbage. The Sofitel is on the hill. Modern hotel. International. The last place anyone would expect to find her. She walks for an hour. Through the city she hates. Through the city that rejects her. To the hotel that waits.
+
+At 11 AM, a Toyota Land Cruiser pulls up in front of the Sofitel. An old model. Desert-worn. The kind of vehicle that's crossed the Sahara a thousand times. The driver is Touareg. Dark-skinned, blue robes, veiled. A professional. Not a smuggler. A driver. Someone Hassan hired.
 
 "Hassan sent me," the driver says in French. The only words he speaks.
 
