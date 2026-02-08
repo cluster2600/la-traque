@@ -207,13 +207,21 @@ She's alone in her comprehension. Alone in her rage. Alone in her mission.
 
 And she waits.
 
-She doesn't know what she's waiting for. She doesn't know what comes next. She just knows that Thomas is coming. She can feel it. The way she felt the bombs detonate. The way she felt the pyramid fall. The way she felt France burning.
+She waits because Hassan told her to wait. Hassan said lay low. Hassan said hide. Hassan said the manhunt will eventually fade. Hassan said France will move on. Hassan said by next year, nobody will be looking anymore.
 
-Thomas will understand. Not why she did it. But that she did it. He'll see her as a worthy opponent. As someone who matters. As someone whose actions have consequence.
+Hassan said she can get away with it.
 
-Thomas is coming.
+She doesn't know Thomas. She doesn't know that someone is still hunting. She doesn't know that the hunt has crossed the Mediterranean. She doesn't know that her face is on wanted posters. She doesn't know that Thomas is coming south. She doesn't know that Thomas is relentless.
 
-And when he arrives, she'll finally be seen.
+She thinks she can escape. She thinks Hassan's plan will work. She thinks time will protect her. She thinks Algeria is far enough. She thinks Tadrart is safe.
+
+She thinks she can get away with killing three thousand people.
+
+She sits in Hassan's house and waits for the manhunt to fade. She waits for the news cycle to move on. She waits for the world to forget. She waits for safety to arrive.
+
+She doesn't know that safety will never come. She doesn't know that Thomas is already in Algeria. She doesn't know that the hunt is closing in.
+
+She just knows that Hassan said she could get away with it. And she believes him.
 
 ---
 
