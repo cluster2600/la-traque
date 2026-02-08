@@ -65,13 +65,17 @@ Before they took him to the lake, they searched the house.
 
 Malik's bedroom. The safe in the closet. De Vergennes opened it with explosives. Professional. Quiet. Efficient.
 
-Inside: gold bars. Stacks of them. 10 kilograms each. Professional storage. Untraceable wealth.
+Inside: everything.
 
-Watches. Rolex. Patek Philippe. Omega. Thousands of francs each. Hidden in velvet cases.
+Gold bars. Stacks of them. 10 kilograms each. Dozens of them. Professional storage. Untraceable wealth. Millions in gold alone.
 
-And cash.
+Diamonds. In velvet boxes. Loose stones. Professional cuts. Certified. Worth more than the gold. Millions more.
 
-One thousand franc notes. Stacks of them. Bundled. Organized. Hundreds of thousands of francs. Maybe more. Professional money launderers keep physical currency for emergencies. For bribes. For escape.
+US Treasury bonds. Bearer bonds. No names. No registration. No trace. Direct to whoever held them. Worth tens of millions. The ultimate untraceable currency.
+
+Cash. One thousand franc notes. Stacks and stacks. Hundreds of thousands. Maybe a million in Swiss currency.
+
+Watches. Rolex. Patek Philippe. Omega. Thousands of francs each. Hidden in velvet cases. Valuable but insignificant compared to the rest.
 
 Thomas looked at De Vergennes.
 
@@ -81,11 +85,9 @@ Thomas looked at De Vergennes.
 
 "All of it."
 
-The team packed the gold. The watches. The cash. Into bags. Into duffels. Into pockets.
+The team packed everything. Gold into bags. Diamonds into pockets. Treasury bonds into secure compartments. Cash into duffels. Watches into cases.
 
-Three million Swiss francs in cash. Two million more in gold and watches.
-
-Five million Swiss francs.
+Fifty million Swiss francs equivalent. Maybe more. Professional money laundering on an epic scale. A decade of financial operations. All in one safe.
 
 Leclerc looked at Thomas. Medical officer. Young. Professional.
 
@@ -93,7 +95,9 @@ Leclerc looked at Thomas. Medical officer. Young. Professional.
 
 "Retirement," Thomas said.
 
-They understood. They understood that this was off-books. They understood that this was not official. They understood that five million francs, distributed among six operators, meant financial security for life. They understood that this was the price of silence. This was the reward for professionalism. This was the compensation for risk.
+They understood. They understood that this was off-books. They understood that this was not official. They understood that fifty million francs, distributed among six operators, meant generational wealth. Meant never working again. Meant security for life and their families' lives. They understood that this was the price of silence. This was the reward for professionalism. This was the compensation for risk.
+
+This was payment for becoming ghosts.
 
 They took it all.
 
@@ -147,15 +151,17 @@ The Swiss secret service never knew.
 
 Thomas and his team extracted to the safe house. To rest. To debrief. To prepare for the final operation.
 
-With five million Swiss francs in gold, watches, and cash.
+With fifty million Swiss francs equivalent in gold, diamonds, US Treasury bonds, and cash.
 
 Malik Benhadj was dead.
 
 The bitcoin wallets were frozen. The private keys were lost. The cryptocurrency would disappear into government control. The transaction chain was broken.
 
-But the team had the physical wealth. Five million francs. Untraceable. Untaxable. Theirs.
+But the team had the physical wealth. Fifty million francs. More. Gold. Diamonds. Bearer bonds. Untraceable. Untaxable. Theirs.
 
-Retirement financed by a dead man's safe.
+Generational wealth. Retirement financed by a dead man's safe. Never work again. Never worry again. Never struggle again.
+
+For the price of one body in a Swiss lake.
 
 And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a Swiss lake. Unaware that her operation was collapsing. Unaware that the hunt was closing in. Unaware that death was waiting in the Sahara.
 
@@ -178,16 +184,17 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Front surveillance: Beaumont + Richelieu (street side)
 - Lake entry: Thomas + Tarkovsky + De Vergennes + Leclerc
 
-**House search & loot:**
+**House search & loot (MASSIVE):**
 - Safe in closet (explosives opened)
-- Gold bars (stacks, 10 ounces each)
-- Watches (Rolex, Patek Philippe, Omega)
-- One thousand franc notes (bundles)
-- Total: 5 million Swiss francs
-- 3 million francs in cash
-- 2 million in gold and watches
+- Gold bars (dozens, 10kg each, millions CHF)
+- Diamonds (loose stones, certified, millions CHF)
+- US Treasury bearer bonds (tens of millions CHF, untraceable)
+- One thousand franc notes (hundreds of thousands CHF)
+- Watches (Rolex, Patek Philippe, Omega, thousands CHF)
+- Total: 50 million Swiss francs equivalent (possibly more)
+- Professional money laundering operation scale
 - Distributed among 6 operators
-- Purpose: retirement, off-books compensation
+- Purpose: generational wealth, retirement, off-books compensation
 
 **Assassination:**
 - Girls evacuated (survival priority)
