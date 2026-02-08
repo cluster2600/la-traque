@@ -36,7 +36,7 @@
 
 ### 3. LIEUTENANT CHRISTIAN DE TARKOVSKY
 - **Rank:** Lieutenant, DGSE Intelligence
-- **Full name:** Christian Édouard de Tarkovsky
+- **Full name:** Christian Édouard Tarkovsky
 - **Background:** Nobility (Jewish Polish heritage, Franco-Polish integration)
 - **Age:** 34
 - **Specialization:** Intelligence, recon, surveillance
@@ -100,7 +100,7 @@
 ### Leadership structure:
 - **Thomas:** Overall commander (authorized, supported by Director)
 - **Beaumont:** Tactical assault lead (weapons, close combat)
-- **De Tarkovsky:** Intelligence lead (recon, target verification)
+- **Tarkovsky:** Intelligence lead (recon, target verification)
 - **De Vergennes:** Logistics lead (equipment, coordination)
 - **Leclerc:** Medical lead (trauma, emergencies)
 - **De Richelieu:** Technical lead (communications, systems)
@@ -115,7 +115,7 @@
 
 ### Combat formation:
 - **Point:** Beaumont (weapons, assault lead)
-- **Left flank:** De Tarkovsky (recon coverage)
+- **Left flank:** Tarkovsky (recon coverage)
 - **Right flank:** Leclerc (medical coverage)
 - **Rear:** De Richelieu (communications, tech)
 - **Command center:** Thomas (oversight, decisions)
@@ -128,7 +128,7 @@
 ### Pre-insertion (Helicopter/Transport):
 - **Thomas:** Mission briefing, authorization confirmation
 - **Beaumont:** Weapon checks, assault readiness
-- **De Tarkovsky:** Final satellite intelligence review
+- **Tarkovsky:** Final satellite intelligence review
 - **De Vergennes:** Equipment inventory, vehicle preparation
 - **Leclerc:** Medical supply checks, emergency readiness
 - **De Richelieu:** Communications test, satellite links
@@ -136,14 +136,14 @@
 ### Insertion (Beach landing):
 - **Thomas:** Oversees landing, confirms Touareg team
 - **Beaumont:** Weapons drawn, perimeter security
-- **De Tarkovsky:** Ground reconnaissance, threat assessment
+- **Tarkovsky:** Ground reconnaissance, threat assessment
 - **De Vergennes:** Vehicle loading, equipment distribution
 - **Leclerc:** Medical readiness, emergency setup
 - **De Richelieu:** Communications with support aircraft
 
 ### Travel to Tadrart (Toyota convoy):
 - **Beaumont:** Lead vehicle, navigation, threat watch
-- **De Tarkovsky:** Second vehicle, perimeter coverage
+- **Tarkovsky:** Second vehicle, perimeter coverage
 - **De Vergennes:** Third vehicle (if needed), logistics support
 - **Thomas:** Command vehicle, decision authority
 - **Leclerc:** Follows, medical readiness
@@ -151,7 +151,7 @@
 
 ### House assault:
 - **Beaumont:** Lead, entry, weapon deployment
-- **De Tarkovsky:** Cover, secondary threat elimination
+- **Tarkovsky:** Cover, secondary threat elimination
 - **Thomas:** Command, authorization, final execution
 - **De Vergennes:** Perimeter security, vehicle control
 - **Leclerc:** Standby, casualty response
@@ -159,7 +159,7 @@
 
 ### Extraction:
 - **Beaumont:** Rear guard, covering withdrawal
-- **De Tarkovsky:** Route security, threat assessment
+- **Tarkovsky:** Route security, threat assessment
 - **Thomas:** Final target confirmation, authorization
 - **De Vergennes:** Vehicle organization, speed optimization
 - **Leclerc:** Casualty check (team + target)
@@ -209,7 +209,7 @@
 
 ### Vehicle coordination:
 - **Toyota 1 (Lead):** Beaumont + Touareg driver
-- **Toyota 2 (Intelligence):** De Tarkovsky + Touareg driver
+- **Toyota 2 (Intelligence):** Tarkovsky + Touareg driver
 - **Toyota 3 (Support):** De Vergennes + Leclerc + De Richelieu + Thomas + Touareg driver
 
 ### Communication:
@@ -307,10 +307,10 @@
 - **Title:** Marquis de Beaumont
 - **Legacy:** Warrior heritage, precision tradition
 
-### Christian de Tarkovsky
+### Christian Tarkovsky
 - **Region:** Polish-Jewish origin, Franco-Polish integration
 - **Family tradition:** Strategic intelligence, diplomacy, analysis, legal scholarship
-- **Title:** Baron de Tarkovsky (adopted French nobility)
+- **Title:** Baron Tarkovsky (adopted French nobility)
 - **Heritage:** Jewish Polish aristocracy, assimilated into French DGSE
 - **Legacy:** Intellectual + military combined (Polish-Jewish diaspora expertise)
 

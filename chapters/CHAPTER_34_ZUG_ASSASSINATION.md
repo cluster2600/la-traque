@@ -33,7 +33,7 @@ Two members of Thomas's team were on the street side. Beaumont and De Richelieu.
 
 Four members went in through the lake side.
 
-Thomas. De Tarkovsky. De Vergennes. Leclerc.
+Thomas. Tarkovsky. De Vergennes. Leclerc.
 
 The ponton was dark. The water was dark. The house was lit from inside. They could see the party. They could see the movement. They could see the excess.
 
@@ -51,7 +51,7 @@ Malik saw them first. He understood immediately. Understanding came to his face.
 
 Thomas nodded.
 
-De Tarkovsky moved toward the Arab men. Weapon drawn. Suppressed. He didn't fire. He didn't need to. The men understood. They froze. They stood with hands up. They understood that resistance meant death.
+Tarkovsky moved toward the Arab men. Weapon drawn. Suppressed. He didn't fire. He didn't need to. The men understood. They froze. They stood with hands up. They understood that resistance meant death.
 
 De Vergennes moved toward the girls. He didn't threaten them. He simply gestured. Away. Out. Gone. The girls moved. They grabbed clothes. They ran toward the kitchen and out. They understood survival meant not being there.
 
@@ -65,7 +65,7 @@ They took him to the lake.
 
 The ponton. The dark water. The Swiss night.
 
-Thomas held Malik's head. Leclerc held his arms. De Tarkovsky held his legs. De Vergennes watched for lights. Watched for movement. Watched for rescue that wouldn't come.
+Thomas held Malik's head. Leclerc held his arms. Tarkovsky held his legs. De Vergennes watched for lights. Watched for movement. Watched for rescue that wouldn't come.
 
 Malik tried to scream. Thomas's hand covered his mouth. The sound was muffled. The struggle was brief. The outcome was inevitable.
 
@@ -138,7 +138,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Girl caught between two men (transaction in progress)
 - Swiss secret service: unaware of French operation
 - Front surveillance: Beaumont + De Richelieu (street side)
-- Lake entry: Thomas + De Tarkovsky + De Vergennes + Leclerc
+- Lake entry: Thomas + Tarkovsky + De Vergennes + Leclerc
 - Girls evacuated (survival priority)
 - Arab men frozen (understood message)
 - Malik drowned in lake
