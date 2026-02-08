@@ -75,7 +75,9 @@ US Treasury bonds. Bearer bonds. No names. No registration. No trace. Direct to 
 
 Cash. One thousand franc notes. Stacks and stacks. Hundreds of thousands. Maybe a million in Swiss currency.
 
-Watches. Rolex. Patek Philippe. Omega. Thousands of francs each. Hidden in velvet cases. Valuable but insignificant compared to the rest.
+Watches. Rolex. Patek Philippe. Jaeger-LeCoultre. Tens of thousands of francs each. Hidden in velvet cases.
+
+Documents. Papers. Folios. In the back of the safe. Names. Locations. Details. About Tadrart. About Hassan's house. About the refuge. About everything they needed to know. Valuable but insignificant compared to the rest.
 
 Thomas looked at De Vergennes.
 
@@ -85,7 +87,7 @@ Thomas looked at De Vergennes.
 
 "All of it."
 
-The team packed everything. Gold into bags. Diamonds into pockets. Treasury bonds into secure compartments. Cash into duffels. Watches into cases.
+The team packed everything. Gold into bags. Diamonds into pockets. Treasury bonds into secure compartments. Cash into duffels. Watches into cases. Documents into portfolios. Tadrart intelligence into Thomas's hands.
 
 Fifty million Swiss francs equivalent. Maybe more. Professional money laundering on an epic scale. A decade of financial operations. All in one safe.
 
@@ -190,11 +192,12 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Diamonds (loose stones, certified, millions CHF)
 - US Treasury bearer bonds (tens of millions CHF, untraceable)
 - One thousand franc notes (hundreds of thousands CHF)
-- Watches (Rolex, Patek Philippe, Omega, thousands CHF)
+- Watches (Rolex, Patek Philippe, Jaeger-LeCoultre, tens of thousands CHF each)
+- **Documents about Tadrart** (names, locations, Hassan's house details, refuge intelligence)
 - Total: 50 million Swiss francs equivalent (possibly more)
 - Professional money laundering operation scale
 - Distributed among 6 operators
-- Purpose: generational wealth, retirement, off-books compensation
+- Purpose: generational wealth, retirement, off-books compensation + operational intelligence
 
 **Assassination:**
 - Girls evacuated (survival priority)
