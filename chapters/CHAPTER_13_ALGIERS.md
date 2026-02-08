@@ -167,7 +167,7 @@ Hassan thought of everything. Hassan prepared. Hassan knew she would need a refu
 
 She doesn't know why she chooses a Touareg driver. Maybe because he's not Algerian. Maybe because he won't see her as a foreigner. Maybe because the Touareg don't care about French wars or Algerian independence. They have their own struggles. They have their own honor codes.
 
-The driver's car is old. A beaten-down Peugeot. The kind of car that has crossed the Sahara a thousand times. The kind of car that will cross it again.
+The driver's car is old. A beaten-down Toyota. The kind of car that has crossed the Sahara a thousand times. The kind of car that will cross it again.
 
 They leave at dawn.
 
