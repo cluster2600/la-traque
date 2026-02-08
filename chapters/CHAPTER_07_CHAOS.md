@@ -87,13 +87,13 @@ Hassan doesn't respond.
 
 Hassan looks up. His eyes are empty.
 
-"In the tunnels," Hassan says. "They're not in the city. They're in the old tunnels. The catacombs under Paris. The ones that run from the suburbs to the city center. They'll plant the next bomb in the Métro from the tunnels. They'll detonate it from below. You won't be able to stop them."
+"They're scattered," Hassan says. "Some still in Paris. Some heading to borders. Some already gone. Cell is split. Multiple teams. Multiple targets. They'll coordinate from different locations. You won't stop them all."
 
 Thomas doesn't move.
 
-"How many people?" Thomas asks.
+"What's the next target?" Thomas asks.
 
-"The next bomb?" Hassan smiles. The smile is not happy. It's the smile of someone who has accepted death. "Thousands. Maybe ten thousand. Maybe more. The Métro during rush hour. Multiple locations. Coordinated detonations."
+"I don't know," Hassan says. The smile is that of someone who has accepted death. "But there will be more. There's always more. They're not done. France hasn't apologized yet."
 
 Thomas stands.
 
@@ -103,29 +103,27 @@ Outside, the facility is chaos. More people are arriving. More buses. The contai
 
 By 9:00 AM, Thomas is back at the command post.
 
-He orders immediate action.
+He understands something: Hassan doesn't know the rest of the plan. Hassan is cell member, but not command. Yasmine keeps operational details compartmentalized. Hassan was finance and logistics. He doesn't know where they are. He doesn't know what's next.
 
-"Close all Métro stations in the Paris region. Begin evacuation of the tunnels. I want every tunnel mapped. Every basement. Every utility passage. The cell is moving through the catacombs. They're planning a coordinated multi-location bombing. We have maybe twelve hours before they're ready to detonate."
+Thomas orders immediate action.
 
-The orders are relayed. The Métro shuts down. Thousands of commuters are turned away. The system grinds to a halt. The city is paralyzed.
+"Full mobilization. Every border crossing. Every airport. Every port. I want them found before they can execute the next attack. They're scattered but connected. Someone knows where they're going. Someone knows the next target."
 
-But the cell is still out there.
+The orders are relayed. Police mobilize to borders. Airports are on alert. Ports are watched. But the cell is already scattered. Some are already gone.
 
-In the darkness below Paris. In tunnels that haven't been mapped in decades. In spaces where nobody can reach them.
+Yasmine is leading them. Hassan said so. Yasmine who speaks about justice. Yasmine who sees herself as the voice of the dead. Yasmine who will keep attacking until France listens or she's dead.
 
-Yasmine is leading them. Hassan said so. Yasmine who speaks about justice. Yasmine who sees herself as the voice of the dead. Yasmine who is about to kill thousands to make France listen.
-
-Thomas looks at the tactical map. The Métro system. The catacombs. The quarries beneath the city. It's a maze. It's impossible. It's where the cell is hiding.
+Thomas looks at the map of France. The borders. The routes. The escape paths. It's a labyrinth. It's impossible. It's where the cell will try to go.
 
 He picks up the radio.
 
-"All units. We're going into the catacombs. Full gear. We're hunting."
+"All units. They're running. Find them before they leave France."
 
 Moreau is next to him.
 
-"That's suicide," Moreau says. "The tunnels are a labyrinth. We'll get lost. We'll die down there."
+"We don't even know which direction," Moreau says.
 
-"Yes," Thomas says. "Probably. But if we don't, thousands die above."
+"South," Thomas says. "They're going south. To the Mediterranean. To Algeria. That's where they want to go."
 
 Thomas picks up his rifle.
 
@@ -143,9 +141,9 @@ He's going into the darkness.
 - Mass arrests: 5,000 → 8,000 people in containers by 2 AM
 - Humanitarian disaster: overcrowding, no water, no toilets, violence by guards
 - Hassan arrested during riots, gives up cell location
-- Hassan reveals: Cell is in Paris catacombs (ancient tunnels, impossible to map)
+- Hassan reveals: Cell is scattered (some in Paris, some fleeing borders)
 - Next attack: 10,000+ people target, multiple Métro locations, coordinated detonations
-- Thomas orders: Métro shutdown, tunnel evacuation, catacomb hunt
+- Thomas orders: Full mobilization, border closures, airport alert
 - Thomas commits: Going into tunnels with full tactical team
 - Moreau's warning: "That's suicide. We'll die down there."
 - Thomas's response: "Yes. Probably."
@@ -157,10 +155,10 @@ He's going into the darkness.
 
 **Major plot developments:**
 - Hassan arrested and breaks (gives up tunnel location)
-- Cell location revealed: Paris catacombs (Act III location set)
+- Cell escape plan revealed: Running south (Mediterranean, Algeria)
 - Scale escalation: 10,000+ target victims (not 300+)
 - Government response escalates too (container prison, Métro shutdown)
 - Moral ambiguity deepened (detention facility becoming atrocity)
 - Thomas commits to final hunt (descends into darkness, literally and metaphorically)
 
-**Next chapter likely:** Descent into catacombs, hunting through tunnels, encountering cell
+**Next chapter likely:** Police/military response, evacuation orders, national mobilization
