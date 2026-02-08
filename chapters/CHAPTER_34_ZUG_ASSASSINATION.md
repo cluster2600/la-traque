@@ -65,7 +65,7 @@ Before they took him to the lake, they searched the house.
 
 Malik's bedroom. The safe in the closet. De Vergennes opened it with explosives. Professional. Quiet. Efficient.
 
-Inside: gold bars. Stacks of them. Ten ounces each. Professional storage. Untraceable wealth.
+Inside: gold bars. Stacks of them. 10 kilograms each. Professional storage. Untraceable wealth.
 
 Watches. Rolex. Patek Philippe. Omega. Thousands of francs each. Hidden in velvet cases.
 
