@@ -73,27 +73,33 @@ Amina made it as far as Tunisia. Then disappeared. The network assumes police. A
 
 Yasmine is alone.
 
-After six weeks in Algiers, she makes a decision. She leaves the apartment. She takes what money she has. She takes a bus. A long-distance bus heading south. South to the desert. South to the place she's never been. South to the place where the Algerian war was fought most brutally. South to the mountains and the plains where France lost everything.
+After six weeks in Algiers, she makes a decision. She leaves the apartment. She takes what money she has. She goes to the taxi stand. She finds a driver. A Touareg. Dark-skinned, blue robes, veiled. A man who doesn't ask questions. A man who smuggles people. A man who knows the desert roads.
 
-South to Tadrart.
+"Tadrart," she says.
+
+The driver nods. He doesn't ask why. He doesn't ask her name. He doesn't ask if she's running from something. He just nods. Tadrart is far. Tadrart pays well.
+
+She doesn't know why she chooses a Touareg driver. Maybe because he's not Algerian. Maybe because he won't see her as a foreigner. Maybe because the Touareg don't care about French wars or Algerian independence. They have their own struggles. They have their own honor codes.
+
+The driver's car is old. A beaten-down Peugeot. The kind of car that has crossed the Sahara a thousand times. The kind of car that will cross it again.
+
+They leave at dawn.
 
 She doesn't know why. She just knows she can't stay in Algiers. The city rejects her. The city sees her as French. The city doesn't understand what she did. The city doesn't care about her rage.
 
 But maybe the desert will understand. Maybe the mountains will understand. Maybe the place where her rage was born will understand.
 
-She buys a ticket. She boards the bus. She watches Algiers disappear behind her. The Mediterranean fading. The monument aux morts getting smaller and smaller until it's gone.
+The Touareg drives in silence. Two days. Three days. The car rumbles. The desert stretches. Endless. Flat. Unchanging. Until suddenly it changes. Until mountains appear. Until the land gets harder. Until the Touareg points ahead.
 
-By nightfall, she's in the Sahara.
+"Tadrart," he says. The only word he speaks the entire journey.
 
-The bus stops in small towns. People get on. People get off. Nobody pays attention to the young woman who keeps her head down. Nobody asks questions. Nobody cares.
+The town is small. The town is poor. The town is the end of the road. The place where the car stops and everyone gets out because there's nowhere else to go.
 
-She sleeps on the bus. She wakes to the sound of the engine. She watches the desert pass. Endless. Flat. Unchanging. Until suddenly it changes. Until mountains appear. Until the land gets harder. Until she reaches Tadrart.
+Yasmine gets out of the car. She gives the Touareg money. He takes it. He doesn't ask for her name. He doesn't tell her his. He just nods and turns the car around and heads back north. Back to Algiers. Back to the next person needing to disappear.
 
-The town is small. The town is poor. The town is the end of the road. The place where the bus stops and everyone gets off because there's nowhere else to go.
+She's carrying a small bag. She has money. She has rage. She has the knowledge that she killed three thousand people and it wasn't enough. It wasn't enough to change anything. It wasn't enough to make France apologize. It wasn't enough to make the world notice.
 
-Yasmine gets off the bus. She's carrying a small bag. She has money. She has rage. She has the knowledge that she killed three thousand people and it wasn't enough. It wasn't enough to change anything. It wasn't enough to make France apologize. It wasn't enough to make the world notice.
-
-She finds a hotel. A small place. The kind of place that doesn't ask for documents. The kind of place that takes cash and doesn't care who you are.
+She finds a hotel. A small place. The kind of place that doesn't ask for documents. The kind of place that takes cash and doesn't care who you are. The Touareg driver probably comes here. Probably brings other people. Other refugees. Other people running.
 
 She sits in her room. She looks out the window at the desert. At the mountains. At the place where everything ends.
 
