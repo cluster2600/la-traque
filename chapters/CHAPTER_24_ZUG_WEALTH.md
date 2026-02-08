@@ -11,7 +11,7 @@ Malik is the nexus. He takes the money. He converts it. He hides it. He protects
 
 The house is expensive. On the lake. Modern. Clean lines. Private. The kind of place where rich people hide their money and themselves.
 
-He rents it for twelve thousand francs per month. Cash. Six months upfront. The landlord doesn't ask questions. The landlord sees cash and stops caring about background checks.
+He owns it. Bought years ago. Before the operation. Before the attack. A secure investment. A safe place. His refuge.
 
 Malik doesn't leave much. Once a week for groceries. Twice a week for the gym. Every day he walks to the lake. Sits on a bench. Watches the water. Thinks about what he did. Thinks about the money he's accumulating. Thinks about the future.
 
