@@ -25,9 +25,9 @@ The drive to France TV headquarters is fast. Sirens screaming. Two police motorc
 
 Twelve minutes. The sirens don't stop until they arrive.
 
-The France TV building is concrete and glass. Modern. Built in the 2000s. The security is tight. Police at every entrance. Officers with riot gear. The rumor is spreading fast in Paris. The attack was hours ago. Now there's a message. Now there's proof of intent. Now there's a government motorcade arriving with sirens. News crews are being pushed back by police. Kept at distance. No access. No information.
+The France TV building is concrete and glass. Modern. Built in the 2000s. The security is tight. Police at every entrance. Officers with riot gear. The attack was hours ago. Now there's a message. Now there's proof of intent. Now there's a government motorcade arriving with sirens.
 
-The building is locked down.
+Inside the building: chaos. Staff locked in offices. No one leaves. No one enters. The video is classified. The letter is classified. The investigation is classified.
 
 The head of security meets them. Nervous. Over his head.
 
