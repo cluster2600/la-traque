@@ -7,6 +7,12 @@ He's been there for three weeks. He doesn't move. He doesn't hide. He doesn't ch
 
 He just works.
 
+His cover is wealth manager. Legitimate business. He manages money for wealthy families. Qatar families. Saudi families. Arab money that needs Swiss protection. Tax avoidance. Asset protection. Offshore storage.
+
+The families pay him five percent management fees. That's millions per year. Perfectly legitimate income from perfectly legitimate transactions. Except the underlying money comes from cell networks. From operations. From fundraising across North Africa.
+
+Malik takes his percentage. Keeps it in Zug. Builds his fortress.
+
 The apartment is comfortable. Lake view. Expensive but not ostentatious. The kind of place a financial consultant would rent. Professional. Discrete.
 
 He has a routine. Morning coffee at the same café. Walk along the lake at the same time. Lunch at a restaurant near the central square. Back to the apartment for afternoon operations.

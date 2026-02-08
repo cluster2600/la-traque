@@ -3,6 +3,12 @@
 
 Malik Benhadj lives well in Zug.
 
+His cover is perfect. Wealth manager. Financial consultant. He manages money for wealthy families. Qatar families. Saudi families. Arab money that needs to disappear into Swiss accounts. Tax avoidance. Asset protection. Offshore storage of wealth.
+
+It's a legitimate business. Except the money isn't legitimate. It's from Qatar. It's from cell financing. It's from operations. It's from the network that spreads across North Africa and into Europe.
+
+Malik is the nexus. He takes the money. He converts it. He hides it. He protects it.
+
 The apartment is expensive. Lake view. Modern. Clean lines. The kind of place where rich people hide their money and themselves.
 
 He rents it for twelve thousand francs per month. Cash. Six months upfront. The landlord doesn't ask questions. The landlord sees cash and stops caring about background checks.

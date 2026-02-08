@@ -33,11 +33,15 @@ Thomas leans forward.
 
 De Vergennes reads from his notes.
 
-"The cell had eighty-five bitcoin in cryptocurrency when we seized the Mantes-la-Jolie safe house. Twelve wallet addresses. Private keys. Everything Malik was using to finance operations."
+"Malik is a wealth manager," De Vergennes says. "Cover business. He manages money for wealthy families. Qatar families. Saudi families. Arab money that needs to disappear. Legitimate front for illegitimate flows."
 
-"How much total?"
+"How much money?"
 
-"Approximately two million euros in cryptocurrency. But that's just the beginning. Malik's been converting bitcoin into physical assets for the last three months. Gold. Diamonds. Swiss francs. Currency holdings. The forensics team traced all of it."
+"That's where it gets interesting. The cell had eighty-five bitcoin. But that's just their operational funds. Malik's been moving much larger amounts. Family money. Tens of millions. He takes a percentage. Maybe five percent. He uses those percentages to build his own fortress."
+
+"So fifty million francs..."
+
+"Is his personal accumulation from five years of managing dirty money. Qatar families funding operations across North Africa. Malik taking his cut. Building wealth. Legitimate cover with legitimate funding flowing through it. Perfect hiding place."
 
 Thomas nods. He waits.
 
