@@ -161,9 +161,11 @@ They arrive at a small house. On the edge of town. Made of stone. Simple. Anonym
 
 The driver stops the car. He gives her a key. He leaves. He drives back north without saying goodbye.
 
-She's alone in Hassan's house in Tadrart. The house is small. There's food in the kitchen. Water in the containers. A bed in the corner. Money on the table. Enough for weeks.
+She enters Hassan's house. Two servants appear immediately. A man and a woman. They don't introduce themselves. They don't ask questions. They know Hassan. They know to take care of her. The man brings tea. The woman brings fresh bread. They move silently through the house. Professional. Hassan's people.
 
-Hassan thought of everything. Hassan prepared. Hassan knew she would need a refuge.
+The house is small but comfortable. There's food in the kitchen. Water in the containers. A bed in the corner. Money on the table. Servants to care for her. Enough for weeks. Enough for waiting.
+
+Hassan thought of everything. Hassan prepared. Hassan knew she would need a refuge. Hassan even provided people to take care of her. Hassan's network. Hassan's final care.
 
 She doesn't know why she chooses a Touareg driver. Maybe because he's not Algerian. Maybe because he won't see her as a foreigner. Maybe because the Touareg don't care about French wars or Algerian independence. They have their own struggles. They have their own honor codes.
 
