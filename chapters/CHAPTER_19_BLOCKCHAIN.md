@@ -1,77 +1,69 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 19: BLOCKCHAIN
 
-De Vergennes works in the basement of the Marseille safe house.
+De Vergennes sits in the basement of the Marseille safe house.
 
-Three computers. Six monitors. Encrypted connections. Direct access to DGSE's financial intelligence database.
+A secure room. Encrypted communications. A secure phone on the table.
 
-He's hunting money. Specifically, cryptocurrency. Bitcoin. The cell's financial trail.
+He's waiting for a report. Not doing the work himself. The work is being done elsewhere. By specialists. By a digital forensics team.
 
-Thomas stands behind him. Watching. Learning.
+Thomas sits across from him.
 
-"Explain it to me," Thomas says.
+"How long?" Thomas asks.
 
-De Vergennes points to the first monitor.
+"They said twenty-four hours," De Vergennes says. "Maybe forty-eight."
 
-"Bitcoin isn't anonymous," De Vergennes says. "People think it is. They're wrong. Every transaction is recorded on a public ledger. The blockchain. Everyone can see every transaction. Forever."
+"Can they do it?"
 
-"Then why do criminals use it?"
+"They're the best we have. DGSE's cyber intelligence unit. They specialize in tracking financial movements through blockchain. Cryptocurrency. Hidden wealth. If anyone can find Malik, they can."
 
-"Because the ledger doesn't show names. It shows wallet addresses. Random strings of letters and numbers. As long as you don't connect your real identity to a wallet address, you're hidden."
+The phone rings.
 
-"But you can connect them."
+De Vergennes answers. He listens. He doesn't speak. He just takes notes. Information flows. Data transfers.
 
-"Sometimes. If the person makes mistakes. If they buy bitcoin on an exchange that requires ID. If they transfer bitcoin to a known wallet. If they spend it somewhere that keeps records."
+"Understood," De Vergennes says finally. "Confirmed. Zug, Switzerland. I'll brief the commander."
 
-De Vergennes types rapidly. Code scrolls across screens. Data populates. Patterns emerge.
+He hangs up.
 
-"We found bitcoin wallets in the Mantes-la-Jolie safe house," De Vergennes continues. "Yazmine's apartment. Written on paper. Twelve wallet addresses. Private keys. Everything we needed."
+Thomas leans forward.
 
-He pulls up a blockchain explorer. Rows of transactions. Dates. Amounts. Wallet addresses.
+"They found him?"
 
-"These wallets received bitcoin over the last three years," De Vergennes says. "Small amounts. Regular intervals. Donations. From sympathizers. From donors. From people funding jihadist operations."
+"They found him," De Vergennes says. "Malik Benhadj. Located in Zug, Switzerland. They traced his financial movements through the blockchain. Bitcoin transactions. Wallet addresses. Exchange records. A complete picture of his financial operations."
+
+De Vergennes reads from his notes.
+
+"The cell had eighty-five bitcoin in cryptocurrency when we seized the Mantes-la-Jolie safe house. Twelve wallet addresses. Private keys. Everything Malik was using to finance operations."
 
 "How much total?"
 
-"Approximately eighty-five bitcoin. At current exchange rates, that's about two million euros."
+"Approximately two million euros in cryptocurrency. But that's just the beginning. Malik's been converting bitcoin into physical assets for the last three months. Gold. Diamonds. Swiss francs. Currency holdings. The forensics team traced all of it."
 
-Thomas whistles.
+Thomas nods. He waits.
 
-"The operation was well-funded."
+"Malik used cryptocurrency tumblers," De Vergennes continues, reading from the report. "Mixing services. Decentralized exchanges. Professional money laundering infrastructure. He was trying to hide his movements. But the forensics team followed the trail anyway."
 
-"Very. And whoever managed the money knew what they were doing. They didn't just hold bitcoin. They moved it. Converted it. Mixed it. Tried to break the trail."
+"How?"
 
-"Tried?"
+"Bitcoin is permanent," De Vergennes says. "Every transaction is recorded on a public ledger. The blockchain. You can't erase it. The forensics team cross-referenced wallet addresses with exchange records. They tracked conversions from bitcoin to Monero to Ethereum back to bitcoin. They found the patterns."
 
-"They failed."
+De Vergennes flips through his notes.
 
-De Vergennes clicks through transaction chains. Wallet to wallet. Bitcoin to Monero. Monero to Ethereum. Ethereum back to bitcoin. Complex mixing patterns designed to obscure origin.
+"Key break: twelve days ago, Malik converted ten bitcoin to Swiss francs. He did it through a Zurich exchange. The exchange requires ID verification for fiat conversions. He used false documents. But the exchange keeps records. IP addresses. Login times. Device fingerprints. The forensics team got all of it."
 
-"This is Malik's work," De Vergennes says. "Professional money laundering. He's using cryptocurrency tumblers. Mixing services. Decentralized exchanges. Everything criminals use to hide financial flows."
+"Location?"
 
-"But you can follow it."
+"Zug, Switzerland. City center. Confirmed by multiple data points. IP addresses from the Zurich exchange. Bitcoin purchase confirmations sent to a local ISP. Delivery addresses for physical gold and diamonds. Everything points to Zug."
 
-"I can follow it. Because he made mistakes."
+"How specific?"
 
-De Vergennes pulls up another screen. A transaction highlighted in red.
+"They narrowed it to a few buildings in the city center. Near the lake. The forensics team is still working on the exact apartment. They're analyzing his online activity. Food delivery orders. Package deliveries. Anything that requires a physical address. Should have the specific location within forty-eight hours."
 
-"Here. Twelve days ago. He converted ten bitcoin to Swiss francs. Through a Zurich exchange. The exchange requires ID verification for fiat currency conversions. He used false documents. But the exchange keeps records. IP addresses. Login times. Device fingerprints."
+Thomas sits back. The pieces are falling into place.
 
-"You have his location?"
+"How much money is he moving?"
 
-"Better. I have his internet service provider. His approximate neighborhood. And his pattern."
-
-De Vergennes shows Thomas a timeline. Transactions over weeks. Regular patterns. Morning logins. Evening conversions. Weekend transfers.
-
-"He works from home," De Vergennes says. "Same IP address. Same login times. He's not moving around. He's stationary. Comfortable. He thinks he's safe."
-
-"Where?"
-
-"Zug, Switzerland. Confirmed. I cross-referenced the IP address with Swiss ISP databases. He's in the city center. Probably an apartment. Near the lake."
-
-"Can you narrow it further?"
-
-"Give me forty-eight hours. I'm tracking his other transactions. Looking for patterns. Online purchases. Food delivery. Anything that requires a physical address."
+"About forty bitcoin so far. Roughly one million euros. But there's more. The forensics team found deposits into gold purchases. Diamond dealers. Luxury watch retailers. He's converting cryptocurrency into physical assets that can be carried across borders. Portable wealth. Untraceable wealth."
 
 Thomas nods.
 
@@ -119,9 +111,7 @@ De Vergennes smiles slightly.
 
 "We're clear."
 
-De Vergennes turns back to the screens.
-
-"I'll have a precise location by the end of the week," De Vergennes says. "Address. Apartment number. Daily routine. Everything you need for surveillance."
+"The forensics team will have the exact apartment address by the end of the week," De Vergennes says. "They're still analyzing delivery records and IP logs. But they're confident. Within forty-eight hours, we'll have his daily routine. His patterns. Everything we need for surveillance."
 
 "And the other targets?"
 
