@@ -33,7 +33,7 @@ Two members of Thomas's team were on the street side. Beaumont and De Richelieu.
 
 Four members went in through the lake side.
 
-Thomas. De Tarkovsky. De Vergennes. De Leclerc.
+Thomas. De Tarkovsky. De Vergennes. Leclerc.
 
 The ponton was dark. The water was dark. The house was lit from inside. They could see the party. They could see the movement. They could see the excess.
 
@@ -59,13 +59,13 @@ The Arab men didn't move. They stood naked in the living room. They waited. They
 
 Malik tried to run.
 
-De Leclerc caught him. The medic. The young one. Malik was heavy. Malik was slick with baby oil. Malik was difficult to hold. But De Leclerc held him anyway. The medical training translated to body awareness. To leverage. To control. To moving a heavy, unwilling body.
+Leclerc caught him. The medic. The young one. Malik was heavy. Malik was slick with baby oil. Malik was difficult to hold. But Leclerc held him anyway. The medical training translated to body awareness. To leverage. To control. To moving a heavy, unwilling body.
 
 They took him to the lake.
 
 The ponton. The dark water. The Swiss night.
 
-Thomas held Malik's head. De Leclerc held his arms. De Tarkovsky held his legs. De Vergennes watched for lights. Watched for movement. Watched for rescue that wouldn't come.
+Thomas held Malik's head. Leclerc held his arms. De Tarkovsky held his legs. De Vergennes watched for lights. Watched for movement. Watched for rescue that wouldn't come.
 
 Malik tried to scream. Thomas's hand covered his mouth. The sound was muffled. The struggle was brief. The outcome was inevitable.
 
@@ -77,7 +77,7 @@ Thomas watched him from the ponton.
 
 "Don't let him swim," Thomas said.
 
-De Leclerc understood. He'd trained for water rescue. He knew how to keep someone afloat. He knew how to keep someone alive in water.
+Leclerc understood. He'd trained for water rescue. He knew how to keep someone afloat. He knew how to keep someone alive in water.
 
 He also knew how to keep someone from reaching shore.
 
@@ -138,7 +138,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Girl caught between two men (transaction in progress)
 - Swiss secret service: unaware of French operation
 - Front surveillance: Beaumont + De Richelieu (street side)
-- Lake entry: Thomas + De Tarkovsky + De Vergennes + De Leclerc
+- Lake entry: Thomas + De Tarkovsky + De Vergennes + Leclerc
 - Girls evacuated (survival priority)
 - Arab men frozen (understood message)
 - Malik drowned in lake
@@ -154,7 +154,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Lake house: ideal for covert entry/exit
 - Orgy: target occupied, distracted, vulnerable
 - Baby oil: made drowning difficult (buoyancy, slipperiness)
-- De Leclerc: medical training translated to body control
+- Leclerc: medical training translated to body control
 - Drowning: not quick, not easy, but inevitable
 - Body floated: embarrassment for Swiss authorities
 - Arab men: understood message, fled

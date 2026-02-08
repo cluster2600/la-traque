@@ -65,10 +65,10 @@
 
 ---
 
-### 5. CORPORAL MARC-ANDRÉ DE LECLERC
+### 5. CORPORAL MARC-ANDRÉ LECLERC
 - **Rank:** Corporal, DGSE Medical/Combat Medic
-- **Full name:** Marc-André Michel de Leclerc
-- **Background:** Nobility (Normandy region, military medical heritage)
+- **Full name:** Marc-André Michel Leclerc
+- **Background:** Normandy region, military medical heritage
 - **Age:** 29
 - **Specialization:** Combat medicine, field trauma, tactical paramedic
 - **Role:** Medical officer, field trauma response
@@ -102,7 +102,7 @@
 - **Beaumont:** Tactical assault lead (weapons, close combat)
 - **De Tarkovsky:** Intelligence lead (recon, target verification)
 - **De Vergennes:** Logistics lead (equipment, coordination)
-- **De Leclerc:** Medical lead (trauma, emergencies)
+- **Leclerc:** Medical lead (trauma, emergencies)
 - **De Richelieu:** Technical lead (communications, systems)
 
 ### Communication hierarchy:
@@ -116,7 +116,7 @@
 ### Combat formation:
 - **Point:** Beaumont (weapons, assault lead)
 - **Left flank:** De Tarkovsky (recon coverage)
-- **Right flank:** De Leclerc (medical coverage)
+- **Right flank:** Leclerc (medical coverage)
 - **Rear:** De Richelieu (communications, tech)
 - **Command center:** Thomas (oversight, decisions)
 - **Logistics:** De Vergennes (equipment, resupply, vehicles)
@@ -130,7 +130,7 @@
 - **Beaumont:** Weapon checks, assault readiness
 - **De Tarkovsky:** Final satellite intelligence review
 - **De Vergennes:** Equipment inventory, vehicle preparation
-- **De Leclerc:** Medical supply checks, emergency readiness
+- **Leclerc:** Medical supply checks, emergency readiness
 - **De Richelieu:** Communications test, satellite links
 
 ### Insertion (Beach landing):
@@ -138,7 +138,7 @@
 - **Beaumont:** Weapons drawn, perimeter security
 - **De Tarkovsky:** Ground reconnaissance, threat assessment
 - **De Vergennes:** Vehicle loading, equipment distribution
-- **De Leclerc:** Medical readiness, emergency setup
+- **Leclerc:** Medical readiness, emergency setup
 - **De Richelieu:** Communications with support aircraft
 
 ### Travel to Tadrart (Toyota convoy):
@@ -146,7 +146,7 @@
 - **De Tarkovsky:** Second vehicle, perimeter coverage
 - **De Vergennes:** Third vehicle (if needed), logistics support
 - **Thomas:** Command vehicle, decision authority
-- **De Leclerc:** Follows, medical readiness
+- **Leclerc:** Follows, medical readiness
 - **De Richelieu:** Communications, satellite tracking
 
 ### House assault:
@@ -154,7 +154,7 @@
 - **De Tarkovsky:** Cover, secondary threat elimination
 - **Thomas:** Command, authorization, final execution
 - **De Vergennes:** Perimeter security, vehicle control
-- **De Leclerc:** Standby, casualty response
+- **Leclerc:** Standby, casualty response
 - **De Richelieu:** Communications blackout, signal blocking
 
 ### Extraction:
@@ -162,7 +162,7 @@
 - **De Tarkovsky:** Route security, threat assessment
 - **Thomas:** Final target confirmation, authorization
 - **De Vergennes:** Vehicle organization, speed optimization
-- **De Leclerc:** Casualty check (team + target)
+- **Leclerc:** Casualty check (team + target)
 - **De Richelieu:** Communications, extraction coordination
 
 ---
@@ -210,7 +210,7 @@
 ### Vehicle coordination:
 - **Toyota 1 (Lead):** Beaumont + Touareg driver
 - **Toyota 2 (Intelligence):** De Tarkovsky + Touareg driver
-- **Toyota 3 (Support):** De Vergennes + De Leclerc + De Richelieu + Thomas + Touareg driver
+- **Toyota 3 (Support):** De Vergennes + Leclerc + De Richelieu + Thomas + Touareg driver
 
 ### Communication:
 - Encrypted radio network (Toulouse managed)
@@ -320,10 +320,10 @@
 - **Title:** Marquis de Vergennes
 - **Legacy:** Organization, supply mastery, diplomatic corps
 
-### Marc-André de Leclerc
+### Marc-André Leclerc
 - **Region:** Normandy
 - **Family tradition:** Military medical officers, trauma surgeons
-- **Title:** Baron de Leclerc
+- **Background:** Professional military medical lineage
 - **Legacy:** Medical excellence, field medicine pioneer
 
 ### Stéphane de Richelieu
