@@ -11,7 +11,7 @@ The bitcoin transactions they found in the Mantes-la-Jolie TNT lab led directly 
 
 Thomas's team watched him for three days.
 
-The house was on the lake. A modern chalet. Clean lines. Expensive. The kind of place where rich men hide their secrets. There was a ponton. A wooden dock. Lake access. Private. Isolated. Perfect for what they had planned.
+The house was on the lake. A modern house. Clean lines. Expensive. The kind of place where rich men hide their secrets. There was a ponton. A wooden dock. Lake access. Private. Isolated. Perfect for what they had planned.
 
 The evening of the operation, Malik hosted a party.
 
@@ -130,7 +130,7 @@ And in Tadrart, Yasmine waited. Unaware that her financier had been drowned in a
 - Bitcoin transactions traced from Mantes-la-Jolie TNT lab
 - Eight million euros equivalent in bitcoin, wallet addresses, blockchain traces
 - Team surveillance: 3 days observation
-- House: lake chalet, ponton, private access
+- House: lake house, ponton, private access
 - Evening operation: during orgy
 - Malik: heavy, fat, covered in baby oil
 - 3 Slavic girls present
