@@ -12,8 +12,8 @@
 - **Age:** 42
 - **Specialization:** Command, Authorization, Personal Vendetta
 - **Role:** Team leader, decision maker
-- **Family:** Married Taka (Tokyo), son Jérôme (deceased), mother Magdalena (Normandy)
-- **Motivation:** Revenge (Jérôme), Duty (DGSE), Justice (3,000 dead)
+- **Family:** Married Taka (Tokyo), holiday friend Jérôme (deceased), mother Magdalena (Normandy)
+- **Motivation:** Revenge (Jérôme - holiday friend), Duty (DGSE), Justice (2,391 dead)
 - **Combat style:** Professional, deliberate, authorized
 - **Status:** Active operational command
 
