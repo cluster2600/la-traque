@@ -37,15 +37,16 @@
 ### 3. LIEUTENANT CHRISTIAN DE TARKOVSKY
 - **Rank:** Lieutenant, DGSE Intelligence
 - **Full name:** Christian Édouard de Tarkovsky
-- **Background:** Nobility (Franco-Russian heritage, strategic lineage)
+- **Background:** Nobility (Jewish Polish heritage, Franco-Polish integration)
 - **Age:** 34
 - **Specialization:** Intelligence, recon, surveillance
 - **Role:** Recon lead, target verification
 - **Expertise:** Satellite imagery, ground reconnaissance, pattern analysis
-- **Languages:** French, Arabic, German, Russian
+- **Languages:** French, Arabic, German, Polish, Yiddish
 - **Personality:** Analytical, detail-focused, strategic
 - **Reputation:** Identifies targets others miss
 - **Status:** Intelligence officer, lead recon
+- **Family heritage:** Polish-Jewish nobility, assimilated into French aristocracy
 
 ---
 
@@ -307,10 +308,11 @@
 - **Legacy:** Warrior heritage, precision tradition
 
 ### Christian de Tarkovsky
-- **Region:** Franco-Russian heritage
-- **Family tradition:** Strategic intelligence, diplomacy, analysis
-- **Title:** Baron de Tarkovsky
-- **Legacy:** Intellectual + military combined (Franco-Russian)
+- **Region:** Polish-Jewish origin, Franco-Polish integration
+- **Family tradition:** Strategic intelligence, diplomacy, analysis, legal scholarship
+- **Title:** Baron de Tarkovsky (adopted French nobility)
+- **Heritage:** Jewish Polish aristocracy, assimilated into French DGSE
+- **Legacy:** Intellectual + military combined (Polish-Jewish diaspora expertise)
 
 ### Rémi de Vergennes
 - **Region:** Occitanie (Southwest)
