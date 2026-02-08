@@ -149,29 +149,27 @@ The woman had a suburban French accent. She was directing people toward and away
 
 It was Yasmine.
 
-By 6:00 AM the next morning, Thomas has a decision to make.
+By 6:00 AM the next morning, Thomas makes his decision.
 
-The government is offering him resources. Everything he needs. Full authority. International cooperation.
+The government needs him. The hunt needs to continue. The DGSE needs a commander who understands the enemy.
 
-But they want to capture her. To bring her to trial. To judge her in a courtroom in Paris.
+He picks up his phone. He calls the Director.
 
-Thomas doesn't want that. Thomas wants vengeance.
+"I'm going to find her," Thomas says. "I'm going south. Marseille. Mediterranean. She's running to Algeria."
 
-He picks up his phone. He calls Moreau.
+"I'm authorizing it," the Director says. "Take what you need. Full resources. Full authority. Find her before she leaves France."
 
-"I'm going to find her," Thomas says. "I'm going off the books. I'm not coming back until I find her."
+Thomas understands: the Director isn't asking him to capture her. The Director is asking him to stop her. By any means necessary.
 
-"Where are you going?" Moreau asks.
+He hangs up.
 
-"Wherever she's going," Thomas says. "She's not French. She's not European. She's from somewhere else. She's going home."
+He gets in the MV Agusta. He leaves Paris. He's heading south. He's heading to Marseille. He's heading to the coast.
 
-Thomas hangs up.
+He has authorization. He has resources. He has the government's blessing to pursue this to the end.
 
-He gets in the MV Agusta. He leaves Paris. He's heading south. He's heading toward Spain. He's heading toward Morocco.
+Because they all understand: Yasmine won't stop killing. France can't stop her from within France. She's already escaping. The only way to stop her is to follow her. To pursue her across borders if necessary. To hunt her down.
 
-He doesn't have authorization. He doesn't have backup. He doesn't have anything except the knowledge that Yasmine is out there. And she's not going to stop.
-
-So neither is he.
+And Thomas is the one who will do it.
 
 ---
 
