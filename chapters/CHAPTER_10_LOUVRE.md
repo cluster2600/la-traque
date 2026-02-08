@@ -53,6 +53,22 @@ Hospitals are overwhelmed. Morgues are overwhelmed. Ambulances are turning away 
 
 France is burning.
 
+Then comes the report from the Seine.
+
+A barge. Anchored in front of Bercy. A commercial barge. The kind used for transporting materials. It's been there since morning. No one paid attention. Just another river vessel.
+
+But inside: dozens of tons of homemade TNT. Packed into the hull. Covered in gravel to hide the explosives from casual inspection. Professional construction. Precision timing.
+
+At 4:47 PM, the barge detonates.
+
+The blast is biblical. The Seine boils. The water vaporizes. The blast wave travels outward in all directions. Buildings collapse blocks away. The shock wave breaks windows across the entire eastern quarter of Paris.
+
+Bercy is obliterated. The riverside district is gone. Hundreds more dead. Hundreds more injured. The casualty count jumps again.
+
+Total dead from all attacks: three thousand plus.
+
+France has lost more people in four hours than it lost in the entire month of January to any cause.
+
 Thomas is in the command center when the calls start coming in.
 
 "Multiple attacks," the voice says. "Simultaneous. Louvre. Élysée. Eiffel Tower."
@@ -102,6 +118,18 @@ And everywhere, the same message repeated in multiple languages:
 "ONE THOUSAND ALGERIAN DEAD FOR EVERY DAY OF OCCUPATION.
 FRANCE HAS TWENTY-FOUR HOURS TO APOLOGIZE FOR COLONIZATION.
 AFTER THAT, WE BURN EVERYTHING."
+
+By evening, the final count is confirmed:
+
+Métro 14: 327 dead
+Louvre: 478 dead
+Élysée: 341 dead
+Eiffel Tower: 289 dead
+Bercy Barge: 956 dead
+
+TOTAL: 2,391 dead in four hours.
+
+France is no longer hunting a terrorist. France is at war.
 
 Thomas reads it. He understands.
 
