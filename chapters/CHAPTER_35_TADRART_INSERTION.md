@@ -9,7 +9,11 @@ Names. Locations. Hassan's house in Tadrart. The refuge. The route. The contact.
 
 Thomas had the coordinates immediately. The DGSE had satellite imagery within hours. A small house. On the edge of a desert town. Inhabited. Servants moving in and out. The target location.
 
-Yasmine waiting. Hassan's cousin. The financier's insurance policy had just killed her.
+The house belonged to Hassan Medjahed's cousin. A refuge. A safe place. Yasmine was there. Waiting. Hiding. Thinking she was safe.
+
+But the safe in Zug had killed her. Malik's insurance policy. The documents he kept for protection. The names and locations he wrote down. The refuge he documented.
+
+That documentation had just led Thomas directly to her.
 
 Now Thomas is in a Super Puma helicopter. A military transport. Fast. Reliable. Built for special operations insertion and tactical deployment.
 
