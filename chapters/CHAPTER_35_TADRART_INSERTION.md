@@ -9,11 +9,19 @@ Names. Locations. Hassan's house in Tadrart. The refuge. The route. The contact.
 
 Thomas had the coordinates immediately. The DGSE had satellite imagery within hours. A small house. On the edge of a desert town. Inhabited. Servants moving in and out. The target location.
 
-The house belonged to Hassan Medjahed's cousin. A refuge. A safe place. Yasmine was there. Waiting. Hiding. Thinking she was safe.
+The house belonged to Malik. 
 
-But the safe in Zug had killed her. Malik's insurance policy. The documents he kept for protection. The names and locations he wrote down. The refuge he documented.
+A refuge. A backup. A place where the network could hide if everything collapsed. Malik owned it. Malik maintained it. Malik kept the papers about it in his safe in Zug.
 
-That documentation had just led Thomas directly to her.
+And now those papers had killed Yasmine.
+
+She was there. Waiting. Hiding. Thinking the refuge was secret. Thinking she was safe.
+
+But Malik's documentation in his Zug safe had listed everything. The location. The address. The purpose. The coordinates.
+
+The safe had been opened. The papers had been read. The location had been extracted.
+
+And Thomas was coming.
 
 Now Thomas is in a Super Puma helicopter. A military transport. Fast. Reliable. Built for special operations insertion and tactical deployment.
 
@@ -207,7 +215,7 @@ Behind them, Tadrart remains small and quiet. A place where someone died. A plac
 Hassan Medjahed (cell ideologue, captured in Lyon) broke under DGSE interrogation and revealed:
 - Yasmine's escape route (south)
 - Safe house destination (Tadrart)
-- Hassan's cousin location (Tadrart)
+- Malik's house location (Tadrart, in safe papers)
 - Servant details (protection infrastructure)
 - Exact coordinates
 
