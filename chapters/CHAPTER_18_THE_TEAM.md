@@ -5,9 +5,11 @@ They arrive at the Marseille safe house at 8:00 PM.
 
 Six operators. DGSE. Handpicked by the Director. Each one with experience in North Africa. Each one with skills Thomas needs.
 
+The room smells like old coffee and sea salt. The walls are bare. The table is oak. Heavy. Permanent.
+
 Thomas stands at the head of the table. The operators sit. They wait. They know this drill.
 
-"I'm Thomas Dieudegard," Thomas says. "DGSE commander. This is a black operation. North Africa. We're hunting a terror cell. Five members still alive. They're scattered across the Mediterranean. We find them. We eliminate them. No arrests. No trials. No publicity."
+"I'm Thomas Dieudegard," Thomas says. "DGSE commander. This operation has full authorization from the Director. Executive level. Presidential approval. But it's deniable. We're hunting a terror cell. Five members still alive. They're scattered across the Mediterranean. We find them. We eliminate them. No arrests. No trials. No publicity."
 
 He points to the map on the wall. Red dots marking locations.
 
@@ -51,7 +53,9 @@ Sixth.
 
 Thomas studies them. Six professionals. Six killers. Six operators who understand the mission.
 
-"Rules," Thomas says. "One: this operation doesn't exist. We're ghosts. We operate on foreign soil without authorization. If we're caught, France disavows us. We're on our own."
+"Rules," Thomas says. "One: this operation has full authority. The Director signed it. The President authorized it. But it's deniable. If we're compromised publicly, France denies we exist. The operation goes off-record. We get disavowed in the press. But privately, France protects us. Full legal support. Full extraction. Full coverage. This gives us the best of both worlds: full resources, full authority, and full deniability if needed."
+
+Tarkovsky nods. He understands compartmentalization.
 
 "Two: no arrests. We're not police. We're not courts. We're executioners. Each target gets eliminated. Professional. Clean. Final."
 
@@ -85,15 +89,21 @@ Thomas points to Algeria on the map.
 
 "That's suicide," Tarkovsky says. His Russian accent is thick. His tone is matter-of-fact.
 
-"Maybe," Thomas says. "But it's the mission."
+"Maybe," Thomas says. "But it's the mission. And it's authorized."
 
 Richelieu speaks up.
 
-"What's the authorization level?"
+"What's the authorization level exactly?"
 
-"Full authority from the Director," Thomas says. "But only verbally. Nothing in writing. If this goes public, we're criminals. The DGSE denies we exist. France denies we were there. We're on our own."
+"Full authority from the Director," Thomas says. "Presidential approval through executive channels. Written. Sealed. Only I've seen it. The operation is official. The operation is secret. The operation is necessary. If we're caught by foreign intelligence or police, France denies publicly. But France protects privately. Legal defense. Extraction. Cover. We're not abandoned. We're protected through deniability."
 
-"Understood."
+"So we're authorized but deniable," Richelieu says.
+
+"Exactly," Thomas says. "This is the best operational position. We have full resources. Full authority. And if something goes public, France has room to maneuver diplomatically while protecting us behind the scenes."
+
+Beaumont smiles slightly. "Plausible deniability with a safety net."
+
+"Correct," Thomas says.
 
 Moreau asks the technical question.
 
@@ -178,6 +188,8 @@ Thomas turns off the lights. He leaves the safe house. He walks to his hotel. He
 Five targets. Five eliminations. Five steps closer to Yasmine.
 
 The team is ready.
+
+The authorization is clear.
 
 The hunt accelerates.
 
