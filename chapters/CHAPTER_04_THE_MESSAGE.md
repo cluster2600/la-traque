@@ -25,11 +25,15 @@ The drive to France TV headquarters is fast. Sirens screaming. Two police motorc
 
 Twelve minutes. The sirens don't stop until they arrive.
 
-The France TV building is concrete and glass. Modern. Built in the 2000s. The security is tight. Police at every entrance. Officers with riot gear. The attack was hours ago. Now there's a message. Now there's proof of intent. Now there's a government motorcade arriving with sirens.
+The France TV building is concrete and glass. Modern. Built in the 2000s. Business as usual. Staff moving through hallways. Reporters on phones. Producers at desks. The day continuing like any other day.
 
-Inside the building: chaos. Staff locked in offices. No one leaves. No one enters. The video is classified. The letter is classified. The investigation is classified.
+Until Thomas arrives.
 
-The head of security meets them. Nervous. Over his head.
+The sirens cut off. Police motorcycles pull to curb. Black Peugeot stops at main entrance. Uniformed officers step out. Moreau and Thomas move fast. Very fast. Not running. But moving with purpose. Moving with authority.
+
+The lobby goes quiet. People stop. They watch. A government motorcade arriving at France TV building in the middle of a terror attack. No one says anything. Everyone understands.
+
+The head of security meets them at the elevator. Nervous. Over his head.
 
 "The package arrived at 9 AM. Hand-delivered by courier. Plain envelope. A letter inside. And a DVD. We read the letter first. That's when we understood what we had. We didn't touch the DVD after that. It's still in the case. Sealed."
 
