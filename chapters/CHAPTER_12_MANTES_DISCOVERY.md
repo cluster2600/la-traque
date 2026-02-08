@@ -85,17 +85,17 @@ Thomas leaves the detention facility. He drives south. He has what he needs. He 
 
 But he also has the image of two thousand men in shipping containers. And he has the knowledge that half of them probably had nothing to do with anything.
 
-He doesn't stop. He keeps driving south. Toward the coast. Toward Montpellier. Toward the Mediterranean. Toward Yasmine.
+He doesn't stop. He keeps driving south. Toward Marseille. Not directly. Not obviously. He takes secondary roads. He avoids checkpoints. He drives like a man who knows how to disappear.
 
 Because the only thing that will stop the madness is to find her and end her.
 
-By evening, Thomas is at the coast.
+By evening, Thomas is south of Mantes. By midnight, he's past Lyon. By dawn, he's approaching Marseille.
 
-By nightfall, he's on a boat.
+He knows Yasmine will go to Marseille. The intercepts mentioned it. The safe houses pointed there. The fishing boats leave from Marseille's harbor at night. She'll blend into the chaos of the port city. She'll disappear into the smuggling networks. She'll board a boat and cross the Mediterranean.
 
-By dawn, he's crossing the Mediterranean.
+Unless Thomas gets there first.
 
-Yasmine is already across. Already in Algerian waters. Already heading toward Algiers.
+Yasmine is already in Lyon. Waiting for darkness. Waiting for the train to Marseille. Waiting to join the fishing boats heading south.
 
 The hunt has crossed the sea.
 
