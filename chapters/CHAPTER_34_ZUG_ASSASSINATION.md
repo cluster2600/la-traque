@@ -19,7 +19,7 @@ Girls arrived. Slavic accents. Dark hair. Professional smiles. They understood t
 
 Men arrived too. Four of them. Including Malik.
 
-Three men of Arab origin. Associates. Business partners. Money men like Malik. People who moved funds for people who moved explosives.
+Three men of Arab origin. Associates. Business partners. Money men. Not involved with explosives. Innocent bystanders.
 
 One girl was between two of the men. The space between them. The inevitability of what was happening. The transaction of flesh and survival.
 
@@ -145,7 +145,7 @@ The team extracted through the lake. Back to the boats. Back to the dark water. 
 
 The Arab men were still in the living room. Standing naked. Understanding that they could leave. Understanding that living was conditional on silence. Understanding that the next time, they might not be so lucky.
 
-They left eventually. Dressed. Called for the girls. Left the house. Left Zug. Left Switzerland. They understood the message. They understood that business with explosives had consequences. They understood that the French had reach. They understood that silence was survival.
+They left eventually. Dressed. Called for the girls. Left the house. Left Zug. Left Switzerland. They understood the message. They understood that business with Malik had consequences. They understood that the French had reach. They understood that silence was survival. Malik financed terrorism. They just moved money. Malik was the target. They were bystanders.
 
 Beaumont and Richelieu reported: clear. No police. No intervention. No complications.
 
