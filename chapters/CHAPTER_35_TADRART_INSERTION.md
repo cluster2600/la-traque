@@ -85,31 +85,61 @@ Twenty-two years old. Female. Small. Fragile-looking. The woman who killed three
 
 She looks up when Thomas enters. She sees him. She sees the robed figure in the desert night. She sees the gun.
 
-She understands.
+She doesn't recognize him. She's never seen his face. She doesn't know who he is.
 
-For the first time in her life, someone has found her. Someone has hunted her. Someone has seen her.
+"Who are you?" she asks.
 
-Thomas sees her. Not as a terrorist. Not as a killer. But as a woman. Young. Afraid. Alone.
+Thomas steps forward. The suppressor is ready. The magazine is full.
 
-"It's over," he says.
+"Does it matter?" he says.
 
-Yasmine doesn't run. She doesn't fight. She just sits on the bed. She looks at Thomas.
+Yasmine stands. She's not afraid. She's calm. She's been waiting for this moment for months. She knew it would come. She just didn't know when.
 
-"You're Thomas," she says.
+"You're French," she says. "Military. DGSE probably."
 
-"Yes."
+Thomas doesn't answer. He just raises the Glock. He aims at her center mass.
 
-"You came to kill me."
+Yasmine doesn't run. She doesn't beg. She just looks at him.
 
-"Yes."
+"You lost someone," she says. "I can see it. In your eyes. You lost someone in Paris."
 
-Yasmine nods. She understands. She accepts. She waits.
+Thomas's jaw tightens. But he doesn't speak. He doesn't confirm. He doesn't deny.
 
-Thomas raises his Glock. The suppressor is clean. The magazine is full.
+"My son," he says.
+
+Yasmine nods. "Then this is about duty. And vengeance. Both. Mixed together. You think you're coming to get justice. But you're really coming for blood."
+
+"Yes," Thomas says.
+
+"I killed a lot of people," Yasmine says. "Three thousand. Maybe more. And nobody understands why. Nobody sees the righteous rage. Nobody sees what France did to Algeria. Nobody sees the colonial debt being paid."
+
+Thomas raises the Glock higher. His aim is steady. His commitment is absolute.
+
+"I don't care why you did it," he says. "I only care that you did."
+
+Yasmine accepts this. She nods. She understands. There is no debate here. There is no argument. There is only execution.
+
+"What's your name?" she asks.
+
+Thomas doesn't answer.
+
+The first shot is silent. The suppressor works perfectly. Yasmine falls.
+
+One shot. One kill. One moment. One ending.
+
+She never knew his name. She never knew who hunted her. She never knew that her life would end in a stone house in Tadrart. At the hands of a man she'd never met. Because of a son she'd never killed.
 
 This is where it ends. In a stone house in Tadrart. In the Sahara. In the middle of nowhere.
 
 This is where everything stops.
+
+Thomas lowers the Glock. He looks at the body. He looks at the woman who killed his son. Who killed three thousand people. Who was never even aware that Thomas existed.
+
+The hunt is over.
+
+Thomas turns and walks out. His team follows. They move back to the Toyotas. They drive north. Back to the coast. Back to the helicopters. Back to France.
+
+Behind them, Tadrart remains small and quiet. A place where someone died. A place where justice was executed. A place that will never know it happened.
 
 ---
 
