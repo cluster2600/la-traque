@@ -7,77 +7,77 @@ His mother.
 
 He answers. The noise of the command center swallows the moment. Voices. Sirens. Orders. Death. But his mother's voice cuts through.
 
-"Thomas? Are you safe?"
+"Thomas? Ben jy veilig?" (Thomas? Are you safe?)
 
-Her name is Michèle. She's sixty-seven. She lives in the 8th arrondissement. Near the Élysée Palace. Three kilometers from one of the attacks.
+Her name is Magdalena van der Merwe. She's sixty-seven. She's Afrikaans. South African. She lives in the 8th arrondissement. Near the Élysée Palace. Three kilometers from one of the attacks.
 
-"I'm safe," Thomas says. "I'm at headquarters."
+"Ja, Ma. Ek is veilig," Thomas says. "Ek is by die hoofkwartier." (Yes, Mom. I'm safe. I'm at headquarters.)
 
-"The explosion. Did you hear it?"
+"Die ontploffing. Het jy dit gehoor?" (The explosion. Did you hear it?)
 
-"I heard about it," he says.
+"Ek het dit gehoor," he says. (I heard about it.)
 
-"I felt it," she says. "The whole apartment shook. The windows rattled. I thought it was an earthquake."
+"Ek het dit gevoel," she says. "Die hele woonstelling het geskud. Die vensters het gegons. Ek dink dit was 'n aardbewing." (I felt it. The whole apartment shook. The windows rattled. I thought it was an earthquake.)
 
 Thomas closes his eyes. He thinks about the Élysée Palace. Three hundred and forty-one people dead. And his mother felt the explosion from three kilometers away.
 
-"You should leave," he says.
+"Jy moet weggaan," he says. (You must leave.)
 
-"Leave? Leave where?"
+"Weggaan? Waarheen?" (Leave? Leave where?)
 
-"Paris. Leave Paris."
+"Parys. Jy moet Parys verlaat." (Paris. You must leave Paris.)
 
-There's silence on the line. His mother doesn't understand. She's lived in Paris for sixty-seven years. She's never left. Paris is home.
+There's silence on the line. His mother doesn't understand. She's lived in Paris for sixty-seven years. She's never left. Paris is home. She came from South Africa decades ago, built her life here.
 
-"I don't understand," she says.
+"Ek verstaan nie," she says. (I don't understand.)
 
 Thomas looks at the casualty count on the screen. 2,391. The number grows every hour. Every hour brings new bodies. New identifications. New losses.
 
-"It's not safe right now," he says. "There are protocols. Checkpoints. Investigations. The city is going to be chaos."
+"Dit is nie nou veilig nie," he says. "Daar is protokolle. Kontrolepunte. Ondersoeke. Die stad sal chaos wees." (It's not safe right now. There are protocols. Checkpoints. Investigations. The city will be chaos.)
 
-"But where would I go?"
+"Maar waarheen sal ek gaan?" (But where would I go?)
 
 Thomas thinks. He thinks about Taka. He thinks about Tokyo. He thinks about his daughter. His granddaughter. The child he barely knows because he's been consumed with work. Because he's been consumed with duty.
 
-"You could visit Taka," he says. "In Tokyo. You could see your granddaughter."
+"Jy kan Taka besoek," he says. "In Tokio. Jy kan jou kleindogter sien." (You could visit Taka. In Tokyo. You could see your granddaughter.)
 
 His mother doesn't respond. He's suggested this before. Many times. She's always said no. She's said Paris is home. She's said she doesn't like flying. She's said she doesn't understand Japanese.
 
-"I don't like flying," she says.
+"Ek hou nie van vlieg nie," she says. (I don't like flying.)
 
-"I know."
+"Ek weet." (I know.)
 
-"And I don't speak Japanese."
+"En ek praat nie Japannees nie." (And I don't speak Japanese.)
 
-"Taka speaks French," he says. "You could spend time with your granddaughter. You could get out of Paris for a while. Until things calm down."
+"Taka praat Frans," he says. "Jy kan tyd met jou kleindogter spandeer. Jy kan vir 'n tyd uit Parys kom. Tot dinge kalm word." (Taka speaks French. You could spend time with your granddaughter. You could get out of Paris for a while. Until things calm down.)
 
-"How long?" his mother asks.
+"Hoe lank?" his mother asks. (How long?)
 
-"A few weeks. A month. Until the situation stabilizes."
+"'n Paar weke. 'n Maand. Tot die situasie stabiliseer." (A few weeks. A month. Until the situation stabilizes.)
 
 His mother sighs. The sigh of someone who has been pushed to a decision she doesn't want to make.
 
-"All right," she says. "I'll go."
+"Goed," she says. "Ek sal gaan." (All right. I'll go.)
 
 Thomas feels something release in his chest. His mother is safe. His mother is out of Paris. His mother is away from the chaos and the death and the aftermath.
 
-"Pack light," he says. "I'll arrange a flight. First class. Direct to Tokyo. You won't have to worry about anything."
+"Pak liggies," he says. "Ek sal 'n vlug reël. Eerste klas. Direkte na Tokio. Jy hoef nie oor iets bekommerd te wees nie." (Pack light. I'll arrange a flight. First class. Direct to Tokyo. You won't have to worry about anything.)
 
-"When?" she asks.
+"Wanneer?" she asks. (When?)
 
-"Tomorrow morning. Early."
+"Môre oggend. Vroeg." (Tomorrow morning. Early.)
 
-"That's so fast."
+"Dit is baie vinnig." (That's so fast.)
 
-"Yes."
+"Ja." (Yes.)
 
 There's silence again. His mother processing. His mother understanding that the world has changed. That Paris is not safe. That staying is not an option anymore.
 
-"All right," she says. "Tomorrow."
+"Goed," she says. "Môre." (All right. Tomorrow.)
 
-"I love you," Thomas says.
+"Ek hou van jou," Thomas says. (I love you.)
 
-"I love you too," his mother says.
+"Ek hou ook van jou," his mother says. (I love you too.)
 
 She hangs up.
 
@@ -102,14 +102,15 @@ He goes back to work.
 ---
 
 **Chapter 2.5 Notes:**
-- Thomas's mother: Michèle, 67, lives 8th arrondissement (near Élysée)
+- Thomas's mother: Magdalena van der Merwe, 67, Afrikaans, South African
+- Lives 8th arrondissement (near Élysée)
 - Phone call immediately after command center arrival
 - Mother felt explosion three kilometers away
 - Windows rattled, thought it was earthquake
 - Thomas realizes mother is in danger zone
 - Suggests leaving Paris
 - Offers Tokyo as refuge (Taka + granddaughter)
-- Mother reluctant (never flew, doesn't speak Japanese)
+- Mother reluctant (never flew, doesn't speak Japanese, longtime Paris resident)
 - Thomas insists (for her safety)
 - Mother agrees
 - Flight arranged: tomorrow morning, first class, direct
@@ -119,15 +120,18 @@ He goes back to work.
 - Foreshadows later developments
 
 **Key details:**
-- Michèle (Thomas's mother)
-- 67 years old
-- Lives Paris 8th (Élysée neighborhood)
+- **Magdalena van der Merwe** (Thomas's mother)
+- **67 years old**
+- **Afrikaans speaker** (South African origin)
+- **White South African name** (van der Merwe)
+- **Lives Paris 8th** (Élysée neighborhood, migrated decades ago)
 - Never flew before
 - Doesn't speak Japanese
 - Taka in Tokyo (wife/ex-wife?)
 - Granddaughter in Tokyo
 - Gets on flight tomorrow
 - Safe away from Paris
+- **Entire conversation in Afrikaans**
 
 **Thematic weight:**
 - Personal cost of mission
