@@ -11,15 +11,15 @@ Thomas had the coordinates immediately. The DGSE had satellite imagery within ho
 
 Yasmine waiting. Hassan's cousin. The financier's insurance policy had just killed her.
 
-Now Thomas is in a Horizon-class helicopter. A military transport. Fast. Armed. Built for special operations insertion.
+Now Thomas is in a Super Puma helicopter. A military transport. Fast. Reliable. Built for special operations insertion and tactical deployment.
 
-The helicopter cuts across the Mediterranean. From a French naval frigate off the coast. Two hours of flight time. Destination: the coast of Morocco. Western Sahara. A remote stretch of coastline where nobody asks questions.
+The Super Puma cuts across the Mediterranean. From a French naval frigate off the coast. Two hours of flight time. Destination: the coast of Morocco. Western Sahara. A remote stretch of coastline where nobody asks questions.
 
 The helicopter descends. Low altitude. Below radar. The crew is military. Professional. They know the drill.
 
 The coastline appears. Rocky. Isolated. A small beach. A landing zone.
 
-The helicopter touches down.
+The Super Puma touches down.
 
 Thomas steps out with his team. Six DGSE operators. Armed. Ready. Silent.
 
@@ -29,7 +29,7 @@ Waiting on the beach is a Touareg delegation. Three men. Dark robes. Veiled. Exp
 
 Thomas nods.
 
-The Touaregs gesture to the helicopters. Three more helicopters descend from above. Not transports. Attack helicopters. They stay aloft. Covering the operation.
+The Touaregs gesture upward. Attack helicopters descend from above. Three of them. They stay aloft. Covering the operation. Providing air support if needed.
 
 "We move now," the lead Touareg says. "Before light."
 
@@ -137,7 +137,7 @@ Thomas lowers the Glock. He looks at the body. He looks at the woman who killed 
 
 The hunt is over.
 
-Thomas turns and walks out. His team follows. They move back to the Toyotas. They drive north. Back to the coast. Back to the helicopters. Back to France.
+Thomas turns and walks out. His team follows. They move back to the Toyotas. They drive north. Back to the coast. Back to the Super Puma. Back to France.
 
 Behind them, Tadrart remains small and quiet. A place where someone died. A place where justice was executed. A place that will never know it happened.
 
@@ -152,7 +152,7 @@ Behind them, Tadrart remains small and quiet. A place where someone died. A plac
 - Gave up Tadrart location
 - DGSE confirmed via satellite imagery
 - Servants + target confirmed
-- Thomas boards Horizon-class helicopter
+- Thomas boards Super Puma helicopter (military transport)
 - Route: Mediterranean coast to Western Sahara
 - Landing: isolated beach near Morocco/Sahara border
 - Touareg delegation waiting (Hassan's network)
