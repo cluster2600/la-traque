@@ -109,13 +109,17 @@ The roof of France TV is open. Exposed. Thomas and Moreau step out into the wind
 
 The ground shakes again.
 
-Bigger. Much more violent. This isn't a pressure wave. This is a new explosion. The epicenter is toward the Seine. The Bercy area. The explosion is enormous. Water rises from the river. A column of flame. The pressure wave hits the roof. Thomas and Moreau are thrown backward. They hit the metal door frame. Pain everywhere.
+Bigger. Much more violent. This isn't a pressure wave. This is a new explosion. The epicenter is toward the southeast. The Seine. Somewhere along the eastern side of Paris. The explosion is enormous. A column of flame rises above the city. The pressure wave hits the roof hard. Harder than the first one. Thomas and Moreau are thrown backward. They hit the metal door frame. Pain everywhere. Thomas's ribs crack. Something breaks.
 
 The sound comes after. Delayed roar. Thunder. The sound of the world ending.
 
-When Thomas can see again, the Bercy area is gone.
+The city is obscured by smoke now. Dust everywhere. But the column of flame is visible. Massive. Rising kilometers into the air. This is bigger than the Eiffel Tower explosion. This is catastrophic.
 
-A barge. A cargo barge on the Seine. 1,500 tons total capacity. Chemical transport. The barge was carrying 1,200 tons of nitroglycerin. Industrial grade. Covered with 300 tons of gravel to conceal the cargo. The barge is now scattered across kilometers. Metal fragments. Twisted cargo containers. The river is a wall of flame. The gravel dispersed like shrapnel.
+Thomas realizes: a barge. A cargo barge on the Seine somewhere to the east. 1,500 tons total capacity. The barge was carrying 1,200 tons of nitroglycerin. Industrial grade. Covered with 300 tons of gravel to conceal the cargo. 
+
+The entire barge is detonating.
+
+The explosion spreads across kilometers. The water column from the Seine is visible even from here. Metal fragments scattered everywhere. The river is a wall of flame. The gravel dispersed like shrapnel across entire neighborhoods.
 
 The neighborhood is flattened. The warehouse district is rubble. Buildings collapsed. Windows shattered across the entire city. The pressure wave from the barge explosion has stripped windows from buildings in a five-kilometer radius.
 
