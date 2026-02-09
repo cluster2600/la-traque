@@ -115,7 +115,7 @@ The sound comes after. Delayed roar. Thunder. The sound of the world ending.
 
 When Thomas can see again, the Bercy area is gone.
 
-A barge. A cargo barge on the Seine. 1,500 tons. Chemical transport. The barge was carrying nitroglycerin. Industrial grade. Thousands of liters. The barge is now scattered across kilometers. Metal fragments. Twisted cargo containers. The river is a wall of flame.
+A barge. A cargo barge on the Seine. 1,500 tons total capacity. Chemical transport. The barge was carrying 1,200 tons of nitroglycerin. Industrial grade. Covered with 300 tons of gravel to conceal the cargo. The barge is now scattered across kilometers. Metal fragments. Twisted cargo containers. The river is a wall of flame. The gravel dispersed like shrapnel.
 
 The neighborhood is flattened. The warehouse district is rubble. Buildings collapsed. Windows shattered across the entire city. The pressure wave from the barge explosion has stripped windows from buildings in a five-kilometer radius.
 
