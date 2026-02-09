@@ -89,11 +89,15 @@ The video plays again. Thomas watches the speaker's eyes. Her hand placement. He
 
 The ground shakes.
 
-Not a small tremor. A full violent shake. The editing suite lurches. Equipment falls. Monitors crash. The technician stumbles backward. His chair slides across the floor and hits the wall.
+Not a small tremor. A full violent shake. The editing suite lurches. Equipment falls. Monitors crash. The technician stumbles backward. His chair slides across the floor and hits the wall. The building groans. Windows rattle. The tremor lasts six seconds. Then it stops.
+
+But the sound doesn't stop.
+
+The sound is everywhere. A roar. A pressure wave traveling through the air and through the building. The remaining windows in the editing suite explode inward. Glass shards spray across the room. People cover their faces. Blood on someone's neck.
 
 "What was that?" Moreau says.
 
-Nobody moves. Everyone is standing frozen. The building settles. The shaking stops.
+Nobody moves. Everyone is standing frozen, covered in glass dust. The building settles. The sound fades.
 
 Then the sirens start. All across Paris. Every siren at once. Wailing. Screaming. The sound of a city in crisis.
 
@@ -101,7 +105,17 @@ Then the sirens start. All across Paris. Every siren at once. Wailing. Screaming
 
 An aide runs to the monitors. Scrambles through the equipment. Finds a working screen. News feeds. Breaking news banner.
 
-"There are three explosions," the aide says. "The Louvre. The Élysée Palace. The Eiffel Tower. All simultaneously. Forty-five seconds ago."
+"Three explosions," the aide says. "The Louvre. The Élysée Palace. The Eiffel Tower. All simultaneously. Forty-five seconds ago. And—"
+
+The aide stops. Looks closer at the screen.
+
+"The Eiffel Tower. It's... it's collapsing. Into the Seine. The entire structure is going down. And all the windows across Paris. Every window. The pressure wave shattered every window in a three-kilometer radius. The city is—"
+
+The aide doesn't finish. Nobody needs him to finish. They all understand.
+
+Paris is under attack. Not one location. Four locations. Not one blast. Four massive blasts. Coordinated. Simultaneous. Professional.
+
+The Eiffel Tower is in the river.
 
 Thomas is already moving.
 
