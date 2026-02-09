@@ -101,23 +101,45 @@ Nobody moves. Everyone is standing frozen, covered in glass dust. The building s
 
 Then the sirens start. All across Paris. Every siren at once. Wailing. Screaming. The sound of a city in crisis.
 
-"Get me confirmation," Thomas says immediately.
+"Roof," Thomas says. "Now."
 
-An aide runs to the monitors. Scrambles through the equipment. Finds a working screen. News feeds. Breaking news banner.
+They move fast. Up the stairs. Multiple flights. The building is in chaos. People screaming. Alarms blaring. They reach the roof access. Thomas pushes through the door.
 
-"Three explosions," the aide says. "The Louvre. The Élysée Palace. The Eiffel Tower. All simultaneously. Forty-five seconds ago. And—"
+The roof of France TV is open. Exposed. Thomas and Moreau step out into the wind and the noise and the chaos.
 
-The aide stops. Looks closer at the screen.
+The ground shakes again.
 
-"The Eiffel Tower. It's... it's collapsing. Into the Seine. The entire structure is going down. And all the windows across Paris. Every window. The pressure wave shattered every window in a three-kilometer radius. The city is—"
+Bigger. Much more violent. This isn't a pressure wave. This is a new explosion. The epicenter is toward the Seine. The Bercy area. The explosion is enormous. Water rises from the river. A column of flame. The pressure wave hits the roof. Thomas and Moreau are thrown backward. They hit the metal door frame. Pain everywhere.
 
-The aide doesn't finish. Nobody needs him to finish. They all understand.
+The sound comes after. Delayed roar. Thunder. The sound of the world ending.
 
-Paris is under attack. Not one location. Four locations. Not one blast. Four massive blasts. Coordinated. Simultaneous. Professional.
+When Thomas can see again, the Bercy area is gone.
 
-The Eiffel Tower is in the river.
+A barge. A cargo barge on the Seine. 1,500 tons. Chemical transport. The barge was carrying nitroglycerin. Industrial grade. Thousands of liters. The barge is now scattered across kilometers. Metal fragments. Twisted cargo containers. The river is a wall of flame.
 
-Thomas is already moving.
+The neighborhood is flattened. The warehouse district is rubble. Buildings collapsed. Windows shattered across the entire city. The pressure wave from the barge explosion has stripped windows from buildings in a five-kilometer radius.
+
+And the Eiffel Tower is gone.
+
+Collapsed into the Seine. The metal structure is a twisted skeleton in the water. Flames everywhere. Smoke rising into the sky.
+
+The Louvre is damaged. Structural damage visible even from here. The Palace is burning. The city has entire blocks of windows missing.
+
+Thomas sits up. Blood on his face. His ears are ringing.
+
+Moreau is still. Unconscious. Blood on his forehead. Breathing. But out.
+
+Thomas stands. The roof is damaged. The building is swaying. He needs to move.
+
+But first he watches.
+
+The Eiffel Tower floats in the river. Metal twisted. The symbol of Paris is destroyed.
+
+The city is under coordinated attack. Not terrorism. Not a single cell. This is military-grade operation. Coordinated strikes on multiple critical infrastructure points. Someone is declaring war on France.
+
+Thomas knows what he's looking at.
+
+An invasion has begun.
 
 "Send this to all agency heads," Thomas says to Moreau. "And get me every frame analyzed. Speech patterns. Accent. Background analysis. I want everything."
 
