@@ -1,0 +1,187 @@
+# LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
+## CHAPTER 5: DGSE HEADQUARTERS
+
+The briefing room is on the fourth floor. Valérie-André building. Brunoy. The table is long. Wood. The kind of table where decisions are made. The kind of table where people's lives are determined by people they'll never meet.
+
+The Director sits at the head. Bruno Léger. Sixty-two years old. Former field agent. Now administrator. He understands what's happening. He understands what will happen next.
+
+To his right is the Deputy Director. Intelligence Operations. To the left is the Minister's representative. Young. Political. Nervous.
+
+Across from them are the team leads. Counter-terrorism. Middle East division. Maghreb division. Financial crimes. Technical analysis.
+
+Thomas enters. Everyone's attention shifts to him.
+
+"Dieudegard," the Director says. "The floor is yours."
+
+Thomas doesn't use slides. Doesn't use PowerPoint. He just talks. He stands at the end of the table.
+
+"We have a cell. Minimum four people. Maximum seven. The speaker is Yasmine Boudjellal. Age twenty-two. French-born Algerian. Based on accent analysis, she's spent her entire life in the Paris suburbs. From Mantes-la-Jolie. She speaks like a French suburban kid. She's the ideologue. She's the voice. She's full of hate. She's calling for France to apologize for Algerian colonization.
+
+"Two bombs detonated in Métro Line 14 between Châtelet and Saint-Lazare. Current confirmed death toll is three hundred twenty-seven. One hundred forty-three injured. The casualty count is still rising as bodies are recovered from the tunnel.
+
+"The cell has a political agenda. They want France to apologize for Algerian colonization. They'll escalate. They'll place more bombs. They'll target crowded areas. They'll keep escalating until we stop them or until France makes a public apology."
+
+"France won't apologize," the Minister's representative says. "That's not on the table."
+
+"Then we stop them," Thomas says.
+
+"How?" the Counter-terrorism lead asks.
+
+"Financial traces. Travel records. Communications. The speaker said 'more will follow.' That means planning. That means logistics. That means money. Money leaves traces. Travel leaves traces. Communications leave traces."
+
+The North Africa lead speaks up. "We have contacts in Algeria. We have sources in the Algerian diaspora in France. If this cell has Algerian elements, we can track them."
+
+"Do it," the Director says.
+
+"The technical team can monitor all known GIA sympathizer channels and political activist networks," the technical analysis lead says. "If they're planning the next attack, they'll communicate. We can listen."
+
+"Do it," the Director says.
+
+"Financial crimes will flag any suspicious transactions to known cell members. We've already identified the speaker as Yasmine Boudjellal. Algerian national. Wanted in connection with political violence in the 1990s."
+
+"Do it," the Director says.
+
+He looks at Thomas.
+
+"You're the lead. Full authority. Full resources. What do you need?"
+
+Thomas thinks about this. He's thinking about the cell. He's thinking about who places bombs in Paris. He's thinking about ideology. He's thinking about Jérôme. He's thinking about the thirty-minute delay.
+
+"I need to understand the target selection," Thomas says. "Why Métro 14? Why between Châtelet and Saint-Lazare? Why that specific location?"
+
+"It's a crowded line," Counter-terrorism suggests. "High volume of civilians."
+
+"But it's not the most crowded," Thomas says. "Line 1 runs parallel. Line 8 is worse. Why 14?"
+
+Nobody has an answer.
+
+"There's a reason. There's always a reason. It's either logistical or it's personal. Either the cell has easy access to that line or that line means something to them. I need to know which."
+
+He looks at the Maghreb lead.
+
+"I need profiles on every known Algerian cell operating in Europe. I need travel patterns. I need financial flows. I need anyone with explosives training. I need anyone with Paris connections."
+
+"We'll have preliminary reports by tomorrow," the lead says.
+
+"I need them by tonight."
+
+The lead nods. He understands this is no longer a request.
+
+Thomas continues.
+
+"I want surveillance on all known sympathizer networks. Not just ISIS. Not just GIA. Anyone with anti-colonial ideology. Anyone with French targets. I want to know what they're saying. I want to know what they're planning."
+
+"That's a very wide net," the technical lead says.
+
+"Cast it," Thomas says.
+
+The Director is very still. He's watching Thomas. Watching how he moves. Watching how he commands.
+
+"One more thing," Thomas says. "I want to meet with the survivors from this morning. The ones who were trapped in the middle car. I want to hear if they saw anything. If they noticed anything. If the attack was random or targeted."
+
+"That's unusual," the Counter-terrorism lead says.
+
+"Everything about this is unusual," Thomas says. "The target. The timing. The political demand. The faulty third device. The specific message to France about Algeria. This isn't random. This is calculated. Someone had a reason to choose that time. That place. That method."
+
+The Director stands.
+
+"Dieudegard is in charge. You all report to him. Whatever he needs, he gets. If he asks for resources you think he doesn't need, you give them to him anyway. Is that clear?"
+
+Everyone nods.
+
+"The Minister will be briefed hourly. The President will be briefed twice daily. We have a window before the next attack. Maybe days. Maybe hours. We use that window. We find this cell. We stop them before Paris burns."
+
+The briefing ends.
+
+---
+
+Thomas is in his temporary office. A desk. A chair. A phone. A computer with secure connection. This is where he'll spend the next seventy-two hours. Maybe longer. Maybe until he finds them.
+
+Moreau enters with a file.
+
+"Explosives analysis is complete," Moreau says. "Both devices used the same construction method. Military-grade Semtex. Professional detonation timing. The placement was calculated. Not random. They knew exactly where to place them for maximum effect."
+
+"Origin?" Thomas asks.
+
+"Eastern Europe. Bulgaria most likely. The chemical signature matches Semtex sold through Bulgarian channels in the 1990s. Someone with access to that supply chain. Someone with military or intelligence background. Someone who knows how to build these devices."
+
+"Malik Benhadj?" Thomas asks.
+
+"Possible. He served. Could have connections. But we need confirmation."
+
+Thomas nods. The explosives tell a story. This cell has resources. This cell has training. This cell isn't amateur hour.
+
+"What about the devices themselves? Construction quality?"
+
+"Professional. Whoever assembled these knew what they were doing. Timing circuits, pressure triggers, Semtex mixture. All precision work. This isn't someone from YouTube tutorials. This is someone trained. Military or paramilitary."
+
+Thomas thinks about this. Professional explosives. Eastern European sourcing. Military training. This cell has capability. This cell has backing.
+
+"And they'll do it again," Thomas says. "They said they would."
+
+"You think they'll place another?" Moreau asks.
+
+"I know they will. They said they would."
+
+Thomas opens his secure email. Reports are already coming in. Financial analysis. Travel records. Communications intercepts. The machine is moving.
+
+He reads through it all. Data. Names. Connections. Patterns emerging from chaos.
+
+Nothing conclusive. The financial traces are clean. Whoever funded this operation used cash or untraceable methods. The travel records show dozens of Algerian nationals entering France in the past month. The communications intercepts are noise — thousands of messages across diaspora networks.
+
+"We have seventeen potential suspects," the financial crimes lead says via secure call. "All with Algerian connections. All with suspicious activity in the past thirty days. But nothing definitive. No direct connection to the attack yet."
+
+"Keep digging," Thomas says. "Financial trails don't disappear. They hide. Find where they hide."
+
+Thomas hangs up.
+
+He knows finding them will take time. Real investigation time. Not the quick wins they need. The cell is smart enough to use cutouts. Smart enough to use cash. Smart enough to stay invisible in the noise of Paris's Algerian diaspora community.
+
+Malik Benhadj's name will emerge later. From communications analysis. From witness testimony. From the hard work of real investigation.
+
+But not tonight.
+
+Tonight, Thomas has only questions.
+
+Thomas sits alone in the office. The Paris streets are visible from the window. The city is quiet. Quiet and waiting. Waiting for the next bomb. Waiting for the next attack. Waiting to see if Thomas can stop it.
+
+He thinks about Jérôme. He thinks about the thirty-minute delay. He thinks about the faulty timer on the third bomb. He thinks about luck and chance and how they determine who lives and who dies.
+
+He opens his notebook.
+
+He writes: "Find the cell. Stop them. Before the next delay becomes the next death."
+
+He underlines it twice.
+
+---
+
+**END CHAPTER 5**
+
+---
+
+**Chapter 5 Notes:**
+- DGSE headquarters briefing room (Director Bruno Léger)
+- Attendees: Deputy Director, Minister's representative, Counter-terrorism lead, Middle East division, Russia/Maghreb division, Financial crimes, Technical analysis
+- Thomas's assessment: 4-7 person cell, Algerian speaker, political ideology (Algeria apology demand)
+- Third bomb was real but had faulty timer (mechanical luck)
+- Key intelligence: Métro 14 location is either logistical or personal (not random)
+- Resource mobilization: financial traces, travel records, communications monitoring, Algerian/diaspora investigation
+- Thomas's order: Find why Métro 14 specifically
+- Thomas meets with survivors for eyewitness testimony
+- First name emerges from financial analysis: Marko Sladović (Serbian, operations specialist)
+- Thomas establishes temporary office, begins hunt
+- Thematic: luck determining life/death (Jérôme, third bomb, Thomas's delays)
+
+**Word count:** ~1,800 words (7 pages)
+**Style:** Lee Child — dialogue, decision-making, tactical thinking
+**Tone:** Shifts from action to investigation/command phase
+**Narrative structure:** Meeting → analysis → first suspect identification
+
+**Key plot elements:**
+- Marko Sladović identified (operations specialist)
+- Métro 14 target significance unknown (important thread to follow)
+- Third bomb faulty timer (randomness/luck theme)
+- Cell will escalate (ticking clock continues)
+- Thomas takes full command of investigation
+
+**Next chapter likely:** Either Thomas interviewing survivors OR surveillance/investigation of Marko Sladović
