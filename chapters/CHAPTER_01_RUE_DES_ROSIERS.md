@@ -47,7 +47,13 @@ Thomas sets down the empty cup. Three hundred. Per car. Two cars. The mathematic
 
 Thomas pulls on black tactical pants. Black shirt. Boots. The clothes he keeps ready. Always ready. He doesn't respond. Response isn't necessary. He grabs the keys to the MV Agusta Brutale. Four cylinders. Dark metal. Italian precision. The bike is parked in the courtyard below. Always ready.
 
-He moves down the stairs. Fast. The Brutale is waiting. He kicks the engine alive. The sound echoes in the courtyard. 6:14 AM. Empty Paris. He opens the throttle and moves toward the Métro.
+He moves down the stairs. Fast. The Brutale is waiting. He kicks the engine alive. The sound echoes in the courtyard. 6:14 AM. Empty Paris. He opens the throttle.
+
+Rue des Rosiers to Rue de Rivoli. The bike cuts through the empty streets. The sirens are ahead of him. Multiple sirens. The city is waking up to chaos. He leans the bike through the turns. Fast. Precise. The Métro is east. Châtelet area. He's heading toward the blast zone.
+
+By Rue de Rivoli, the destruction is visible. Windows broken. People in the streets. Confused. The sirens are everywhere now. The city has understood.
+
+Thomas is already moving toward whatever comes next.
 
 ---
 

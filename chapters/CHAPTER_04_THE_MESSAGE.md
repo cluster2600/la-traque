@@ -113,17 +113,11 @@ Bigger. Much more violent. This isn't a pressure wave. This is a new explosion. 
 
 The sound comes after. Delayed roar. Thunder. The sound of the world ending.
 
-The city is obscured by smoke now. Dust everywhere. But the column of flame is visible. Massive. Rising kilometers into the air. This is bigger than the Eiffel Tower explosion. This is catastrophic.
+The city is obscured by smoke now. Dust everywhere. But the column of flame is visible. Massive. Rising kilometers into the air. This is catastrophic.
 
 Thomas doesn't know what just exploded. Doesn't know where. Doesn't know why. Just that Paris is being systematically destroyed. Location by location. Target by target. The entire city is a war zone.
 
-The neighborhood is flattened. The warehouse district is rubble. Buildings collapsed. Windows shattered across the entire city. The pressure wave from the barge explosion has stripped windows from buildings in a five-kilometer radius.
-
-And the Eiffel Tower is gone.
-
-Collapsed into the Seine. The metal structure is a twisted skeleton in the water. Flames everywhere. Smoke rising into the sky.
-
-The Louvre is damaged. Structural damage visible even from here. The Palace is burning. The city has entire blocks of windows missing.
+The pressure wave has stripped windows from buildings across the entire city. Five-kilometer radius of destruction. The city is in chaos. Windows shattered. People screaming in the streets below. Buildings damaged.
 
 Thomas sits up. Blood on his face. His ears are ringing.
 
@@ -133,7 +127,7 @@ Thomas stands. The roof is damaged. The building is swaying. He needs to move.
 
 But first he watches.
 
-The Eiffel Tower floats in the river. Metal twisted. The symbol of Paris is destroyed.
+Somewhere in the city, multiple explosions have happened. Coordinated. Simultaneous. The Eiffel Tower. The Louvre. The Élysée. The Métro. And now this fifth explosion to the southeast. The flame column still rising. Still burning.
 
 The city is under coordinated attack. Not terrorism. Not a single cell. This is military-grade operation. Coordinated strikes on multiple critical infrastructure points. Someone is declaring war on France.
 
