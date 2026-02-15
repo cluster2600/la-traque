@@ -92,7 +92,7 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 
 **Family Background**
 - **Mother:** Protestant, Huguenot descent. Her family were wine producers in Rhodesia. Lost everything when the colony ended and Zimbabwe became independent (circa 1980).
-- **Father:** Protestant. Diplomat/security background. Distant but protective.
+- **Father:** Protestant. Background TBD (not diplomat). Distant but protective.
 - **Siblings:** 
   - Victoire (35 years old, born ~1983)
   - Louis (33 years old, born ~1985)
