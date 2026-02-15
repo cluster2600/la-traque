@@ -27,7 +27,9 @@ They look like normal.
 
 They look like the legend.
 
-They take a safe house thirty minutes from the lake.
+They take a safe house three minutes from the lake.
+
+Near the casino. Zug's heart. Where money moves quietly and wealthy men don't ask questions.
 
 Apartment rented under the Bureau des Légendes cover company. Legal. Officially a consulting firm. French business operating in Switzerland. Paperwork perfect.
 
