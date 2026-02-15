@@ -259,6 +259,48 @@ Everything Thomas needs to find Yasmine.
 
 The end of Malik begins now.
 
+But first, they make him open it.
+
+They make him go upstairs.
+
+They make him face the bedroom closet.
+
+They put a gun to his heavy back.
+
+A 9mm Glock. Suppressor. Business-like.
+
+"Open it," Leclerc says. Quiet. Professional. No emotion.
+
+Malik's hands shake.
+
+150 kilos of fat and fear.
+
+He tries the combination.
+
+Fails.
+
+Tries again.
+
+Opens.
+
+Inside: gold bars. Diamonds. Bearer bonds. Cash. Millions in untraceable assets.
+
+And documents.
+
+Names. Dates. Coordinates. Bank accounts in Cayman Islands. Shell companies. Everything.
+
+Everything they need.
+
+Malik stands in his expensive bedroom surrounded by his stolen wealth.
+
+A broken old man who bought safety with blood money.
+
+Who thought Switzerland meant forever.
+
+Who never understood that money is just paper.
+
+And paper burns.
+
 But the trigger hasn't been pulled yet.
 
 Not in this chapter.
