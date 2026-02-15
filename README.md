@@ -21,7 +21,7 @@ Thomas Dieudegard, 40, is a former French Navy captain (Capitaine de Corvette) a
 
 On a February morning in 2018, three bombs are placed in Métro Line 14 between Châtelet and Saint-Lazare stations. Two detonate. The line goes dark with 43+ civilians trapped inside the open car. Thomas does not save them.
 
-But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's best friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at the summer meeting with their friend group. Jérôme was late and missed it. He decided to take the RER B train to join them later. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by simply being at the right place at the right time. Jérôme died for being late.
+But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's holiday friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at the summer meeting with their friend group. Jérôme was late and missed it. He decided to take the RER B train to join them later. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by simply being at the right place at the right time. Jérôme died for being late.
 
 Now, Thomas is not rescuing anyone — he's hunting the terrorist cell responsible. His investigation leads him to Yasmin Aliyev, a Chechen-Russian cell leader, and three other conspirators. What starts as a professional duty becomes a personal obsession — a hunt for justice, perhaps, or perhaps just revenge.
 
@@ -112,7 +112,7 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - **Lifestyle:** Disciplined. Precise. Routine-driven. Everything minimal and necessary.
 
 **The Formative Trauma**
-- **Best Friend:** Jérôme (no last name given in outline)
+- **Holiday Friend:** Jérôme (no last name given in outline)
 - **Date of Death:** July 25, 1995 (Saint-Michel RER B bombing)
 - **Thomas's Age:** 16 years old
 - **The Meeting:** Summer group of friends met at a café (colony de vacances reunion). Thomas was there. Jérôme was LATE.
@@ -120,7 +120,7 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - **The Bomb:** Jérôme took the RER B train to Saint-Michel. He was on a strapontin (fold-down seat) directly above the bomb. The bomb detonated. He was one of 8 dead.
 - **The Randomness:** Thomas survived by being at the café. He didn't catch the train. Jérôme died because he was late to the first meeting and tried to catch up by taking that specific train at that specific time. Pure chance. Placement on the strapontin was pure chance.
 - **Body Identification:** Took 2 days (dental records required, bomb damage was extensive).
-- **Psychological Impact:** Drives entire adult life. Obsession with prevention, order, control. Discipline as a weapon against randomness. Determination to save lives, to prevent the next Jérôme from dying to chance. Not guilt about being late, but awareness that TIMING decides everything. Being 5 minutes early or late decides life or death. Thomas became obsessed with control, with seeing threats before they happen, with preventing randomness from taking anyone else.
+- **Psychological Impact:** Drives entire adult life. Obsession with prevention, order, control. Discipline as a weapon against randomness. Awareness that TIMING decides everything — being 5 minutes early or late decides life or death. Thomas became obsessed with control, with seeing threats before they happen, with preventing randomness from taking anyone else. But he cannot save Jérôme. And he cannot save the 43 civilians in Métro 14.
 
 **Personality**
 - Quiet, observant, controlled
