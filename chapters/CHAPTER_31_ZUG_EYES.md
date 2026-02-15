@@ -1,37 +1,23 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 31: ZUG EYES
 
+### 22:00 — Safe House, Zug
+
 Zug is quiet.
 
-Rich quiet.
-
-The kind of quiet that means no one wants trouble.
-
-The city sits on the lake. Mountains in the distance. Clean streets. Expensive cars. Not banks. Just money. Silent money. Sleeping money.
+Rich quiet. The kind of quiet that means no one wants trouble. The city sits on the lake. Mountains in the distance. Clean streets. Expensive cars. Not banks. Just money. Silent money. Sleeping money.
 
 Switzerland. Where wealth doesn't announce itself.
 
-Thomas arrives with his team in three Mercedes wagons.
+Thomas arrives with the team in three Mercedes E-Class wagons. Five years old. Diesel engines. Practical. Professional. Invisible.
 
-Big cars. Not new. Not old. Five years old. E-Class. Diesel engines. Practical. Professional. Invisible.
+French plates. Real plates. Real identities created by the Bureau des Légendes. Everything traceable. Everything legal.
 
-French plates. Real plates. Attached to identities created by the Bureau des Légendes. Real names. Real paperwork. Real business registration in Lyon. Everything legal. Everything checked.
+They park near the lake. Unload surveillance gear. Weapons cases. Safe house supplies. They look like French business people moving into temporary accommodations.
 
-The Bureau des Légendes created the legend. The fake identity. The consulting firm. The business registration. The tax files. The bank accounts. Everything traceable. Everything real.
+The safe house: three minutes from the lake. Near the casino. Where money moves quietly and wealthy men don't ask questions.
 
-The three wagons take different routes into Zug. They park near the lake. They unload equipment. Surveillance gear. Weapons cases. Safe house supplies.
-
-They look like French business people moving into temporary accommodations.
-
-They look like normal.
-
-They look like the legend.
-
-They take a safe house three minutes from the lake.
-
-Near the casino. Zug's heart. Where money moves quietly and wealthy men don't ask questions.
-
-Apartment rented under the Bureau des Légendes cover company. Legal. Officially a consulting firm. French business operating in Switzerland. Paperwork perfect.
+Apartment rented under Bureau cover. Consulting firm. French business operating in Switzerland. Paperwork perfect.
 
 Switzerland doesn't ask questions when paperwork is correct.
 
@@ -39,133 +25,63 @@ When the legend is solid.
 
 When everything is registered and taxed.
 
-Beaumont and Richelieu take surveillance.
+Beaumont and Richelieu take surveillance positions.
 
-They sit in a parked van with tinted windows. Cameras. Long lenses. Directional microphones.
-
-They watch Seestrasse 47.
-
-Modern building. Glass and steel. Underground parking. Lake view.
-
-Expensive.
+Tinted van. Parked across from Seestrasse 47. Cameras. Long lenses. Directional microphones.
 
 They watch the door.
 
-They watch the dock behind it.
+They watch the dock.
 
-They watch Malik.
+They wait for the target.
 
-He appears at 9:12 AM.
+### 21:00 — Seestrasse 47
 
-55 years old. 150 kilos. Soft body. Pale skin. The look of a man who spends time indoors.
+The building is modern. Glass and steel. Underground parking. Lake view. Expensive.
 
-Gym bag. Tracksuit. Fat man's walk. Slow. Heavy. Confident.
+Inside: lights. Music starting. Catering van arrived at 18:30. Alcohol. Food. The smell of money spending itself.
 
-He walks like a man who believes in safety.
+Three cars arrive at 19:30. Audi. BMW. Mercedes.
 
-He doesn't scan.
+Men in suits. Women in dresses. Laughter. The sound of a man celebrating something.
 
-He doesn't check reflections.
+By 20:00, the house is loud.
 
-He doesn't do countersurveillance.
+Music thumps. Bass line. American pop song. Voices. Ice in glasses.
 
-He thinks Switzerland is armor.
+The sound of blood money being drunk.
 
-He thinks wealth is protection.
+### 21:15 — Safe House, Zug
 
-He thinks geography is safety.
+Thomas gathers the team around the floor plan.
 
-Beaumont whispers into the radio.
+Seestrasse 47. Modern building. Three floors. Underground parking. Dock access on the south side.
 
-"Target visual."
-
-Thomas listens from the safe house.
-
-He doesn't move yet.
-
-He wants pattern.
-
-He wants certainty.
-
-For three days they watch.
-
-Malik leaves at 9:00 AM. Gym. Returns at 11:00 AM. Shower. Lunch at noon. Local café. Pasta. Wine. Espresso.
-
-Afternoon walk by the lake. Sits on a bench. Feeds ducks. Watches boats.
-
-Returns at 4:00 PM. Stays inside until evening.
-
-Groceries on Tuesday and Thursday. Same store. Same routine.
-
-Predictable.
-
-Safe.
-
-Arrogant.
-
-Then Friday.
-
-At 6:00 PM, a delivery arrives.
-
-Van. Catering company. Logo on the side.
-
-Alcohol.
-
-Food.
-
-At 7:30 PM, three cars arrive. Expensive. Audi. BMW. Mercedes.
-
-Men in suits. Women in dresses. Laughter. Music starts inside.
-
-By 8:00 PM, the house is loud.
-
-Music.
-
-Laughter.
-
-The sound of a man spending blood money.
-
-The sound of a man who thinks he escaped.
-
-Thomas gathers the team.
-
-He lays the plan on the table. Floor plan of the building. Marked with entry points. Exit routes. Sight lines.
-
-"Lake side entry," Thomas says. "Two operators on the street. Beaumont and Richelieu. You watch for Swiss police. You watch for civilians. You give us twenty minutes."
+"Beaumont and Richelieu watch the street," Thomas says. "Police scanner. You give us twenty minutes."
 
 Beaumont nods.
 
-"Four through the dock. Me. Tarkovsky. De Vergennes. Leclerc. We enter from the lake. We move through the house. We secure Malik. We open the safe. We extract documents and assets."
+"Four of us entry from the lake. Me. Tarkovsky. De Vergennes. Leclerc."
+
+He points at the floor plan.
+
+"Dock entrance. Ground floor. Stairs to the bedroom. Third floor. Safe is in the closet. De Vergennes breaches. We secure the target. We extract."
 
 "Time limit?" Tarkovsky asks.
 
 "Twenty minutes. In and out. Clean."
 
-"And if Swiss police arrive?"
+"Swiss police?" De Vergennes asks.
 
-"We abort. We scatter. We meet at the secondary safe house in France."
+"Last patrol passed at 21:00. Next cycle in thirty minutes. We're inside the window."
 
-Tarkovsky nods. He likes clear parameters.
+De Vergennes checks his breaching kit. Small charges. Thermite compound. Military grade. Just enough to open a safe without collapsing a building.
 
-"No Swiss police," Thomas says. "No civilians hurt unless they force it. We keep it quiet. We get Malik. We get the safe. We leave."
+"Safe is bolted to the floor," he says. "Thirty seconds to breach. Thirty seconds to cool. Then we extract."
 
-De Vergennes nods.
-
-He has breaching charges in a bag. Small. Precise. Thermite compound. Military grade.
-
-Just enough to open a safe without collapsing a building.
-
-"The safe is in the bedroom closet," De Vergennes says. "Large. Professional. Bolted to the floor. Thirty seconds to breach. Thirty seconds to cool. Then we extract."
-
-Moreau checks comms from the van.
+Moreau monitors police frequencies from the van.
 
 Encrypted radios. Short range. No cellular. No digital trail.
-
-Police scanner monitoring local frequencies.
-
-"Swiss police cycles every forty minutes," Moreau reports. "Last pass was twenty minutes ago. Next pass in twenty minutes."
-
-Perfect window.
 
 Leclerc checks medical kit.
 
@@ -173,9 +89,7 @@ Tourniquets. Syringes. Morphine. Tape. Hemostatic gauze.
 
 He doesn't expect to use it.
 
-But he checks anyway.
-
-Professionals always prepare.
+But professionals always prepare.
 
 Tarkovsky checks his Glock.
 
@@ -189,35 +103,39 @@ He thinks about angles.
 
 Lines of sight.
 
-Threat assessment.
-
 Who dies first if violence starts.
 
-At 10:30 PM, Beaumont reports.
+### 21:45 — Beaumont's Van, Seestrasse 47
 
-"Swiss patrol passed. Next cycle forty minutes."
+Beaumont whispers into the radio.
 
-Thomas stands.
+"Target visual. Still inside. Party continuing."
+
+Thomas listens from the safe house.
+
+"How many civilians?"
+
+"Seven. Maybe eight. Drunk. Not observant."
+
+"Police?"
+
+"Clean. Last patrol twenty-five minutes ago. Next cycle in fifteen."
+
+Thomas nods once.
 
 "Move," he says.
 
-They leave the safe house.
+### 21:50 — The Lake, Zug
 
-Two cars.
+They leave the safe house in two black rental cars.
 
-Black.
-
-Unmarked.
-
-Rental plates.
+Unmarked. Rental plates. No distinguishing marks.
 
 They park a kilometer away. Side street. No cameras.
 
 They walk to the lake.
 
-Night air. Water smell. Rich people sleeping.
-
-Lights in windows. Boats rocking gently at docks.
+Night air. Water smell. Boats rocking at docks. Lights in windows. Rich people sleeping.
 
 Normal Swiss night.
 
@@ -227,9 +145,15 @@ Peaceful.
 
 About to be violated.
 
+Thomas checks his watch. 21:55.
+
+Five minutes until the police patrol passes.
+
+Five minutes until they move.
+
 The dock is empty.
 
-the house glows with light on the third floor.
+The house glows with light on the third floor.
 
 Figures move behind glass.
 
@@ -237,43 +161,77 @@ Music thumps. Bass line. American pop song.
 
 Malik's silhouette.
 
-55 years old, 150 kilos, laughing.
-
-A heavy man surrounded by stolen money and young women.
+55 years old. 150 kilos. Heavy man laughing. Surrounded by young women. Surrounded by stolen money.
 
 A man who thinks he's safe.
 
-Thomas waits in the shadow.
+Thomas looks at his team.
 
-The operation is ready.
+Tarkovsky. Leclerc. De Vergennes.
 
-The target is present.
+Professionals.
 
-The safe is upstairs.
+Operators who understand the mission.
 
-The documents are inside.
+He nods once.
 
-Intelligence. Coordinates. Financial records.
+### 21:58 — Beaumont's Van
 
-Everything Thomas needs to find Yasmine.
+Beaumont whispers into the radio.
 
-The end of Malik begins now.
+"Swiss patrol passing now. You have forty minutes."
 
-But first, they make him open it.
+Thomas doesn't answer.
 
-They make him go upstairs.
+He moves toward the dock.
 
-They make him face the bedroom closet.
+Silent.
 
-They put a gun to his heavy back.
+Purposeful.
 
-A 9mm Glock. Suppressor. Business-like.
+Final.
 
-"Open it," Leclerc says. Quiet. Professional. No emotion.
+### 22:00 — Seestrasse 47, Ground Floor
 
-Malik's hands shake.
+They breach the dock door. Aluminum frame. Glass panel. De Vergennes uses a pry bar. Quiet. Professional. Ten seconds.
+
+Inside: hallway. Stairs. Darkness.
+
+They move upstairs. Third floor. They can hear the party. Music. Laughter. The sound of Malik's arrogance.
+
+They reach the bedroom door.
+
+Thomas doesn't knock.
+
+He enters.
+
+Malik stands at the window. Glass in hand. Looking at the lake. Completely unaware.
+
+When he turns, Thomas's Glock is already pointed at his chest.
+
+"Don't move," Thomas says. Quiet. Professional. No emotion.
+
+Malik's hand drops. Glass shatters on hardwood.
+
+"Who are—"
+
+"Safe," Thomas says. "Where is it."
+
+Malik's face goes pale.
 
 150 kilos of fat and fear.
+
+He points to the closet.
+
+### 22:03 — The Bedroom Closet
+
+The safe is large. Professional. Bolted to the floor. Modern lock. Combination.
+
+De Vergennes sets up the thermite charges. Precise. Military. Thirty seconds to breach. Thirty seconds to cool.
+
+"Open it," Leclerc says to Malik. Gun at his back. 9mm Glock. Suppressor. Business-like.
+
+Malik's hands shake.
 
 He tries the combination.
 
@@ -283,13 +241,27 @@ Tries again.
 
 Opens.
 
-Inside: gold bars. Diamonds. Bearer bonds. Cash. Millions in untraceable assets.
+Inside: gold bars. Two dozen of them. Ten kilograms each. Yellow metal stacked like bricks.
+
+Diamonds. Certified loose stones. Small leather pouches. More valuable than gold by weight.
+
+US Treasury bearer bonds. Tens of millions. Untraceable. The ultimate currency.
+
+Cash. Thousands. Fifty-pound notes. Euros. Dollars. One thousand franc notes.
+
+Watches. Rolex. Patek Philippe. Jaeger-LeCoultre. Dozens. Tens of thousands each.
 
 And documents.
 
-Names. Dates. Coordinates. Bank accounts in Cayman Islands. Shell companies. Everything.
+Papers. Folios. Bank account numbers. Names. Dates. Coordinates. Shell companies. Cayman Islands. Panama. Switzerland.
 
-Everything they need.
+Everything.
+
+The coordinates that lead to Hassan.
+
+The bank accounts that lead to Yasmin.
+
+The network they've been hunting.
 
 Malik stands in his expensive bedroom surrounded by his stolen wealth.
 
@@ -301,49 +273,191 @@ Who never understood that money is just paper.
 
 And paper burns.
 
-But the trigger hasn't been pulled yet.
+### 22:06 — Packing
 
-Not in this chapter.
+They don't have time for the entire safe.
 
-In this moment, they're still ghosts on a Swiss lake.
+De Vergennes grabs the documents. Photographs them with a secure camera. Fast. Professional.
 
-Still quiet.
+Tarkovsky and Leclerc load the gold bars into military duffel bags. Heavy. Practical.
 
-Still unseen.
+The diamonds. Secured in a single leather case.
 
-Just shadows among other shadows.
+The bearer bonds. Folded carefully. Hidden in a messenger bag.
 
-Thomas looks at his watch. 10:43 PM.
+The watches. Wrapped and bagged.
 
-He looks at his team. Tarkovsky. Leclerc. De Vergennes.
+Cash. Counted quickly. Two hundred thousand. Loaded.
 
-Professionals.
+Three minutes. Everything essential secured.
 
-Killers.
+Thomas looks at Malik.
 
-Operators who understand the mission.
+"Don't move for one hour," he says. "Call police after one hour. Not before."
 
-He nods once.
+Malik nods.
 
-They move toward the building.
+He understands the alternative.
 
-Silent.
+### 22:09 — Dock Exit
 
-Purposeful.
+They move downstairs.
 
-Final.
+The party still roars on the third floor.
 
-A breath before violence.
+Drunken laughter. Someone singing badly. Malik's guests completely unaware.
 
-The moment before Zug becomes a crime scene.
+They exit through the dock.
 
-The moment before Switzerland's neutrality gets tested.
+Back to the lake.
 
-The moment before Malik realizes that money doesn't buy safety.
+Back to the shadows.
 
-It just buys time.
+Back to the cars.
 
-And Malik's time is over.
+### 22:12 — En Route to Annemasse
+
+Two rental cars. Black. Unmarked.
+
+They drive north from Zug toward the French border.
+
+Route to Annemasse: 45 minutes from Zug.
+
+The drive is silent.
+
+No radio. No communication. No unnecessary movement.
+
+Beaumont follows in a third car. Surveillance position. Watching for police.
+
+They reach the highway. Swiss 3. Direction France.
+
+Thomas drives. Tarkovsky in passenger seat. Leclerc and De Vergennes in back with the duffels.
+
+The other car follows. Four more operators. Moreau driving. Two surveillance specialists in back.
+
+Both cars keep distance. Professional spacing. Professional protocol.
+
+### 22:35 — Approaching Border, Annemasse
+
+The border at Annemasse is quiet at night.
+
+Customs check. Passport control. Routine.
+
+The lead car passes through first. French plates. French documents. French business people. Real identities. Real paperwork.
+
+Customs waves them through.
+
+The second car follows.
+
+Same procedure.
+
+Same legend.
+
+They pass through.
+
+They're in France.
+
+They're out of Switzerland.
+
+### 22:50 — Annemasse Safe House
+
+A small apartment near the station. Rented weeks ago. Already prepared.
+
+They unload the duffels.
+
+The gold bars. Twenty-four of them. Laid on the table. Yellow metal. Beautiful. Deadly.
+
+The diamonds. Six pouches. Small stones. Massive value.
+
+The bearer bonds. Millions in untraceable currency.
+
+The cash. Two hundred thousand.
+
+The watches. Twenty-seven. Rolex. Patek Philippe. Jaeger-LeCoultre.
+
+The documents. Photographs. Bank accounts. Names. Coordinates.
+
+Everything they need.
+
+Everything they came for.
+
+Thomas looks at the table.
+
+"Secure the precious metals," he says. "The bonds go to Moreau. He'll move them through intermediaries. The cash stays here."
+
+De Vergennes nods.
+
+He begins securing the gold in a reinforced bag.
+
+Military-grade waterproofing. Hidden compartments.
+
+By midnight, everything is secured.
+
+By midnight, the operation is complete.
+
+Thomas steps outside.
+
+Annemasse. French border town. Quiet street. Late night. Nothing moving.
+
+He thinks about Malik.
+
+Sitting in his expensive bedroom in Zug.
+
+Watching the clock.
+
+Waiting for permission to call police.
+
+Understanding that his money bought him nothing.
+
+That Switzerland is just geography.
+
+That safety is an illusion.
+
+By tomorrow morning, Malik will be questioned by Swiss authorities.
+
+By tomorrow morning, the investigation will begin.
+
+But by then, they'll be gone.
+
+And the documents will have led them to Hassan.
+
+And Hassan will lead them to Yasmin.
+
+And Yasmin will lead them to the end.
+
+Thomas looks at his watch. 00:15.
+
+They've been gone from Zug for exactly two hours and fifteen minutes.
+
+The operation was clean.
+
+No casualties.
+
+No police involvement.
+
+Just blood money extracted.
+
+Just documents secured.
+
+Just one step closer to the hunt's end.
+
+Inside, Leclerc makes coffee.
+
+De Vergennes checks weapons.
+
+Tarkovsky studies the documents.
+
+Moreau monitors police frequencies.
+
+No one speaks.
+
+They know what comes next.
+
+They know where the coordinates lead.
+
+They know Yasmin is waiting.
+
+And they know this is just the beginning of the end.
 
 ---
 
