@@ -71,7 +71,21 @@ Thomas walks through the detention facility. He sees the containers. He sees the
 
 He sees a young boy, maybe seventeen. Sitting in the corner of a container. Head in his hands. Not moving. Not speaking.
 
-"Why are they all detained?" Thomas asks a soldier.
+A soldier is leading Thomas through the containers when he points to one.
+
+"That one. Abdelkrim Diallo. Wheelchair. The disabled guy. He's in there."
+
+Thomas stops.
+
+"Abdelkrim Diallo?"
+
+"Yeah. From the wheelchair bombing. DGSE identified him this morning. The failed device under the train car. They found his name on the wheelchair registration. He lives three blocks from here. We picked him up during the sweep."
+
+Thomas moves toward the container. He can see through the gaps in the metal. A man in a wheelchair is sitting alone in the corner. The same man from the failed bomb investigation. The same man whose explosion didn't detonate. The man sitting in the darkness, knowing that his device failed. Knowing that his brothers are bombing the city. Knowing that he is now a prisoner.
+
+Thomas doesn't speak to him. He just watches for a moment. Then he moves on.
+
+"Why are they all detained?" Thomas asks the same soldier.
 
 "Orders," the soldier says. "Sweep the area. Detain anyone who might have information."
 
