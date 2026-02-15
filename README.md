@@ -10,7 +10,7 @@
 **Author:** Maxime Grenu (concept) | Claude (writing)  
 **Genre:** Thriller / Espionage / Crime  
 **Style:** Lee Child (Jack Reacher) — short sentences, maximum tension, minimal description  
-**Target Length:** 300 pages (~30 chapters, 10 pages each)  
+**Target Length:** 200 pages (~20 chapters, 10 pages each) — Detective story only, no flashbacks  
 **Setting:** Paris, France, 2018-2019  
 
 ---
@@ -131,15 +131,14 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 
 ---
 
-## Story Structure: 3 Acts, 30 Chapters
+## Story Structure: 3 Acts, ~20 Chapters (DETECTIVE STORY ONLY)
 
-### ACT I: THE PAST (Chapters 1-10) — ~100 pages
+### ACT I: THE CRIME (Chapters 1-2) — Immediate Action
 
 **Chapter 1: Rue des Rosiers**
 - Thomas wakes before dawn on February day in 2018
 - La Marzocco espresso
 - Phone call: bombing at Métro 14
-- Flashback: August 1995, Saint-Michel, Jérôme's death
 - Thomas mobilizes for action
 
 **Chapter 2: Saint-Lazare** ✨ NEW (Feb 15)
@@ -155,31 +154,11 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
   - Evidence confirms third bomb (most dangerous) still active below ground
 - **Narrative Impact:** Thomas now knows he's hunting professionals, not amateurs
 
-**Chapters 3-4: Normandy and Rhodesia**
-- Childhood scenes with parents, siblings
-- Father's rare stories about Rhodesia's collapse
-- Mother's trauma (lost wine fortune, family legacy)
-- Young Thomas learning discipline and order from family history
-
-**Chapters 5-7: Jérôme and August 1995**
-- Summer of 1995: Jérôme and Thomas as friends
-- The day they were supposed to meet at Métro
-- Thomas's thirty-minute delay
-- Saint-Michel explosion: detailed account
-- Aftermath: funeral, guilt, obsession begins
-
-**Chapters 8-10: The Path to Intelligence Services**
-- Thomas at 17, 18, 19: choosing discipline and control
-- Military training at École de la Marine Nationale
-- Combat swimmer specialization
-- The obsession with prevention solidifies
-- By 2018: Thomas is 40, a captain in intelligence, haunted but functional
-
 ---
 
-### ACT II: THE CRISIS (Chapters 11-20) — ~100 pages
+### ACT II: THE CRISIS (Chapters 3-10) — ~80 pages
 
-**Chapter 11: Métro Line 14** ✨ REVISED (Feb 15)
+**Chapter 3: Métro Line 14** ✨ REVISED (Feb 15)
 - The bombing happens: 3 wheelchair-mounted devices detonating in the open interior space
 - **Device #1 & #2:** EXPLODE successfully (distributed through the single long car, high casualty impact)
 - **Device #3:** FAILS TO DETONATE (Abdelkrim's wheelchair, becomes forensic breakthrough)
@@ -188,7 +167,7 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - Thomas assessing from command center (not coordinating rescue)
 - **NEW:** Abdelkrim arrested at scene with failed device → becomes key witness
 
-**Chapters 12-17: The Darkness**
+**Chapters 4-8: The Darkness**
 - Emergency teams attempting to penetrate the tunnel
 - Communication with trapped civilians fails
 - Structural dangers, collapsing track, impassable obstacles
@@ -197,14 +176,14 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - Rescue teams unable to reach them in time
 - All 43 civilians dead in the darkness
 
-**Chapter 18: The Aftermath**
+**Chapter 9: The Aftermath**
 - 43 bodies recovered from the open car (all dead)
 - Thomas watches rescue teams pull corpses from darkness
 - Medical triage becomes body identification
 - Thomas does not feel satisfaction — he feels the weight of failure
 - Now comes the hunt — the only thing left is to find who did this
 
-**Chapters 19-20: Investigation Begins**
+**Chapter 10: Investigation Begins**
 - A suspect is in custody
 - Interrogation reveals cell structure
 - Demands from terrorists: prisoner releases
@@ -213,41 +192,41 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 
 ---
 
-### ACT III: THE VENGEANCE (Chapters 21-30) — ~100 pages
+### ACT III: THE HUNT (Chapters 11-20) — ~80 pages
 
-**Chapter 21: The Cell**
+**Chapter 11: The Cell**
 - Intelligence gathering on the four conspirators
 - Yasmin Aliyev: cell leader, Chechen-Russian, revolutionary ideology
 - Marko Sladović: operations specialist, pragmatist
 - Hassan Mehran: ideologue, intellectual
 - Inès van der Meer: financier and facilitator
 
-**Chapters 22-24: Breaking the Cell**
+**Chapters 12-14: Breaking the Cell**
 - Intercepts and surveillance reveal internal tensions
 - Marko shows doubt, cracks in loyalty
 - Safe house raid yields documents of further planned attacks
 - This wasn't the endgame — it was the opening
 
-**Chapters 25-27: Defection and Deals**
+**Chapters 15-17: Defection and Deals**
 - Inès is convinced to cooperate (prison or protection)
 - Hassan is arrested, confronts Thomas with uncomfortable truths
 - Thomas realizes he and Hassan are mirrors: both justify violence for order
 - Marko chooses himself over Yasmin, gives up everything
 
-**Chapter 28: Personal**
+**Chapter 18: Personal**
 - Yasmin's next target is the Métro station near Rue des Rosiers
 - She knows where Thomas lives
 - This is personal: she's making it personal
 - Thomas understands she wants him to understand that safety is an illusion
 
-**Chapter 29: The Confrontation**
+**Chapter 19: The Confrontation**
 - Thomas finds Yasmin in the tunnels beneath Rue des Rosiers
 - Not by accident — she wanted to be found
 - They talk. Yasmin about pain and justice. Thomas about Jérôme and the cost of revenge.
 - They are mirrors of each other
 - The confrontation is intellectual, moral, not just physical
 
-**Chapter 30: After**
+**Chapter 20: After**
 - Yasmin dies (self-inflicted)
 - She takes the choice away from Thomas
 - He stands in darkness
@@ -381,10 +360,9 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - Setting research (Paris, Métro, Rue des Rosiers)
 
 **Phase 2: Chapter Writing** 🔄 IN PROGRESS
-- Chapter 1: Rue des Rosiers ✅ COMPLETE
-- Chapters 2-10: Background and setup
-- Chapters 11-20: Crisis and rescue
-- Chapters 21-30: Investigation and vengeance
+- Chapter 1-2: The Crime ✅ COMPLETE (structure revised Feb 15)
+- Chapters 3-10: Crisis and aftermath
+- Chapters 11-20: Investigation and confrontation
 
 **Phase 3: Editing & Refinement** (Pending)
 - Full manuscript review
