@@ -7,7 +7,19 @@ He thought he was safe. He thought hiding in Zug, in a house on the lake, meant 
 
 He was wrong.
 
+The evidence chain started with a failed bomb.
+
+A wheelchair. A device that didn't detonate. Abdelkrim Diallo's sabotaged timer. The partial explosion that led them to identify the fourth cell member. The fingerprints on the wheelchair. The DNA in the grip handles. The registration that traced back to Mantes-la-Jolie.
+
+From there, the investigation expanded. Police records showed Abdelkrim's apartment address. A search of that apartment revealed notebooks. Encrypted notebooks, but notebooks nonetheless. The encryption was broken. The contents revealed names. Locations. Financial details.
+
+One name appeared repeatedly: Malik Benhadj.
+
+Malik was the money man. Malik's apartment in Paris held computer equipment. Computer equipment that showed cryptocurrency transactions. Bitcoin wallets. Ethereum addresses. An entire digital finance network designed to move money without leaving traditional banking traces.
+
 The bitcoin transactions they found in the Mantes-la-Jolie TNT lab led directly to him. Wallet addresses. Transaction IDs. Blockchain traces. All pointed to Zug. All pointed to a house. All pointed to a man who thought he could disappear into Swiss wealth and cryptocurrency anonymity.
+
+But the failed wheelchair had already identified him.
 
 Thomas's team watched him for three days.
 
