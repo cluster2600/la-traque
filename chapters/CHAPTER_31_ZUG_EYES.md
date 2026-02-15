@@ -57,7 +57,9 @@ They watch Malik.
 
 He appears at 9:12 AM.
 
-Gym bag. Tracksuit. Soft body. Pale skin. The look of a man who spends time indoors.
+55 years old. 150 kilos. Soft body. Pale skin. The look of a man who spends time indoors.
+
+Gym bag. Tracksuit. Fat man's walk. Slow. Heavy. Confident.
 
 He walks like a man who believes in safety.
 
@@ -235,7 +237,9 @@ Music thumps. Bass line. American pop song.
 
 Malik's silhouette.
 
-A fat man laughing.
+55 years old, 150 kilos, laughing.
+
+A heavy man surrounded by stolen money and young women.
 
 A man who thinks he's safe.
 
