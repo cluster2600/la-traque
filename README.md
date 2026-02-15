@@ -59,19 +59,19 @@ The novel explores whether justice and revenge are the same thing. Whether savin
   - ❌ **Wheelchair #3:** FAILS TO DETONATE (operated by Abdelkrim, becomes forensic breakthrough)
 - **Story Impact:** Failed device becomes key to cracking the entire cell network
 
-### Abdelkrim Diallo — The Failed Operator (Chapters 6.5 & 11)
-- **Name:** Abdelkrim Diallo
-- **Age:** ~30s
+### Abdelkrim Belkacem — The Failed Operator (Chapters 6.5 & 11)
+- **Name:** Abdelkrim Belkacem
+- **Age:** 19 years old
 - **Physical Status:** Paralyzed from waist down (confinement to wheelchair)
 - **Origin:** Mantes-la-Jolie (French suburb, high unemployment, marginalized community)
-- **Recruitment:** Hassan Mehran personally recruited him (sympathetic to cell ideology)
+- **Recruitment:** Hassan Mehran personally recruited him at ~18 years old (sympathetic to cell ideology, youth vulnerability)
 - **Backstory:** Paralyzed in 2021 police chase gone wrong (police brutality, no accountability)
-- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization
+- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization and personal trauma
 - **Role in Bombing:** Operates the third wheelchair bomb in Métro 14
-- **The Failure:** His device DOES NOT DETONATE (mechanical failure or psychological hesitation unclear)
+- **The Failure:** His device DOES NOT DETONATE at age 19 (mechanical failure or psychological hesitation unclear)
 - **Aftermath:** Remains at scene in disabled wheelchair, arrested immediately
 - **Forensic Breakthrough:** Failed device + Abdelkrim's testimony + wheelchair forensics crack entire cell structure
-- **Narrative Function:** Humanizes the cell; shows ideological recruitment of vulnerable victims; provides the plot mechanism for Thomas's investigation success
+- **Narrative Function:** Youth + disability + marginalization = recruitment pipeline; shows how vulnerable young people are weaponized; his age and hesitation humanize the cell; provides the plot mechanism for Thomas's investigation success
 
 ### Revised Timeline & Scale
 - **Bombing Complexity:** Not a simple 3-bomb operation — sophisticated distraction (ambulance) + coordinated timing
@@ -295,18 +295,18 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - Not a believer, not a warrior
 - Her humanity is her vulnerability
 
-**Abdelkrim Diallo** ✨ NEW (Feb 15)
-- Age ~30s, French-Algerian
+**Abdelkrim Belkacem** ✨ NEW (Feb 15)
+- Age: 19 years old, French-Algerian
 - Origin: Mantes-la-Jolie (marginalized suburb, high unemployment)
 - **Physical Status:** Paralyzed from waist down (confined to wheelchair)
 - **Trauma:** Paralyzed in 2021 police chase (police brutality, no accountability)
-- **Recruitment:** Hassan Mehran personally recruits him (ideological sympathizer, revenge motivation)
-- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization
+- **Recruitment:** Hassan Mehran personally recruits him at age ~18 (ideological sympathizer, revenge motivation, youth vulnerability)
+- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization and personal trauma
 - **Role:** Operates the third wheelchair bomb in Métro Line 14
-- **The Failure:** His device does NOT detonate (mechanical failure or psychological hesitation)
+- **The Failure:** His device does NOT detonate (mechanical failure or psychological hesitation at age 19)
 - **Arrest:** Remains at scene, immediately detained with failed device
 - **Story Impact:** His failure + testimony + wheelchair forensics = key to cracking entire cell network
-- **Narrative Function:** Humanizes the cell; shows how vulnerable communities are recruited; provides the forensic breakthrough that enables Thomas's investigation
+- **Narrative Function:** Youth + disability + marginalization = recruitment pipeline; shows how vulnerable, angry young people are weaponized; his age and hesitation humanize the cell; provides the forensic breakthrough that enables Thomas's investigation
 
 **The Financier** (Third arc victim)
 - Old fat man (name TBD)
@@ -417,4 +417,4 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ---
 
-**Last Updated:** 2026-02-15 22:16 GMT+1 (Added new plot elements: ambulance explosion, 3 wheelchairs, Abdelkrim Diallo character)
+**Last Updated:** 2026-02-15 22:40 GMT+1 (Added new plot elements: ambulance explosion, 3 wheelchairs, Abdelkrim Belkacem age 19, assessment scene)
