@@ -44,11 +44,10 @@ The novel explores whether justice and revenge are the same thing. Whether savin
   - Forces Thomas to choose: assist wounded responders OR prioritize Métro 14 survivors
 - **Impact:** 
   - Multiple rescue workers killed/wounded (secondary mass casualty event)
-  - Emergency response capability crippled
+  - Emergency response capability severely degraded at critical moment
   - Psychological terror — the cell targets those trying to save lives
-  - Makes rescue of 43 Métro 14 civilians an even greater achievement
-- **Thomas's Role:** Coordinates rescue from command center; must manage dual crisis (responders + civilians)
-- **Narrative Function:** Escalates the cell's ruthlessness; shows they target not just civilians but also those who rescue them; forces moral complexity on Thomas's decision-making
+  - Demonstrates cell's strategic thinking: disable rescue capacity BEFORE main operation
+- **Narrative Function:** Establishes the cell as highly organized, calculating, and ruthless; Thomas's assessment informs his entire investigation; he knows he's hunting professionals who think 3 moves ahead
 
 ### Three Wheelchair Bombs in Métro Line 14 (Chapters 6, 6.5, & 11)
 - **Total Count:** 3 explosive-rigged wheelchairs (not 2 as initially outlined)
@@ -147,10 +146,14 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - 6:20 AM: Ambulance explosion at Cour de Rome dome (2 tonnes nitro)
 - **PURPOSE:** Kill rescue workers responding to initial call — secondary mass casualty event
 - Emergency responders converge on ambulance, caught in second detonation
-- Multiple rescue personnel killed/wounded; emergency capacity crippled
+- Multiple rescue personnel killed/wounded; emergency response capacity crippled
 - Thomas receives coordinates, arrives ~6:45 AM (20 minutes after initial call)
-- Thomas must manage dual crisis: assist wounded responders OR prioritize Métro 14 survivors
-- Evidence confirms third bomb (most dangerous) still active below ground
+- **Thomas's Role:** Not to rescue — to ASSESS
+  - Observes the carnage (responders, equipment, coordination failure)
+  - Calculates cell's sophistication: they targeted the rescuers, not just civilians
+  - Understands the cell's intent: maximum chaos, maximum fear, maximum disruption
+  - Evidence confirms third bomb (most dangerous) still active below ground
+- **Narrative Impact:** Thomas now knows he's hunting professionals, not amateurs
 
 **Chapters 3-4: Normandy and Rhodesia**
 - Childhood scenes with parents, siblings
