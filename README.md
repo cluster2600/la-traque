@@ -37,10 +37,18 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - **Location:** Cour de Rome dome above Saint-Lazare Métro station
 - **Timing:** ~6:20 AM (few minutes BEFORE Thomas arrives at ~6:45 AM following 6:25 AM call)
 - **Payload:** 2 tonnes of homemade nitroglycerine (realistic vehicle weight capacity)
-- **Purpose:** Distraction while cell members position the three Métro Line 14 devices
-- **Impact:** Police and emergency response scattered between Saint-Lazare (above) and Métro 14 (below)
-- **Thomas's Role:** Coordinates rescue from surface while rescue teams work tunnels below
-- **Narrative Function:** Opens the novel with immediate action; establishes the cell's sophistication and scale
+- **Purpose:** KILL RESCUE WORKERS — creates secondary casualties during emergency response operations
+  - Emergency personnel converge on ambulance scene
+  - Second detonation catches responders in the blast radius
+  - Decimates rescue teams, reduces capacity for Métro 14 evacuation
+  - Forces Thomas to choose: assist wounded responders OR prioritize Métro 14 survivors
+- **Impact:** 
+  - Multiple rescue workers killed/wounded (secondary mass casualty event)
+  - Emergency response capability crippled
+  - Psychological terror — the cell targets those trying to save lives
+  - Makes rescue of 43 Métro 14 civilians an even greater achievement
+- **Thomas's Role:** Coordinates rescue from command center; must manage dual crisis (responders + civilians)
+- **Narrative Function:** Escalates the cell's ruthlessness; shows they target not just civilians but also those who rescue them; forces moral complexity on Thomas's decision-making
 
 ### Three Wheelchair Bombs in Métro Line 14 (Chapters 6, 6.5, & 11)
 - **Total Count:** 3 explosive-rigged wheelchairs (not 2 as initially outlined)
@@ -136,11 +144,13 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - Thomas mobilizes for action
 
 **Chapter 2: Saint-Lazare** ✨ NEW (Feb 15)
-- 6:20 AM: Ambulance explosion at Cour de Rome dome (2 tonnes nitro, strategic distraction)
+- 6:20 AM: Ambulance explosion at Cour de Rome dome (2 tonnes nitro)
+- **PURPOSE:** Kill rescue workers responding to initial call — secondary mass casualty event
+- Emergency responders converge on ambulance, caught in second detonation
+- Multiple rescue personnel killed/wounded; emergency capacity crippled
 - Thomas receives coordinates, arrives ~6:45 AM (20 minutes after initial call)
-- Emergency response scattered (Saint-Lazare above, Métro 14 below)
-- Thomas coordinates surface operations while rescue teams penetrate tunnels
-- Evidence of third bomb (most dangerous) below ground
+- Thomas must manage dual crisis: assist wounded responders OR prioritize Métro 14 survivors
+- Evidence confirms third bomb (most dangerous) still active below ground
 
 **Chapters 3-4: Normandy and Rhodesia**
 - Childhood scenes with parents, siblings
