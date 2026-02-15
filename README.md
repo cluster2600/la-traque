@@ -29,6 +29,51 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ---
 
+## 🔴 NEW PLOT ELEMENTS (Locked Feb 15, 2026)
+
+**CRITICAL STORY ADDITIONS — INTEGRATED INTO CHAPTERS 2, 6, & 11:**
+
+### Ambulance Explosion at Saint-Lazare (Chapter 2)
+- **Location:** Cour de Rome dome above Saint-Lazare Métro station
+- **Timing:** ~6:20 AM (few minutes BEFORE Thomas arrives at ~6:45 AM following 6:25 AM call)
+- **Payload:** 2 tonnes of homemade nitroglycerine (realistic vehicle weight capacity)
+- **Purpose:** Distraction while cell members position the three Métro Line 14 devices
+- **Impact:** Police and emergency response scattered between Saint-Lazare (above) and Métro 14 (below)
+- **Thomas's Role:** Coordinates rescue from surface while rescue teams work tunnels below
+- **Narrative Function:** Opens the novel with immediate action; establishes the cell's sophistication and scale
+
+### Three Wheelchair Bombs in Métro Line 14 (Chapters 6, 6.5, & 11)
+- **Total Count:** 3 explosive-rigged wheelchairs (not 2 as initially outlined)
+- **Deployment Timeline:**
+  - 2 wheelchairs positioned early (occupy car space, blend with morning commute)
+  - 1 wheelchair positioned just before detonation window
+- **Detonation Status:**
+  - ✅ **Wheelchair #1 & #2:** Both EXPLODE successfully (highest casualties, multiple cars affected)
+  - ❌ **Wheelchair #3:** FAILS TO DETONATE (operated by Abdelkrim, becomes forensic breakthrough)
+- **Story Impact:** Failed device becomes key to cracking the entire cell network
+
+### Abdelkrim Diallo — The Failed Operator (Chapters 6.5 & 11)
+- **Name:** Abdelkrim Diallo
+- **Age:** ~30s
+- **Physical Status:** Paralyzed from waist down (confinement to wheelchair)
+- **Origin:** Mantes-la-Jolie (French suburb, high unemployment, marginalized community)
+- **Recruitment:** Hassan Mehran personally recruited him (sympathetic to cell ideology)
+- **Backstory:** Paralyzed in 2021 police chase gone wrong (police brutality, no accountability)
+- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization
+- **Role in Bombing:** Operates the third wheelchair bomb in Métro 14
+- **The Failure:** His device DOES NOT DETONATE (mechanical failure or psychological hesitation unclear)
+- **Aftermath:** Remains at scene in disabled wheelchair, arrested immediately
+- **Forensic Breakthrough:** Failed device + Abdelkrim's testimony + wheelchair forensics crack entire cell structure
+- **Narrative Function:** Humanizes the cell; shows ideological recruitment of vulnerable victims; provides the plot mechanism for Thomas's investigation success
+
+### Revised Timeline & Scale
+- **Bombing Complexity:** Not a simple 3-bomb operation — sophisticated distraction (ambulance) + coordinated timing
+- **Casualty Pattern:** Heavy losses in two cars (from successful wheelchairs); Thomas saves 43 from dark middle car
+- **Investigation Pivot:** Failed device + Abdelkrim's identity → Hassan Mehran's recruitment network → Full cell exposure
+- **Thomas's Victory:** Not through superior tactics, but because human weakness (Abdelkrim's doubts) cracked the machine
+
+---
+
 ## Character Profile: Thomas Dieudegard
 
 **Personal Details**
@@ -90,7 +135,14 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - Flashback: August 1995, Saint-Michel, Jérôme's death
 - Thomas mobilizes for action
 
-**Chapters 2-4: Normandy and Rhodesia**
+**Chapter 2: Saint-Lazare** ✨ NEW (Feb 15)
+- 6:20 AM: Ambulance explosion at Cour de Rome dome (2 tonnes nitro, strategic distraction)
+- Thomas receives coordinates, arrives ~6:45 AM (20 minutes after initial call)
+- Emergency response scattered (Saint-Lazare above, Métro 14 below)
+- Thomas coordinates surface operations while rescue teams penetrate tunnels
+- Evidence of third bomb (most dangerous) below ground
+
+**Chapters 3-4: Normandy and Rhodesia**
 - Childhood scenes with parents, siblings
 - Father's rare stories about Rhodesia's collapse
 - Mother's trauma (lost wine fortune, family legacy)
@@ -114,11 +166,14 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ### ACT II: THE CRISIS (Chapters 11-20) — ~100 pages
 
-**Chapter 11: Métro Line 14**
-- The bombing happens: 3 devices, 2 detonate
-- Middle car goes dark with 43+ civilians inside
-- First responders mobilizing
+**Chapter 11: Métro Line 14** ✨ REVISED (Feb 15)
+- The bombing happens: 3 wheelchair-mounted devices
+- **Device #1 & #2:** EXPLODE successfully (multiple cars, high casualty impact)
+- **Device #3:** FAILS TO DETONATE (Abdelkrim's wheelchair, becomes forensic breakthrough)
+- Middle car goes dark with 43+ civilians inside (rescued by Thomas)
+- First responders mobilizing from dual locations (Saint-Lazare + Métro)
 - Thomas coordinating from command center
+- **NEW:** Abdelkrim arrested at scene with failed device → becomes key witness
 
 **Chapters 12-17: The Rescue**
 - Emergency teams penetrating the tunnel
@@ -226,6 +281,19 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 - Money and logistics, cynical pragmatism
 - Not a believer, not a warrior
 - Her humanity is her vulnerability
+
+**Abdelkrim Diallo** ✨ NEW (Feb 15)
+- Age ~30s, French-Algerian
+- Origin: Mantes-la-Jolie (marginalized suburb, high unemployment)
+- **Physical Status:** Paralyzed from waist down (confined to wheelchair)
+- **Trauma:** Paralyzed in 2021 police chase (police brutality, no accountability)
+- **Recruitment:** Hassan Mehran personally recruits him (ideological sympathizer, revenge motivation)
+- **Motivation:** Hatred of French police system; sees terrorism as retribution for marginalization
+- **Role:** Operates the third wheelchair bomb in Métro Line 14
+- **The Failure:** His device does NOT detonate (mechanical failure or psychological hesitation)
+- **Arrest:** Remains at scene, immediately detained with failed device
+- **Story Impact:** His failure + testimony + wheelchair forensics = key to cracking entire cell network
+- **Narrative Function:** Humanizes the cell; shows how vulnerable communities are recruited; provides the forensic breakthrough that enables Thomas's investigation
 
 **The Financier** (Third arc victim)
 - Old fat man (name TBD)
@@ -336,4 +404,4 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ---
 
-**Last Updated:** 2026-02-07 15:29 GMT+1
+**Last Updated:** 2026-02-15 22:16 GMT+1 (Added new plot elements: ambulance explosion, 3 wheelchairs, Abdelkrim Diallo character)
