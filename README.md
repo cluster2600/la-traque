@@ -21,7 +21,7 @@ Thomas Dieudegard, 40, is a former French Navy captain (Capitaine de Corvette) a
 
 On a February morning in 2018, three bombs are placed in Métro Line 14 between Châtelet and Saint-Lazare stations. Two detonate. The line goes dark with 43+ civilians trapped inside the open car. Thomas does not save them.
 
-But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's holiday friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at the summer meeting with their friend group. Jérôme was late and missed it. He decided to take the RER B train to join them later. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by simply being at the right place at the right time. Jérôme died for being late.
+But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's holiday friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at a café with their summer friend group. Jérôme was late and missed it. He called and said he'd take the RER B train to meet them. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by being at the café. Jérôme died for being late.
 
 Now, Thomas is not rescuing anyone — he's hunting the terrorist cell responsible. His investigation leads him to Yasmin Aliyev, a Chechen-Russian cell leader, and three other conspirators. What starts as a professional duty becomes a personal obsession — a hunt for justice, perhaps, or perhaps just revenge.
 
