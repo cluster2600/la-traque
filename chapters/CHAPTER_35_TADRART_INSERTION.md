@@ -1,13 +1,21 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 35: TADRART INSERTION
 
-The intelligence comes from the safe.
+The intelligence comes from the wheelchair.
+
+The failed bomb under Abdelkrim's chair. The device that should have detonated at 6:00 AM in Métro 14 but instead led to the identification of the fourth cell member. The forensic discovery that cracked everything open.
+
+From Abdelkrim, they traced to Malik. From Malik's encrypted notebooks and computer records, they traced to the financing network. From the bitcoin transactions and cryptocurrency wallets, they traced to Zug. To the safe. To the documents.
+
+And in that safe, they found everything else.
 
 Malik's safe in Zug. The documents they found. Papers. Folios. Details about everything.
 
 Names. Locations. Hassan's house in Tadrart. The refuge. The route. The contact. Everything the cell needed. Everything Malik financed. Everything written down by a man who needed insurance.
 
 Thomas had the coordinates from the deed. The Touareg contacts had been activated days ago. Surveillance reports came in hourly. The target was still there. Still waiting. Still believing she was safe.
+
+But the wheelchair had already revealed the network. The failed device was the first domino. Every other domino fell from there.
 
 The house belonged to Malik.
 
