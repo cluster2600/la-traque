@@ -111,16 +111,13 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - **Morning Routine:** Wakes at 5:47 AM (before alarm). La Marzocco espresso machine (auto-heat). Espresso only, no sugar/milk.
 - **Lifestyle:** Disciplined. Precise. Routine-driven. Everything minimal and necessary.
 
-**The Formative Trauma**
-- **Holiday Friend:** Jérôme (no last name given in outline)
+**The Formative Trauma (Background Context Only)**
+- **Holiday Friend:** Jérôme (no last name given)
 - **Date of Death:** July 25, 1995 (Saint-Michel RER B bombing)
 - **Thomas's Age:** 16 years old
-- **The Meeting:** Summer group of friends met at a café (colony de vacances reunion). Thomas was there. Jérôme was LATE.
-- **Jérôme's Choice:** Jérôme called Thomas's parents' apartment. He apologized for being late. Asked to reschedule at a different location (Saint-Michel Métro, closer to home). Thomas said okay.
-- **The Bomb:** Jérôme took the RER B train to Saint-Michel. He was on a strapontin (fold-down seat) directly above the bomb. The bomb detonated. He was one of 8 dead.
-- **The Randomness:** Thomas survived by being at the café. He didn't catch the train. Jérôme died because he was late to the first meeting and tried to catch up by taking that specific train at that specific time. Pure chance. Placement on the strapontin was pure chance.
-- **Body Identification:** Took 2 days (dental records required, bomb damage was extensive).
-- **Psychological Impact:** Drives entire adult life. Obsession with prevention, order, control. Discipline as a weapon against randomness. Awareness that TIMING decides everything — being 5 minutes early or late decides life or death. Thomas became obsessed with control, with seeing threats before they happen, with preventing randomness from taking anyone else. But he cannot save Jérôme. And he cannot save the 43 civilians in Métro 14.
+- **The Meeting:** Summer group of friends met at a café. Thomas was there. Jérôme was late and died trying to catch up.
+- **Psychological Foundation:** This event shaped Thomas's obsession with order, control, and prevention. But **Jérôme does not appear in the novel itself** — he is background only, the ghost that explains why Thomas hunts.
+- **Note:** No flashbacks in the detective story. Thomas's trauma is embedded in how he investigates, not narrated.
 
 **Personality**
 - Quiet, observant, controlled
@@ -230,7 +227,6 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - Yasmin dies (self-inflicted)
 - She takes the choice away from Thomas
 - He stands in darkness
-- 43 people are alive. Jérôme is still dead.
 - Thomas walks back to Rue des Rosiers and makes espresso
 - The walls still remember everything
 - They always will
@@ -323,7 +319,7 @@ The novel explores whether justice and revenge are the same thing. Whether hunti
 - **Revenge vs. Justice:** Are they the same? Can you have one without becoming the other?
 - **Order Built on Violence:** Thomas brings order through force. Yasmin seeks justice through destruction. Who is right?
 - **The Cost of Obsession:** What does it cost to spend 23 years hunting a ghost?
-- **Cycles That Never End:** Save 43 people. Jérôme is still dead. Another cell rises. The cycle continues.
+- **Cycles That Never End:** Justice doesn't bring closure. Another cell will rise. The hunt continues.
 - **The Thirty Minutes:** How much of our lives is chance? How much can we control?
 
 ---
