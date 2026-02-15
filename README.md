@@ -19,13 +19,13 @@
 
 Thomas Dieudegard, 40, is a former French Navy captain (Capitaine de Corvette) and combat swimmer who now works for French intelligence (DGSE). He lives alone in a minimal apartment on Rue des Rosiers in the Marais district of Paris.
 
-On a February morning in 2018, three bombs are placed in Métro Line 14 between Châtelet and Saint-Lazare stations. Two detonate. The middle car goes dark with 43+ civilians trapped inside. Thomas coordinates the rescue operation.
+On a February morning in 2018, three bombs are placed in Métro Line 14 between Châtelet and Saint-Lazare stations. Two detonate. The line goes dark with 43+ civilians trapped inside the open car. Thomas does not save them.
 
 But the bombing triggers a buried trauma: 23 years earlier, in July 1995 (25 July), Thomas's best friend Jérôme died in the Saint-Michel RER B bombing when Thomas was 16. Thomas was at the summer meeting with their friend group. Jérôme was late and missed it. He decided to take the RER B train to join them later. He took the train with the bomb. He was sitting on a strapontin (fold-down seat) directly above the bomb. It took two days to identify his body (dental records). Thomas survived by simply being at the right place at the right time. Jérôme died for being late.
 
-Now, as Thomas rescues strangers from darkness, he's also hunting the terrorist cell responsible. His investigation leads him to Yasmin Aliyev, a Chechen-Russian cell leader, and three other conspirators. What starts as a professional duty becomes a personal obsession — a second chance to save lives, to prevent the next thirty-minute delay from killing another Jérôme.
+Now, Thomas is not rescuing anyone — he's hunting the terrorist cell responsible. His investigation leads him to Yasmin Aliyev, a Chechen-Russian cell leader, and three other conspirators. What starts as a professional duty becomes a personal obsession — a hunt for justice, perhaps, or perhaps just revenge.
 
-The novel explores whether justice and revenge are the same thing. Whether saving some people balances the cost of what you become to save them.
+The novel explores whether justice and revenge are the same thing. Whether hunting the ones who took 43 lives balances the cost of what you become in the process.
 
 ---
 
@@ -75,7 +75,7 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ### Revised Timeline & Scale
 - **Bombing Complexity:** Not a simple 3-bomb operation — sophisticated distraction (ambulance) + coordinated timing
-- **Casualty Pattern:** Heavy losses in two cars (from successful wheelchairs); Thomas saves 43 from dark middle car
+- **Casualty Pattern:** Heavy losses across the open car (from successful wheelchairs); 43 civilians die in the darkness of Métro 14
 - **Investigation Pivot:** Failed device + Abdelkrim's identity → Hassan Mehran's recruitment network → Full cell exposure
 - **Thomas's Victory:** Not through superior tactics, but because human weakness (Abdelkrim's doubts) cracked the machine
 
@@ -180,28 +180,29 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 ### ACT II: THE CRISIS (Chapters 11-20) — ~100 pages
 
 **Chapter 11: Métro Line 14** ✨ REVISED (Feb 15)
-- The bombing happens: 3 wheelchair-mounted devices
-- **Device #1 & #2:** EXPLODE successfully (multiple cars, high casualty impact)
+- The bombing happens: 3 wheelchair-mounted devices detonating in the open interior space
+- **Device #1 & #2:** EXPLODE successfully (distributed through the single long car, high casualty impact)
 - **Device #3:** FAILS TO DETONATE (Abdelkrim's wheelchair, becomes forensic breakthrough)
-- Middle car goes dark with 43+ civilians inside (rescued by Thomas)
+- The open car goes dark with 43+ civilians trapped inside (THOMAS SAVES NO ONE — they die in darkness)
 - First responders mobilizing from dual locations (Saint-Lazare + Métro)
-- Thomas coordinating from command center
+- Thomas assessing from command center (not coordinating rescue)
 - **NEW:** Abdelkrim arrested at scene with failed device → becomes key witness
 
-**Chapters 12-17: The Rescue**
-- Emergency teams penetrating the tunnel
-- Communication with trapped civilians
-- Structural dangers, collapsing track
-- Thomas making command decisions under pressure
-- Claustrophobic scenes from inside the dark car
-- The final civilians being pulled free
-- One person critically injured but alive
+**Chapters 12-17: The Darkness**
+- Emergency teams attempting to penetrate the tunnel
+- Communication with trapped civilians fails
+- Structural dangers, collapsing track, impassable obstacles
+- Thomas making command decisions from above (cannot reach them)
+- Claustrophobic scenes from inside the dark open car (civilians dying, no escape)
+- Rescue teams unable to reach them in time
+- All 43 civilians dead in the darkness
 
 **Chapter 18: The Aftermath**
-- All 43 civilians rescued (no deaths)
-- Thomas watches survivors emerge
-- Medical triage, emergency response
-- Thomas's satisfaction is brief: now comes the hunt
+- 43 bodies recovered from the open car (all dead)
+- Thomas watches rescue teams pull corpses from darkness
+- Medical triage becomes body identification
+- Thomas does not feel satisfaction — he feels the weight of failure
+- Now comes the hunt — the only thing left is to find who did this
 
 **Chapters 19-20: Investigation Begins**
 - A suspect is in custody
@@ -417,4 +418,4 @@ The novel explores whether justice and revenge are the same thing. Whether savin
 
 ---
 
-**Last Updated:** 2026-02-15 22:40 GMT+1 (Added new plot elements: ambulance explosion, 3 wheelchairs, Abdelkrim Belkacem age 19, assessment scene)
+**Last Updated:** 2026-02-15 22:44 GMT+1 (CRITICAL: Thomas saves NO ONE. 43 civilians die in darkness. Line 14 is one long open car. Rescue fails.)
