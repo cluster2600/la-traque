@@ -109,27 +109,27 @@ They return to the cars. Beaumont is waiting in the van. No signal. No communica
 
 ### 23:15 — Road to Evian
 
-Two DGSE service cars head south from Zug.
+Two DGSE service cars head west from Zug.
 
-Through Valais. Swiss mountains. Remote. Few witnesses at night.
+233 kilometers. 3 hours 16 minutes. A4 → A2 → A9 → Saint-Gingolph border.
 
 Thomas drives the lead car. Tarkovsky in the passenger seat. Leclerc and De Vergennes in back with the duffels. Gold and diamonds and millions in untraceable bonds.
 
 The second car follows. Four operatives. Moreau driving. The second team maintaining professional distance.
 
-The mountain roads are empty at 23:15. Swiss 9. Direction Valais. No speeding. No attention. Just professional operators moving through the night like ghosts.
+The motorways are empty at 23:15. Swiss 3 toward Lucerne, then A2 southwest toward Lausanne, then A9 toward the border. No speeding. No attention. Just professional operators moving through the night like ghosts.
 
-The motorway vignette is already on the service cars. €40. Everything legal. Everything documented.
+The motorway vignette is already on the service cars. CHF 40. Everything legal. Everything documented.
 
-Route: South through Valais toward Lake Geneva. Evian across the border. Small town. Tourist property. Perfect deniability.
+Route: A4 from Zug → A2 toward Bern/Lausanne → A9 toward Lake Geneva → Saint-Gingolph border crossing → French D22 along the lake to Evian.
 
 The drive is silent. No radio. No communication. No unnecessary movement.
 
 Just the hum of the engines and the darkness of Switzerland passing.
 
-### 03:30 — Evian Border
+### 02:45 — Saint-Gingolph Border
 
-The border at Evian is quiet at 3:30 AM.
+The border at Saint-Gingolph is quiet at 2:45 AM.
 
 Lake Geneva crossing. Customs checkpoint. Single officer. Tired. Routine.
 
@@ -145,7 +145,9 @@ They're in France.
 
 They're out of Switzerland.
 
-### 03:45 — Evian Safe House
+Then 30 kilometers more on French D22 along Lake Geneva to Evian.
+
+### 03:15 — Evian Safe House
 
 Apartment overlooking Lake Geneva. One-bedroom. Tourist property. Prepared weeks ago. Keys under the mat. Booking in a false name.
 
@@ -165,9 +167,9 @@ Documents. Photographs. Bank accounts. Names. Coordinates. Shell companies. Ever
 
 De Vergennes secures the gold in a reinforced bag. Military-grade waterproofing. Hidden compartments. The kind of bag that survives interrogation.
 
-By 04:00, everything is secured.
+By 03:45, everything is secured.
 
-By 04:00, the operation is complete.
+By 03:45, the operation is complete.
 
 Thomas steps outside.
 
