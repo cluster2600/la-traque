@@ -171,7 +171,7 @@ Thomas nods.
 
 "Timeline," he says.
 
-"We sail in one hour," Captain Gerard says. "20-hour transit to the launch point. By tomorrow evening, we're positioned off the Algerian coast. Close enough for helicopter insertion into Djanet."
+"We sail in one hour," Captain Gerard says. "Three to five days to the launch point. We navigate through the Strait of Gibraltar, then down the Atlantic coast. By mid-week, we're positioned off the Western Sahara coast. Close enough for helicopter insertion into Djanet."
 
 Thomas looks at the deed one more time.
 
@@ -211,7 +211,7 @@ Thomas looks at the maps.
 
 "Timeline," he says.
 
-"Eighteen hours to position," Gerard says. "Two hours preparation. Then insertion."
+"Three to five days to position," Gerard says. "Through Gibraltar, down the Atlantic coast. Once we're off the Western Sahara coast, two hours preparation. Then insertion."
 
 Thomas nods.
 
@@ -225,7 +225,7 @@ She doesn't know Hassan's insurance policy is about to kill her.
 
 She doesn't know that the Forbin is heading Atlantic.
 
-She doesn't know that in eighteen hours, a Super Puma will descend from the desert sky.
+She doesn't know that in three to five days, a Super Puma will descend from the desert sky.
 
 She just waits in the coordinates documented in a Swiss trust.
 
