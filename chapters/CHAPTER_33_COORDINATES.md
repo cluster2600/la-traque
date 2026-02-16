@@ -51,9 +51,9 @@ Thomas sets down the deed.
 
 ### 08:00 — Leave for Lyon Airbase
 
-Two black rental cars. No markings.
+Two DGSE service vehicles. No markings.
 
-They drive from Annemasse toward Lyon. Route: A42 north → A89 east → Lyon.
+They drive from Evian toward Lyon. Route: A42 north → A89 east → Lyon.
 
 120 kilometers. Two hours.
 
@@ -61,7 +61,7 @@ Thomas drives. Tarkovsky in passenger seat. Leclerc, De Vergennes, Beaumont in b
 
 The second car follows. Moreau driving. Four additional operatives.
 
-Two vehicles. Sixteen operatives total. The full extraction team.
+Two vehicles. Eleven operatives total. The insertion team.
 
 They don't speak. The hunt is ending. The coordinates are exact. Yasmin is trapped in a house 2,000 kilometers south, in the Sahara desert, believing she's safe.
 
@@ -71,6 +71,8 @@ She has no idea Hassan's insurance policy is about to kill her.
 
 They drive through the morning. No speeding. No attention. Professional.
 
+The Forbin is already at sea. Already positioned. Already waiting. Thomas's team will meet it by helicopter. Fast. Covert. Efficient.
+
 ### 10:15 — Lyon Airbase
 
 Military facility. Secure. Restricted.
@@ -78,6 +80,14 @@ Military facility. Secure. Restricted.
 But the credentials are perfect. Bureau des Légendes legends. Real military papers. Real authorization.
 
 The guard waves them through.
+
+Two Super Frelon helicopters waiting. Heavy-lift birds. Made for this. Capable of carrying armed teams across distance. Built for covert insertion.
+
+Thomas and his team board the first. De Vergennes, Leclerc, Beaumont, Tarkovsky.
+
+The second helicopter carries the backup team. Four operatives. Weapons. Insertion gear.
+
+The rotors begin to turn.
 
 They park in the secured hangar.
 
@@ -147,31 +157,37 @@ A DGSE liaison meets them with transport.
 
 Thomas nods.
 
-They load into a black truck. No identification. No markings.
+### 11:00 — Super Frelon Flight
 
-Fifteen minutes to the dock.
+The helicopter lifts off. Heavy machine. Built for distance. Made for insertion.
 
-### 12:00 — Toulon Port
+Twenty minutes to the rendezvous point. Above the Mediterranean. Clear skies. The Forbin is waiting below.
 
-The Forbin sits at the dock.
+The Super Frelon descends.
+
+### 11:20 — Forbin Deck
+
+The Forbin is at sea. Already cruising. Already prepared.
 
 Frégate porte-hélicoptères. Helicopter carrier. 6,000 tons. French Navy insignia.
 
-Official mission: anti-piracy patrol, Atlantic coast.
+Official mission: anti-piracy patrol, Mediterranean.
 
 Real purpose: extraction operation in Sahara.
 
-The crew is waiting.
+The flight deck is clear. Waiting.
 
-Captain Gerard salutes Thomas. Professional. Military. No questions asked.
+The Super Frelon touches down. Rotors slow. Wind dies.
 
-"Welcome aboard, monsieur," the captain says. "Your quarters are ready. Flight deck prepared for the Super Puma. Crew briefed on the operation."
+Captain Gerard meets Thomas at the deck. Professional. Military. No questions asked.
+
+"Welcome aboard, monsieur," the captain says. "Your quarters are ready. The second Super Frelon is landing now. Crew briefed on the operation. We head south immediately."
 
 Thomas nods.
 
 "Timeline," he says.
 
-"We sail in one hour," Captain Gerard says. "Three to five days to the launch point. We navigate through the Strait of Gibraltar, then down the Atlantic coast. By mid-week, we're positioned off the Western Sahara coast. Close enough for helicopter insertion into Djanet."
+"We're already underway," Captain Gerard says. "Three days to the launch point. We've been cruising the Mediterranean for weeks. Tonight, we head south toward the African coast. By Thursday evening, we're positioned off the Western Sahara coast. Close enough for helicopter insertion into Djanet."
 
 Thomas looks at the deed one more time.
 
@@ -231,11 +247,11 @@ She just waits in the coordinates documented in a Swiss trust.
 
 And Thomas has the map.
 
-### 13:00 — Forbin Anchors
+### 11:30 — Heading South
 
-Moorings release.
+The Forbin changes course.
 
-Engines engage.
+Engines engage. Full power. Direction: southwest toward the African coast.
 
 The Forbin pushes away from Toulon dock.
 
