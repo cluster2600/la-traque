@@ -19,7 +19,7 @@ Thomas turns the page.
 
 Property description:
 
-"Residential dwelling. Stone construction. Single story. Located at coordinates 24.8731° North, 8.4422° East. Village of Tadrart, Tassili n'Ajjer region, southeastern Algeria. Purpose: residential refuge. Remote location. Local Touareg contacts established for security and logistics."
+"Residential dwelling. Stone construction. Single story. Located at coordinates 25.3667° North, 9.6167° East. Village of Djanet, Tadrart region, southeastern Algeria. Purpose: residential refuge. Remote location. Local Touareg contacts established for security and logistics."
 
 Purchased seven years ago.
 
@@ -171,15 +171,15 @@ Thomas nods.
 
 "Timeline," he says.
 
-"We sail in one hour," Captain Gerard says. "20-hour transit to the launch point. By tomorrow evening, we're positioned off the Algerian coast. Close enough for helicopter insertion into Tadrart."
+"We sail in one hour," Captain Gerard says. "20-hour transit to the launch point. By tomorrow evening, we're positioned off the Algerian coast. Close enough for helicopter insertion into Djanet."
 
 Thomas looks at the deed one more time.
 
-24.8731° North.
+25.3667° North.
 
-8.4422° East.
+9.6167° East.
 
-One day away.
+Djanet. One day away.
 
 ### 12:15 — Forbin Boarding
 
