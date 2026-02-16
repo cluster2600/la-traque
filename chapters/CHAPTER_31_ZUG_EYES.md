@@ -39,11 +39,13 @@ They wait for the target.
 
 The building is modern. Glass and steel. Underground parking. Lake view. Expensive.
 
-Malik is home.
+Malik is already home.
 
-Alone.
+55 years old. 150 kilos. Fat man.
 
-Preparing for the evening.
+Thomas knows this from Abdelkrim. The financier. Fat. Lives in Switzerland. This is him.
+
+Malik is preparing the house. Setting up for guests. But he will be alone when they arrive — mingling, playing host, unsuspecting.
 
 ### 17:30 — Safe House, Zug
 
@@ -59,7 +61,7 @@ Beaumont nods.
 
 He points at the floor plan.
 
-"Dock entrance. Ground floor. Stairs to the bedroom. Third floor. Safe is in the closet. De Vergennes breaches. We secure the target. We extract."
+"Dock entrance. Ground floor. Stairs to the bedroom. Third floor. Safe is in the closet. We secure the target. We extract."
 
 "Time limit?" Tarkovsky asks.
 
@@ -67,11 +69,11 @@ He points at the floor plan.
 
 "Swiss police?" De Vergennes asks.
 
-"We go in at 23:00. Malik will be alone. Party guests don't arrive until later. Gives us a clean window."
+"We go in at 23:00. By then, guests will have arrived. Malik will be mingling, distracted, playing host. They won't hear anything on the third floor. Safe, quiet window."
 
 De Vergennes checks his tools. Pry bar. Crowbar. Bolt cutters. Manual. No explosives. Nothing that leaves a trace.
 
-"Safe is bolted to the floor," he says. "We force it open. No sabotage. Clean."
+"Safe is bolted to the floor," he says. "We force it open. Manual. Clean."
 
 Moreau monitors police frequencies from the van.
 
