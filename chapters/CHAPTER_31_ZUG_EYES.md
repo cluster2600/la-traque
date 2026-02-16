@@ -143,7 +143,7 @@ They park a kilometer away. Side street. No cameras.
 
 They walk to the lake.
 
-Night air. Water smell. Boats rocking at docks. Lights in windows. Rich people sleeping.
+Night air. Water smell. Lights in windows. Rich people sleeping.
 
 Normal Swiss night.
 
