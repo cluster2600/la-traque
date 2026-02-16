@@ -325,7 +325,27 @@ They move downstairs.
 
 Fast. Silent. Professional.
 
-De Vergennes wipes the dock door as they exit. Inside and outside. No fingerprints. No trace.
+The party guests are still laughing on the second floor. Music. Voices. Oblivious.
+
+But they can't leave.
+
+Not yet.
+
+Not until the team is clear.
+
+Tarkovsky and Leclerc enter the second-floor room with the guests. Glock in hand. Quiet. Professional.
+
+"No one leaves," Leclerc says. "No one calls anyone. You stay here. You stay quiet. One hour. Then police. Not before."
+
+The girls understand. The guests understand.
+
+Money and guns translate the same in every language.
+
+They nod.
+
+They stay.
+
+De Vergennes wipes the dock door as the team exits. Inside and outside. No fingerprints. No trace.
 
 They exit through the dock.
 
@@ -346,6 +366,8 @@ No fingerprints.
 No DNA.
 
 No forensic evidence.
+
+The guests are locked inside. They won't call police until Thomas's team is across the border.
 
 Only Malik knows they were there.
 
