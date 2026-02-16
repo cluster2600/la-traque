@@ -69,9 +69,9 @@ He points at the floor plan.
 
 "We go in at 23:00. Malik will be alone. Party guests don't arrive until later. Gives us a clean window."
 
-De Vergennes checks his breaching kit. Small charges. Thermite compound. Military grade. Just enough to open a safe without collapsing a building.
+De Vergennes checks his tools. Pry bar. Crowbar. Bolt cutters. Manual. No explosives. Nothing that leaves a trace.
 
-"Safe is bolted to the floor," he says. "Thirty seconds to breach. Thirty seconds to cool. Then we extract."
+"Safe is bolted to the floor," he says. "We force it open. No sabotage. Clean."
 
 Moreau monitors police frequencies from the van.
 
@@ -229,8 +229,6 @@ He points to the closet.
 
 The safe is large. Professional. Bolted to the floor. Modern lock. Combination.
 
-De Vergennes sets up the thermite charges. Precise. Military. Thirty seconds to breach. Thirty seconds to cool.
-
 "Open it," Leclerc says to Malik. Gun at his back. 9mm Glock. Suppressor. Business-like.
 
 Malik's hands shake.
@@ -242,6 +240,12 @@ Fails.
 Tries again.
 
 Opens.
+
+De Vergennes is already there with the pry bar. He doesn't need it now. But he's ready if Malik won't open it.
+
+Malik opens it.
+
+He understands the gun.
 
 Inside: gold bars. Two dozen of them. Ten kilograms each. Yellow metal stacked like bricks.
 
@@ -279,9 +283,9 @@ And paper burns.
 
 They don't have time for the entire safe.
 
-De Vergennes grabs the documents. Photographs them with a secure camera. Fast. Professional.
+De Vergennes grabs the documents. Photographs them with a secure camera. Fast. Professional. No fingerprints. He uses gloves.
 
-Tarkovsky and Leclerc load the gold bars into military duffel bags. Heavy. Practical.
+Tarkovsky and Leclerc load the gold bars into military duffel bags. Heavy. Practical. Gloves. No trace.
 
 The diamonds. Secured in a single leather case.
 
@@ -293,19 +297,33 @@ Cash. Counted quickly. Two hundred thousand. Loaded.
 
 Three minutes. Everything essential secured.
 
+Thomas looks around the bedroom. Nothing left. No fingerprints. No hair. No DNA. No trace that anyone was here except Malik's own disrupted safe.
+
+He wipes surfaces. Window. Door handle. Anything touched.
+
+De Vergennes does the same.
+
+Tarkovsky does the same.
+
+Leclerc does the same.
+
+Professional.
+
 Thomas looks at Malik.
 
 "Don't move for one hour," he says. "Call police after one hour. Not before."
 
 Malik nods.
 
-He understands the alternative.
+He understands the gun.
 
 ### 23:08 — Dock Exit
 
 They move downstairs.
 
 Fast. Silent. Professional.
+
+De Vergennes wipes the dock door as they exit. Inside and outside. No fingerprints. No trace.
 
 They exit through the dock.
 
@@ -316,6 +334,22 @@ Back to the shadows.
 Back to the cars.
 
 Beaumont sees them exit. He reports nothing. Silence is security.
+
+No one saw them.
+
+No cameras captured them.
+
+No fingerprints.
+
+No DNA.
+
+No forensic evidence.
+
+Only Malik knows they were there.
+
+And Malik will be found through his own bank records. His own financial network. His own witnesses who knew about the safe.
+
+Not through anything they left behind.
 
 ### 23:15 — En Route to Annemasse
 
@@ -425,17 +459,35 @@ That Switzerland is just geography.
 
 That safety is an illusion.
 
-By morning, Malik will be questioned by Swiss authorities.
+By morning, Malik will call police.
 
 By morning, the investigation will begin.
 
-But by then, they'll be gone.
+But it won't start with forensics.
 
-And the documents will have led them to Hassan.
+It will start with Malik's bank records.
 
-And Hassan will lead them to Yasmin.
+With witness testimony about the safe.
 
-And Yasmin will lead them to the end.
+With financial trails leading to Hassan.
+
+With accounts in Cayman Islands.
+
+With names in Panama companies.
+
+The money always leaves a trail.
+
+The money always reveals itself.
+
+And when investigators follow the money, they'll find Hassan.
+
+And when they find Hassan, they'll find Yasmin.
+
+But by then, Thomas will already be there.
+
+Already hunting.
+
+Already closing the circle.
 
 Thomas looks at his watch. 03:45.
 
