@@ -103,7 +103,7 @@ No ATC chatter. Military priority. Direct routing.
 
 ### 10:45 — Airborne, Falcon 900
 
-Two-hour flight to Toulon.
+One-hour flight to Toulon. 305 kilometers. Falcon cruises at 850 km/h.
 
 Thomas sits by the window. Deed in his hands. Coordinates written on his palm in pencil.
 
@@ -129,7 +129,7 @@ The operation is ready.
 
 No speech needed. They've trained for this. They know what comes next.
 
-### 12:45 — Toulon Naval Base
+### 11:45 — Toulon Naval Base
 
 The Falcon descends into French naval airspace.
 
@@ -151,7 +151,7 @@ They load into a black truck. No identification. No markings.
 
 Fifteen minutes to the dock.
 
-### 13:00 — Toulon Port
+### 12:00 — Toulon Port
 
 The Forbin sits at the dock.
 
@@ -181,7 +181,7 @@ Thomas looks at the deed one more time.
 
 One day away.
 
-### 13:15 — Forbin Boarding
+### 12:15 — Forbin Boarding
 
 Thomas leads his team up the gangway.
 
@@ -231,7 +231,7 @@ She just waits in the coordinates documented in a Swiss trust.
 
 And Thomas has the map.
 
-### 14:00 — Forbin Anchors
+### 13:00 — Forbin Anchors
 
 Moorings release.
 
