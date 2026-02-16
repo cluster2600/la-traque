@@ -23,7 +23,7 @@ Thomas studies the dock entrance on the floor plan. South side. Water access. No
 
 The walk to the lake takes eight minutes.
 
-They move through Zug's quiet streets. Two Mercedes rental cars parked a kilometer away. Now on foot. Four operatives. Minimal gear. Weapons secured. Professional silence.
+They move through Zug's quiet streets. Two DGSE service cars parked a kilometer away. Now on foot. Four operatives. Minimal gear. Weapons secured. Professional silence.
 
 The night is cold. February air coming off the water smells like diesel fuel and expensive concrete. Lights from lakeside homes reflect on the water. Nobody awake. Nobody watching.
 
@@ -145,7 +145,7 @@ They return to the cars. Beaumont is waiting in the van. No signal. No communica
 
 ### 23:15 — Road to Annemasse
 
-Two black rental cars head north from Zug.
+Two DGSE service cars head north from Zug.
 
 272 kilometers. 3.5 hours drive time.
 
@@ -155,7 +155,7 @@ The second car follows. Four operatives. Moreau driving. The second team maintai
 
 The highway is empty at 23:15. Swiss 3. Direction France. No speeding. No attention. Just professional operators moving through the night like ghosts.
 
-The motorway vignette is already purchased. €40. Everything legal. Everything documented.
+The motorway vignette is already on the service cars. €40. Everything legal. Everything documented.
 
 Route: A4/E62 toward Bern. Then A1 toward Lausanne. Then Geneva border crossing at Bardonnex. Then French A41 to Annemasse.
 
@@ -169,7 +169,7 @@ The border at Annemasse is quiet at 2:45 AM.
 
 Customs checkpoint. Single officer. Tired. Routine.
 
-The lead car passes through first. French rental plates. French business documents. Real identities created by the Bureau des Légendes. Real paperwork. Real bank accounts. Real business registration in Lyon.
+The lead car passes through first. DGSE service plates. French business documents. Real identities created by the Bureau des Légendes. Real paperwork. Real bank accounts. Real business registration in Lyon.
 
 Everything checks.
 
