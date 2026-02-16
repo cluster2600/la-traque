@@ -1,23 +1,17 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 33: COORDINATES
 
-The Airbnb in Evian overlooks Lake Geneva.
+### 06:00 — Annemasse Safe House
 
-Tourist property. Lake view. Vacation rental anonymity. Keys left under the mat. Booking confirmation in a false name. Perfect operational security.
+Thomas reads the deed.
 
-Thomas sits at the kitchen table. Files spread before him. The contents of Malik's safe. Gold bars wrapped in their original packaging. Diamonds in velvet pouches. Bearer bonds in sleeves. Cash in organized stacks.
+Swiss document. Official. Registered. Legal.
 
-And the deed.
-
-The property deed sits in the center of the table. Swiss document. Official. Registered. Legal.
-
-Thomas reads it slowly.
-
-The house belongs to a Swiss trust. A Cayman Islands trust registered in Geneva. Anonymous ownership on the surface. But the deed itself names the beneficiary.
+The property belongs to a Cayman Islands trust. Anonymous on the surface. But the deed names the beneficiary.
 
 Malik Benhadj.
 
-And secondary authority: Hassan Medjahed.
+Secondary authority: Hassan Medjahed.
 
 Both documented. Both named. Both guilty by paper.
 
@@ -27,165 +21,252 @@ Property description:
 
 "Residential dwelling. Stone construction. Single story. Located at coordinates 24.8731° North, 8.4422° East. Village of Tadrart, Tassili n'Ajjer region, southeastern Algeria. Purpose: residential refuge. Remote location. Local Touareg contacts established for security and logistics."
 
-Purchase date: Seven years ago.
+Purchased seven years ago.
 
 Before the operation. Before the attack. Before the hunt.
 
-Malik bought this property years in advance. He prepared it. He documented it. He kept the deed in his safe in Zug.
+Malik prepared this. Documented it. Kept the deed in his safe in Zug.
 
 And now Thomas has it.
-
-De Vergennes enters with a tactical map. No laptop. No satellite imagery.
-
-"We have the coordinates," De Vergennes says. "That's all we get from the safe. Everything else is dead reckoning and Touareg intelligence."
-
-Thomas studies the map. Tadrart marked with a pencil X.
-
-"How do we move on this?" Thomas asks.
-
-Leclerc enters with a folder. Maritime logistics. Shipping schedules.
-
-"The Forbin leaves Toulon tomorrow," Leclerc says. "Fregate porte-hélicoptères. Official mission: anti-piracy patrol off the coast of Mali. Which means it's close to the Algerian border. Close enough."
-
-Thomas nods. He knows how this works. Official cover. Deniable operations. The Navy has helicopters. The Navy has reach.
-
-"Timeline," Thomas says.
-
-"Three days to the Forbin staging area," Leclerc says. "Two days to position off the coast. One day for final reconnaissance. Then we go."
-
-Beaumont leans over the map.
-
-"Six days," Beaumont says. "She doesn't move for six days, she's ours."
-
-"She moves," Thomas says, "we lose her."
-
-"The Touareg will report any departure," De Vergennes says. "Hassan established those contacts years ago. Anyone leaving Tadrart, we hear about it within hours."
-
-Thomas sets the deed on the table.
-
-"She's been there the whole time," Thomas says. "Hiding in a house that Malik bought seven years ago. A house documented in his safe. A house he thought was secure."
-
-"It was secure," Beaumont says. "Until you opened the safe."
-
-Thomas nods.
-
-"The safe was the vulnerability," Thomas continues. "Malik kept records for insurance. Records of every property, every contact, every location. He thought documentation meant protection. He was wrong."
-
-Tarkovsky studies the map.
-
-"Distance from coast to Tadrart," Tarkovsky says. "Two hundred kilometers inland. Deep desert. No roads. Only air insertion works."
-
-"The Forbin carries Super Puma helicopters," Leclerc says. "One is enough. We stage at sea. Wait for the Touareg confirmation that she's still there. Then we fly."
-
-"Six days," Thomas repeats.
-
-"Six days," Leclerc confirms.
-
-Thomas picks up the deed. Reads the coordinates again.
-
-24.8731° North.
-
-8.4422° East.
-
-Six days away by helicopter.
-
-From Evian to Tadrart. From a Swiss deed to a Saharan house. From Malik's safe to Yasmine's refuge.
-
-The trail is complete.
 
 The coordinates are exact.
 
 The location is confirmed.
 
+Yasmin is there.
+
+De Vergennes enters with the tactical assessment.
+
+"DGSE has Touareg contacts in the region," he says. "One message confirms presence. Woman matching description, single story stone house, coordinates confirmed."
+
+Thomas nods.
+
+"Timeline," he says.
+
+"Military airlift standing by," De Vergennes says. "Falcon from Lyon airbase. Two-hour flight to Toulon. Super Puma helicopter from the Forbin. Ready when we are."
+
+Thomas sets down the deed.
+
+"Assemble the team," he says. "We move now."
+
+### 08:00 — Leave for Lyon Airbase
+
+Two black rental cars. No markings.
+
+They drive from Annemasse toward Lyon. Route: A42 north → A89 east → Lyon.
+
+120 kilometers. Two hours.
+
+Thomas drives. Tarkovsky in passenger seat. Leclerc, De Vergennes, Beaumont in back. Weapons secured. Minimal luggage. Operational gear only.
+
+The second car follows. Moreau driving. Four additional operatives.
+
+Two vehicles. Sixteen operatives total. The full extraction team.
+
+They don't speak. The hunt is ending. The coordinates are exact. Yasmin is trapped in a house 2,000 kilometers south, in the Sahara desert, believing she's safe.
+
+She has no idea the deed is in Thomas's hands.
+
+She has no idea Hassan's insurance policy is about to kill her.
+
+They drive through the morning. No speeding. No attention. Professional.
+
+### 10:15 — Lyon Airbase
+
+Military facility. Secure. Restricted.
+
+But the credentials are perfect. Bureau des Légendes legends. Real military papers. Real authorization.
+
+The guard waves them through.
+
+They park in the secured hangar.
+
+The Falcon is waiting.
+
+French military jet. Dassault. Twin-engine. Fast. Operational.
+
+Falcon 900. Perfect for tactical deployment.
+
+The pilot is DGSE. The co-pilot is DGSE. The loadmaster is DGSE.
+
+This is an official operation. Deniable, but official.
+
+Thomas boards first. His team follows.
+
+Sixteen operatives. Weapons, tactical gear, minimal baggage. They fit in the Falcon's cabin.
+
+Doors close.
+
+Engines spool up.
+
+No ATC chatter. Military priority. Direct routing.
+
+### 10:45 — Airborne, Falcon 900
+
+Two-hour flight to Toulon.
+
+Thomas sits by the window. Deed in his hands. Coordinates written on his palm in pencil.
+
+24.8731° North.
+
+8.4422° East.
+
+Tadrart. Stone house. Single story.
+
+Yasmin waiting.
+
+De Vergennes reads tactical maps. Super Puma capabilities. Helicopter insertion. Desert landing zones. Security perimeter.
+
+Leclerc checks weapons for the last time. Glock. Suppressor. Magazine. Chamber.
+
+Tarkovsky studies satellite imagery. Heat signatures. Building layout. Approach vectors.
+
+The hunt is converging.
+
+The coordinates are exact.
+
 The operation is ready.
 
-But not for six days.
+No speech needed. They've trained for this. They know what comes next.
 
-Six days is an eternity in tactical operations. Six days is time for her to move. Time for her to run. Time for her to disappear into the desert.
+### 12:45 — Toulon Naval Base
 
-Unless the Touareg hold her there. Unless Hassan's contacts keep her in place. Unless she believes she's safe.
+The Falcon descends into French naval airspace.
 
-Thomas reads the handwritten note in the deed margin again.
+Toulon approaches.
 
-"Y refuge. Emergency only. Hassan coordinates. Yasmine knows location. Use if operation compromised."
+Mediterranean coast. Naval base. Secure.
 
-Malik had always known. He had always prepared. He had always documented.
+The Falcon lands on the military runway.
 
-And Yasmine. Yasmine was waiting. Still in the house. Still believing it was safe. Still not knowing that Hassan's contacts weren't loyal to Hassan anymore. Not knowing that the DGSE had sources in the desert. Not knowing that six days was enough time to watch. To prepare. To execute.
+Doors open.
 
-Thomas picks up the deed and reads the final line.
+A DGSE liaison meets them with transport.
 
-A handwritten note in the margin. Malik's handwriting. Shaky. Written years ago.
+"The Forbin is ready," the liaison says. "Boarding immediately. She's heading Atlantic. Full tactical crew. Helicopter department on standby."
 
-"Y refuge. Emergency only. Hassan coordinates. Yasmine knows location. Use if operation compromised."
+Thomas nods.
 
-So Malik had always known. He had always prepared. He had always documented.
+They load into a black truck. No identification. No markings.
 
-And his documentation became the map that led to her death.
+Fifteen minutes to the dock.
 
-In the Airbnb overlooking Lake Geneva, Thomas folds the deed carefully.
+### 13:00 — Toulon Port
 
-Tomorrow he flies south. Tomorrow the Super Puma takes off. Tomorrow the operation begins.
+The Forbin sits at the dock.
 
-Yasmine is waiting in the Sahara.
+Frégate porte-hélicoptères. Helicopter carrier. 6,000 tons. French Navy insignia.
 
-She doesn't know about the deed.
+Official mission: anti-piracy patrol, Atlantic coast.
 
-She doesn't know about the safe.
+Real purpose: extraction operation in Sahara.
 
-She doesn't know that Malik's insurance policy is about to kill her.
+The crew is waiting.
 
-She just waits in a stone house on the edge of a village. In the coordinates documented in a Swiss deed. In the refuge prepared seven years in advance.
+Captain Gerard salutes Thomas. Professional. Military. No questions asked.
+
+"Welcome aboard, monsieur," the captain says. "Your quarters are ready. Flight deck prepared for the Super Puma. Crew briefed on the operation."
+
+Thomas nods.
+
+"Timeline," he says.
+
+"We sail in one hour," Captain Gerard says. "20-hour transit to the launch point. By tomorrow evening, we're positioned off the Algerian coast. Close enough for helicopter insertion into Tadrart."
+
+Thomas looks at the deed one more time.
+
+24.8731° North.
+
+8.4422° East.
+
+One day away.
+
+### 13:15 — Forbin Boarding
+
+Thomas leads his team up the gangway.
+
+Sailors stand at attention. Professional. Military. The nature of the operation is classified.
+
+They don't ask questions.
+
+The captain escorts Thomas to the command center. Maps of the Atlantic. Tactical displays. Operational planning room.
+
+A secure briefing room. Locked door. DGSE oversight.
+
+Thomas spreads the deed on the table.
+
+Captain Gerard studies it.
+
+"Exact coordinates," Gerard says. "We can put the Super Puma down within 200 meters. Desert landing. Four-minute flight from the coast."
+
+De Vergennes points at the satellite imagery.
+
+"Single structure. Stone. Isolated. No visible threats. One or two personnel inside."
+
+Leclerc studies the terrain.
+
+"Approach from the southwest," Leclerc says. "Wind direction is favorable. Landing zone is hard-packed sand. No obstacles."
+
+Thomas looks at the maps.
+
+"Timeline," he says.
+
+"Eighteen hours to position," Gerard says. "Two hours preparation. Then insertion."
+
+Thomas nods.
+
+The hunt is ending.
+
+Yasmin is waiting in a stone house on the edge of the Sahara.
+
+She doesn't know the deed is in Thomas's hands.
+
+She doesn't know Hassan's insurance policy is about to kill her.
+
+She doesn't know that the Forbin is heading Atlantic.
+
+She doesn't know that in eighteen hours, a Super Puma will descend from the desert sky.
+
+She just waits in the coordinates documented in a Swiss trust.
 
 And Thomas has the map.
+
+### 14:00 — Forbin Anchors
+
+Moorings release.
+
+Engines engage.
+
+The Forbin pushes away from Toulon dock.
+
+Slow. Professional. Military precision.
+
+The Atlantic is waiting.
+
+The desert is waiting.
+
+Yasmin is waiting.
+
+Thomas stands on the bridge and watches Toulon fade.
+
+The hunt is ending.
+
+The coordinates are exact.
+
+The operation is ready.
+
+Tomorrow night, the Super Puma takes off.
+
+Tomorrow night, Yasmin dies.
+
+Tonight, they sail.
+
+The Atlantic opens before them.
+
+Direction: the Sahara.
+
+Destination: death.
 
 ---
 
 **END CHAPTER 33**
-
----
-
-**Chapter 33 Notes:**
-
-**Location:** Airbnb in Evian, Lake Geneva (French side)
-- Tourist property, deniable
-- Lake view, vacation rental cover
-- Keys under mat, anonymous booking
-
-**Document:** Swiss trust property deed
-- Official, registered, legal
-- Trust owner (anonymous)
-- Malik: beneficiary
-- Hassan: secondary authority
-
-**Property Details:**
-- Tadrart, Tassili n'Ajjer, southeastern Algeria
-- Stone house, single story
-- Coordinates: 24.8731°N, 8.4422°E
-- Purpose: "residential refuge"
-- Touareg contacts established
-
-**Satellite Imagery:**
-- Real-time (3 hours old)
-- Pleiades satellite
-- Heat signature: one person inside
-- Servants visible outside
-- No vehicles, no threat
-
-**Timeline:**
-- Property bought: 7 years ago (pre-operation)
-- Deed documented: in Zug safe
-- Safe opened: Chapter 34
-- Coordinates extracted: Chapter 33
-- Operation planned: immediate
-
-**Thematic Elements:**
-- Malik's insurance = death chain
-- Documentation = vulnerability
-- Deed = exact proof
-- Coordinates = no ambiguity
-- Professional preparation = fatal mistake
-
-**Word count:** ~850 words
-**Style:** Lee Child (clean, direct, building momentum)
-**Tone:** Convergence, inevitable conclusion, operational clarity
