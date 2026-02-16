@@ -1,343 +1,203 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 32: LAKE ENTRY
 
-The lake is black.
+### 23:00 — The Bedroom
 
-The dock is darker.
+Malik stands at the window overlooking the lake. Crystal glass in his hand. Expensive wine. 55 years old. 150 kilos. Heavy man in an expensive suit. Drunk enough to not hear them. Alert enough that when he turns, his face goes pale.
 
-Thomas moves with Tarkovsky, De Vergennes, and Leclerc.
+Thomas's Glock is already pointed at his chest.
 
-Soft footsteps on wooden planks. No talking. Hand signals only.
+"Don't move," Thomas says. Quiet. No emotion.
 
-Beaumont and Richelieu are on the street side. Watching the road. Watching for Swiss police. Watching for lights.
+Malik's glass drops. Crystal shatters on hardwood. The sound is loud in the silence.
 
-Moreau sits in a car two blocks away. Radio discipline. Short bursts. No phones.
+"Safe," Thomas says. "Where is it."
 
-"Clear," Beaumont whispers through the earpiece.
+Malik points to the closet.
 
-Thomas acknowledges with two clicks.
+### 23:02 — The Closet
 
-They reach the sliding doors.
+The safe is large. Professional. Bolted to the floor. Modern combination lock with a digital keypad.
 
-Glass. Open. Warm air spilling out.
+De Vergennes studies it. Reinforced frame. Military grade. Not a consumer model.
 
-Music inside. Electronic beat. American. Loud.
+"Open it," Leclerc says. Gun at Malik's back. 9mm Glock with a suppressor. Business-like.
 
-Laughter.
+Malik's hands shake. He tries the combination. His fingers are thick. Slow. Sweating.
 
-Perfume.
+He fails the first time. Tries again.
 
-The smell of expensive alcohol and cheap decisions.
+His hands move across the keypad. Numbers. Wrong. Again. Panic is making him clumsy.
 
-Malik's voice. High. Excited. Speaking French with an accent.
+"Again," Leclerc says.
 
-Thomas looks in.
+Malik tries once more.
 
-Four men.
+The safe opens.
 
-Three women.
+Inside is wealth beyond counting.
 
-Bodies half dressed.
+Gold bars stacked like building blocks. Twenty-four of them. Ten kilograms each. Yellow metal that glows under the bedroom light. The kind of gold that buys countries.
 
-Champagne bottles. Cocaine on a mirror. Pills in a bowl.
+Diamonds in small leather pouches. Six pouches. Loose certified stones. Each one worth more than a car. Together worth more than a house.
 
-A transaction pretending to be a party.
+US Treasury bearer bonds in sleeves. Tens of millions in untraceable currency. The ultimate escape fund. The kind of money that doesn't exist in any bank. The kind of money that buys new identities, new countries, new lives.
 
-Malik in the center.
+Cash. Stacks. Fifty-pound notes. Euros. Dollars. One thousand franc notes. Two hundred thousand total.
 
-Fat.
+Watches. Rolex. Patek Philippe. Jaeger-LeCoultre. Twenty-seven of them. Tens of thousands each. The watches of men who have killed to maintain their wealth.
 
-Oiled.
+And documents. Papers. Folios. Bank account numbers. Names in ink. Dates. Coordinates written in pencil. Shell company registrations. Cayman Islands. Panama. Switzerland.
 
-Smiling.
+Everything.
 
-Gold chain around his neck. Rolex on his wrist.
+The coordinates that lead to Hassan.
 
-Blood money made visible.
+The bank accounts that connect to Yasmin.
 
-Thomas steps through the door.
+De Vergennes photographs the documents with a secure military camera. Fast. Professional. No fingerprints. He wears gloves.
 
-No shout.
+Tarkovsky and Leclerc load the gold bars into military duffel bags. Heavy work. The bars weigh ten kilos each. 240 kilos total. They move with precision. No wasted motion.
 
-No warning.
+The diamonds are secured in a single leather case. Small. Valuable. Portable.
 
-Just presence.
+The bearer bonds are folded carefully. Hidden in a messenger bag. Millions folded like legal documents.
 
-The room freezes.
+The watches are wrapped in cloth and bagged.
 
-Music keeps playing. But movement stops.
+The cash is counted quickly. Loaded. Two hundred thousand.
 
-For a second, nobody understands.
+Three minutes. Everything essential secured.
 
-Then they do.
+Thomas wipes the bedroom. His gloves leave no prints. He wipes the window. The door handles. Anything his hands touched. De Vergennes wipes the safe.
 
-Malik's smile dies. His eyes widen.
+Tarkovsky wipes the closet.
 
-He understands.
+Leclerc wipes the stairs.
 
-Not the details.
+No DNA. No fingerprints. No forensic evidence. Just a safe opened by force and emptied by professionals who know how to disappear.
 
-The outcome.
+Thomas looks at Malik. The old man's fear is primal now. He understands that his money means nothing. That Switzerland is just geography. That safety is an illusion maintained by people who have not yet decided to take it away.
 
-Thomas nods once.
+"Don't move for one hour," Thomas says. "Call police after one hour. Not before."
 
-Tarkovsky covers the three other men. Suppressed weapon. Calm. Professional.
+Malik nods. Understanding comes without words when a gun is involved.
 
-Leclerc gestures to the women.
+### 23:08 — Exit
 
-"Dehors," he says.
+They move downstairs.
 
-Out.
+The second floor is loud with the party. Music thumping. Bass line from an American pop song. Voices. Laughter. Drunk men and hired women completely unaware that their host has just been robbed.
 
-They scramble for clothes. Grab purses. Run.
+Leclerc and Tarkovsky enter the party room with their guns visible.
 
-High heels clicking on tile. The door slams.
+"No one leaves," Leclerc says. Quiet. Professional.
 
-Thomas lets them.
+The girls freeze. The men freeze. The understanding is immediate and total.
 
-They aren't the mission.
+Money and guns translate the same in every language.
 
-They are noise.
+Leclerc and Tarkovsky stand in the doorway. Blocking the exit. Calm. Patient. Waiting for forty minutes to pass before anyone can call the police.
 
-Witnesses who won't talk. Too much to lose. Too many questions they don't want asked.
+Thomas and De Vergennes move to the dock.
 
-De Vergennes moves down the hall.
+They wipe the dock door as they leave. Inside and outside. No prints.
 
-He knows the floor plan.
+The night is still black. The lake is still empty. The lights in the homes around Zug are still off.
 
-He knows where the safe is supposed to be.
+They return to the cars. Beaumont is waiting in the van. No signal. No communication. Silence is security.
 
-Leclerc takes Malik.
+### 23:15 — Road to Evian
 
-Grip on the arms.
+Two DGSE service cars head south from Zug.
 
-Control.
+Through Valais. Swiss mountains. Remote. Few witnesses at night.
 
-Professional restraint.
+Thomas drives the lead car. Tarkovsky in the passenger seat. Leclerc and De Vergennes in back with the duffels. Gold and diamonds and millions in untraceable bonds.
 
-Malik tries to pull away.
+The second car follows. Four operatives. Moreau driving. The second team maintaining professional distance.
 
-The baby oil makes him slippery. Sweat. Panic.
+The mountain roads are empty at 23:15. Swiss 9. Direction Valais. No speeding. No attention. Just professional operators moving through the night like ghosts.
 
-Leclerc holds anyway.
+The motorway vignette is already on the service cars. €40. Everything legal. Everything documented.
 
-"Don't move," Leclerc says in French.
+Route: South through Valais toward Lake Geneva. Evian across the border. Small town. Tourist property. Perfect deniability.
 
-Malik doesn't listen. He thrashes.
+The drive is silent. No radio. No communication. No unnecessary movement.
 
-Leclerc applies pressure. Pain compliance. Joint lock.
+Just the hum of the engines and the darkness of Switzerland passing.
 
-Malik gasps. Stops struggling.
+### 03:30 — Evian Border
 
-Thomas speaks to the three men.
+The border at Evian is quiet at 3:30 AM.
 
-"Restez là," he says.
+Lake Geneva crossing. Customs checkpoint. Single officer. Tired. Routine.
 
-Stay there.
+The lead car passes through first. DGSE service plates. French business documents. Real identities created by the Bureau des Légendes. Real paperwork. Real bank accounts. Real business registration in Lyon.
 
-They don't move.
+Everything checks.
 
-Naked men with money on their breath. Cocaine in their blood. Fear in their eyes.
+The customs officer waves them through.
 
-They understand guns.
+The second car follows. Same procedure. Same legend.
 
-They understand command.
+They're in France.
 
-They understand consequences.
+They're out of Switzerland.
 
-Tarkovsky watches them. Weapon trained. Finger outside the trigger guard. Professional.
+### 03:45 — Evian Safe House
 
-No unnecessary violence. But ready.
+Apartment overlooking Lake Geneva. One-bedroom. Tourist property. Prepared weeks ago. Keys under the mat. Booking in a false name.
 
-De Vergennes returns from the bedroom.
+They unload the duffels in silence.
 
-"Closet," he says.
+Gold bars are laid on the table. Twenty-four of them. Yellow metal. Heavy. Beautiful. Deadly.
 
-Thomas nods.
+Diamonds in pouches. Small stones. Massive value.
 
-They move Malik down the hall. Leclerc half-carrying him. Malik's feet dragging on marble floor.
+Bearer bonds. Folded. Millions in untraceable currency.
 
-the house is expensive. Furniture. Art. Floor-to-ceiling windows overlooking the lake.
+Cash. Two hundred thousand. Organized in stacks.
 
-Money everywhere.
+Watches. Twenty-seven. Rolex. Patek Philippe. Jaeger-LeCoultre. Tens of thousands each.
 
-Malik's refuge.
+Documents. Photographs. Bank accounts. Names. Coordinates. Shell companies. Everything Thomas needs to find Hassan. Everything that will lead to Yasmin.
 
-Malik's grave.
+De Vergennes secures the gold in a reinforced bag. Military-grade waterproofing. Hidden compartments. The kind of bag that survives interrogation.
 
-They reach the bedroom.
+By 04:00, everything is secured.
 
-King bed. Silk sheets. More champagne bottles. More evidence of excess.
+By 04:00, the operation is complete.
 
-Closet door opens.
+Thomas steps outside.
 
-The safe is there.
+Evian is asleep. French lake town. Pre-dawn. Nothing moving. Lake Geneva is black. Silent.
 
-Big.
+In Zug, Malik sits in his bedroom waiting for one hour to pass.
 
-Professional.
+When he calls police, the investigation will begin.
 
-Black steel. Digital keypad. Bolted down. Reinforced frame.
+But it won't start with forensics.
 
-Not a consumer model.
+No fingerprints. No DNA. No physical evidence.
 
-Military grade.
+It will start with Malik's own financial records.
 
-Malik smiles.
+With witness testimony about the safe.
 
-Weak. Desperate.
+With bank trails leading to Hassan.
 
-"Vous pouvez pas," he says.
+With shell companies in the Cayman Islands.
 
-You can't.
+With names documented in the deed.
 
-You can't open it. You can't take it. You can't win.
+The money always leaves a trail.
 
-Thomas doesn't answer.
+The money always reveals itself.
 
-He looks at De Vergennes.
+And when investigators follow the money, they will find Hassan.
 
-De Vergennes opens his bag.
-
-Breaching charge.
-
-Small.
-
-Precise.
-
-Thermite compound wrapped in plastic. Detonator. Timer.
-
-He kneels at the safe.
-
-He studies it. Runs his fingers along the seams. Checks the bolts. Calculates.
-
-Then he sets putty on steel. Shaped charge. Directional. Focused on the locking mechanism.
-
-Not the whole door.
-
-Just the weak point.
-
-He inserts the detonator. Wires. Timer.
-
-He checks the circuit. Tests the connection.
-
-Thirty seconds.
-
-He stands.
-
-"Back," he says.
-
-They step into the hallway. Close the closet door. Put Malik between them and the charge.
-
-Malik's smile dies.
-
-His face goes pale.
-
-"Wait," he says.
-
-"Too late," Thomas says.
-
-"I have information. I can help you."
-
-"You will. When the safe opens."
-
-"Please."
-
-Thomas doesn't respond.
-
-The timer ticks.
-
-In the living room, the music still plays.
-
-A stupid song.
-
-A stupid beat.
-
-The kind of beat that makes men forget they're mortal.
-
-The kind of beat that makes men think money is power.
-
-It isn't.
-
-Violence is power.
-
-And violence is coming.
-
-Thomas watches Malik.
-
-Malik watches the closed closet door.
-
-Neither man blinks.
-
-Twenty seconds.
-
-Fifteen.
-
-Ten.
-
-Malik's breathing accelerates. Panic. Sweat running down his face.
-
-"You're making a mistake," Malik says.
-
-"I don't make mistakes," Thomas says.
-
-Five seconds.
-
-Thomas turns away. Covers his ears.
-
-The others do the same.
-
-Malik tries to run.
-
-Leclerc holds him.
-
-Zero.
-
-The charge detonates.
-
-Muffled thump. Not loud. Controlled.
-
-Smoke drifts from under the closet door.
-
-The smell of burning metal. Chemical. Sharp.
-
-De Vergennes waits thirty seconds.
-
-Cooling time.
-
-Then he opens the door.
-
-Smoke clears.
-
-The safe door hangs open. Lock melted. Hinges bent.
-
-Inside: darkness.
-
-Thomas steps forward.
-
-This is it.
-
-Everything Malik kept.
-
-Everything Malik valued.
-
-Everything Malik thought would save him.
-
-Documents. Money. Records. Coordinates.
-
-The key to finding Yasmine.
-
-The end of the hunt.
-
-Thomas reaches for the safe.
-
-The contents wait inside.
-
-Ready to speak.
-
-Ready to reveal.
-
-They enter the house.
+But by then, Thomas will already be hunting.
 
 ---
 
