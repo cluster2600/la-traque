@@ -143,31 +143,31 @@ The night is still black. The lake is still empty. The lights in the homes aroun
 
 They return to the cars. Beaumont is waiting in the van. No signal. No communication. Silence is security.
 
-### 23:15 — Road to Annemasse
+### 23:15 — Road to Evian
 
-Two DGSE service cars head north from Zug.
+Two DGSE service cars head south from Zug.
 
-272 kilometers. 3.5 hours drive time.
+Through Valais. Swiss mountains. Remote. Few witnesses at night.
 
 Thomas drives the lead car. Tarkovsky in the passenger seat. Leclerc and De Vergennes in back with the duffels. Gold and diamonds and millions in untraceable bonds.
 
 The second car follows. Four operatives. Moreau driving. The second team maintaining professional distance.
 
-The highway is empty at 23:15. Swiss 3. Direction France. No speeding. No attention. Just professional operators moving through the night like ghosts.
+The mountain roads are empty at 23:15. Swiss 9. Direction Valais. No speeding. No attention. Just professional operators moving through the night like ghosts.
 
 The motorway vignette is already on the service cars. €40. Everything legal. Everything documented.
 
-Route: A4/E62 toward Bern. Then A1 toward Lausanne. Then Geneva border crossing at Bardonnex. Then French A41 to Annemasse.
+Route: South through Valais toward Lake Geneva. Evian across the border. Small town. Tourist property. Perfect deniability.
 
 The drive is silent. No radio. No communication. No unnecessary movement.
 
 Just the hum of the engines and the darkness of Switzerland passing.
 
-### 02:45 — Annemasse Border
+### 03:30 — Evian Border
 
-The border at Annemasse is quiet at 2:45 AM.
+The border at Evian is quiet at 3:30 AM.
 
-Customs checkpoint. Single officer. Tired. Routine.
+Lake Geneva crossing. Customs checkpoint. Single officer. Tired. Routine.
 
 The lead car passes through first. DGSE service plates. French business documents. Real identities created by the Bureau des Légendes. Real paperwork. Real bank accounts. Real business registration in Lyon.
 
@@ -181,9 +181,9 @@ They're in France.
 
 They're out of Switzerland.
 
-### 03:00 — Annemasse Safe House
+### 03:45 — Evian Safe House
 
-Apartment near the train station. One-bedroom. Prepared weeks ago.
+Apartment overlooking Lake Geneva. One-bedroom. Tourist property. Prepared weeks ago. Keys under the mat. Booking in a false name.
 
 They unload the duffels in silence.
 
@@ -201,13 +201,13 @@ Documents. Photographs. Bank accounts. Names. Coordinates. Shell companies. Ever
 
 De Vergennes secures the gold in a reinforced bag. Military-grade waterproofing. Hidden compartments. The kind of bag that survives interrogation.
 
-By 03:30, everything is secured.
+By 04:00, everything is secured.
 
-By 03:30, the operation is complete.
+By 04:00, the operation is complete.
 
 Thomas steps outside.
 
-Annemasse is asleep. French border town. Pre-dawn. Nothing moving.
+Evian is asleep. French lake town. Pre-dawn. Nothing moving. Lake Geneva is black. Silent.
 
 In Zug, Malik sits in his bedroom waiting for one hour to pass.
 
