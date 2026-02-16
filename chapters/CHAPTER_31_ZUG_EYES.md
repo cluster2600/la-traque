@@ -1,7 +1,7 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 ## CHAPTER 31: ZUG EYES
 
-### 22:00 — Safe House, Zug
+### 18:00 — Safe House, Zug
 
 Zug is quiet.
 
@@ -35,23 +35,17 @@ They watch the dock.
 
 They wait for the target.
 
-### 21:00 — Seestrasse 47
+### 18:30 — Seestrasse 47
 
 The building is modern. Glass and steel. Underground parking. Lake view. Expensive.
 
-Inside: lights. Music starting. Catering van arrived at 18:30. Alcohol. Food. The smell of money spending itself.
+Catering van arrives. Alcohol. Food. The smell of money spending itself.
 
-Three cars arrive at 19:30. Audi. BMW. Mercedes.
+By 19:00, Malik is home.
 
-Men in suits. Women in dresses. Laughter. The sound of a man celebrating something.
+Preparing. Changing clothes. Getting ready.
 
-By 20:00, the house is loud.
-
-Music thumps. Bass line. American pop song. Voices. Ice in glasses.
-
-The sound of blood money being drunk.
-
-### 21:15 — Safe House, Zug
+### 18:45 — Safe House, Zug
 
 Thomas gathers the team around the floor plan.
 
@@ -73,7 +67,7 @@ He points at the floor plan.
 
 "Swiss police?" De Vergennes asks.
 
-"Last patrol passed at 21:00. Next cycle in thirty minutes. We're inside the window."
+"Last patrol was 18:00. Next cycle in forty minutes. We're inside the window."
 
 De Vergennes checks his breaching kit. Small charges. Thermite compound. Military grade. Just enough to open a safe without collapsing a building.
 
@@ -105,11 +99,15 @@ Lines of sight.
 
 Who dies first if violence starts.
 
-### 21:45 — Beaumont's Van, Seestrasse 47
+### 19:15 — Beaumont's Van, Seestrasse 47
+
+Three cars arrive at Seestrasse 47. Audi. BMW. Mercedes.
+
+Men in suits. Women in dresses. Laughter. The sound of a man celebrating something.
 
 Beaumont whispers into the radio.
 
-"Target visual. Still inside. Party continuing."
+"Target visual. Party starting. Guests arriving."
 
 Thomas listens from the safe house.
 
@@ -119,13 +117,11 @@ Thomas listens from the safe house.
 
 "Police?"
 
-"Clean. Last patrol twenty-five minutes ago. Next cycle in fifteen."
+"Clean. Last patrol thirty minutes ago. Next cycle in twenty."
 
 Thomas nods once.
 
-"Move," he says.
-
-### 21:50 — The Lake, Zug
+### 19:20 — The Lake, Zug
 
 They leave the safe house in two black rental cars.
 
@@ -135,7 +131,7 @@ They park a kilometer away. Side street. No cameras.
 
 They walk to the lake.
 
-Night air. Water smell. Boats rocking at docks. Lights in windows. Rich people sleeping.
+Night air. Water smell. Boats rocking at docks. Lights in windows. Rich people settling into evening.
 
 Normal Swiss night.
 
@@ -145,7 +141,7 @@ Peaceful.
 
 About to be violated.
 
-Thomas checks his watch. 21:55.
+Thomas checks his watch. 19:25.
 
 Five minutes until the police patrol passes.
 
@@ -175,7 +171,7 @@ Operators who understand the mission.
 
 He nods once.
 
-### 21:58 — Beaumont's Van
+### 19:28 — Beaumont's Van
 
 Beaumont whispers into the radio.
 
@@ -191,7 +187,7 @@ Purposeful.
 
 Final.
 
-### 22:00 — Seestrasse 47, Ground Floor
+### 19:30 — Seestrasse 47, Ground Floor
 
 They breach the dock door. Aluminum frame. Glass panel. De Vergennes uses a pry bar. Quiet. Professional. Ten seconds.
 
@@ -223,7 +219,7 @@ Malik's face goes pale.
 
 He points to the closet.
 
-### 22:03 — The Bedroom Closet
+### 19:33 — The Bedroom Closet
 
 The safe is large. Professional. Bolted to the floor. Modern lock. Combination.
 
@@ -273,7 +269,7 @@ Who never understood that money is just paper.
 
 And paper burns.
 
-### 22:06 — Packing
+### 19:36 — Packing
 
 They don't have time for the entire safe.
 
@@ -299,7 +295,7 @@ Malik nods.
 
 He understands the alternative.
 
-### 22:09 — Dock Exit
+### 19:39 — Dock Exit
 
 They move downstairs.
 
@@ -315,13 +311,15 @@ Back to the shadows.
 
 Back to the cars.
 
-### 22:12 — En Route to Annemasse
+### 19:45 — En Route to Annemasse
 
 Two rental cars. Black. Unmarked.
 
 They drive north from Zug toward the French border.
 
-Route to Annemasse: 45 minutes from Zug.
+Route to Annemasse: 272 kilometers. 3.5 hours drive time.
+
+Zug → A4/E62 → A1 towards Lausanne/Geneva → border crossing (Bardonnex) → A41/D1201 to Annemasse.
 
 The drive is silent.
 
@@ -337,7 +335,7 @@ The other car follows. Four more operators. Moreau driving. Two surveillance spe
 
 Both cars keep distance. Professional spacing. Professional protocol.
 
-### 22:35 — Approaching Border, Annemasse
+### 23:15 — Approaching Border, Annemasse
 
 The border at Annemasse is quiet at night.
 
@@ -359,7 +357,7 @@ They're in France.
 
 They're out of Switzerland.
 
-### 22:50 — Annemasse Safe House
+### 23:30 — Annemasse Safe House
 
 A small apartment near the station. Rented weeks ago. Already prepared.
 
@@ -425,9 +423,9 @@ And Hassan will lead them to Yasmin.
 
 And Yasmin will lead them to the end.
 
-Thomas looks at his watch. 00:15.
+Thomas looks at his watch. 00:30.
 
-They've been gone from Zug for exactly two hours and fifteen minutes.
+They've been gone from Zug for exactly 5 hours.
 
 The operation was clean.
 
