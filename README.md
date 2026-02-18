@@ -1,318 +1,217 @@
 # LA TRAQUE DE L'ATTENTAT DU MÉTRO 14
 
-**A French thriller novel by Claude (via Alfred assistant)**
+**A French political thriller by Maxime Grenu**
 
 ---
 
-## Project Overview
+## Overview
 
 **Title:** La Traque de l'Attentat du Métro 14  
-**Author:** Maxime Grenu (concept) | Claude (writing)  
-**Genre:** Thriller / Crime / Detective  
+**Genre:** Thriller / Espionage / Political Fiction  
 **Style:** Lee Child (Jack Reacher) — short sentences, maximum tension, minimal description  
-**Target Length:** 200 pages (~20 chapters, 10 pages each)  
-**Setting:** Paris, France, 2018  
-**Narrative:** Detective story only — pure investigation, no flashbacks, no backstory
+**Length:** 35 chapters + 3 interludes (~200 pages)  
+**Setting:** Paris, France → Marseille → Switzerland → Sicily → Tunisia → Portugal → Algeria → Tadrart (Sahara), 2025–2026  
+**Status:** First draft complete. Editing pass underway (see `COHERENCE_REPORT.md`).
 
 ---
 
 ## Story Premise
 
-**The Bombing:**
-On a February morning in 2018, terrorists strike Métro Line 14 in Paris — a sophisticated, coordinated attack designed to kill not just civilians but the emergency responders trying to save them.
+**The Attack.**  
+On a winter morning, terrorists strike Métro Line 14 in Paris in a coordinated operation that kills 2,391 people across five targets: the metro itself, the Louvre pyramid, the Élysée Palace grounds, the Eiffel Tower base, and a barge at Bercy. It is the deadliest attack on French soil since World War II.
 
-**The Ambulance:** At 6:20 AM, a van rigged with 2 tonnes of homemade nitroglycerine detonates at Saint-Lazare's Cour de Rome dome. Emergency crews converge. A second detonation catches the responders in the blast. Multiple rescue workers die. Emergency response capability is crippled.
+**The Cell.**  
+Yasmine Boudjellal, a French-Algerian woman from Mantes-la-Jolie, leads a small, disciplined cell motivated by colonial rage — the unpaid debt of the Algerian War of Independence, the mass killings that France has never acknowledged, the families broken across generations. She is not a religious extremist. She is a woman with a cause and a calculator.
 
-**The Métro:** Simultaneously, three wheelchair-mounted bombs are deployed in the open interior of Métro Line 14. Two detonate. One fails. The darkness swallows everyone inside.
+**The Hunter.**  
+Thomas Dieudegard, 42, Colonel at the DGSE, receives Presidential-level authorization to hunt the cell across Europe and North Africa and eliminate every member. No arrests. No trials. No publicity. A deniable operation built on plausible denial and unlimited resources.
 
-**The Hunter:** Thomas Dieudegard, 40, a former Navy combat swimmer now working intelligence for DGSE, arrives to assess the carnage. He doesn't rescue anyone. He observes. He calculates. He hunts.
+**The Hunt.**  
+Paris → Marseille → Mediterranean → Algiers → Zug (Switzerland) → Palermo (Sicily) → Tunis → Lisbon → back to the Mediterranean → Tadrart (southeastern Sahara). Thomas's six-person team eliminates cell members one by one across seven countries over eight weeks.
 
-The novel follows Thomas's investigation into the cell responsible. It is not a hero story. It is a vengeance story.
-
----
-
-## 🔴 STORY LOCKED (Feb 15, 2026)
-
-### The Ambulance Explosion (Chapter 2)
-- **Location:** Cour de Rome dome above Saint-Lazare Métro
-- **Time:** 6:20 AM (before Thomas arrives at 6:45 AM)
-- **Payload:** 2 tonnes homemade nitroglycerine (realistic vehicle capacity)
-- **Purpose:** KILL RESCUE WORKERS — secondary mass casualty event
-- **Impact:** Emergency responders caught in second detonation; rescue capacity crippled
-- **Thomas's Role:** Arrives to assess. Calculates cell sophistication. Understands they think 3 moves ahead.
-
-### The Métro Line 14 Attack (Chapters 3-8)
-- **Structure:** One long, open interior car (not divided compartments)
-- **Deployment:** 3 wheelchair-mounted bombs distributed through the space
-- **Detonation Status:**
-  - Wheelchair #1: EXPLODES
-  - Wheelchair #2: EXPLODES
-  - Wheelchair #3: FAILS TO DETONATE
-- **Casualties:** Civilians die in darkness. We don't count them.
-- **Rescue:** Emergency teams cannot reach them. Rescue fails.
-- **Evidence:** Failed wheelchair becomes forensic breakthrough
-
-### Abdelkrim Belkacem — The Failed Operator (Chapter 3+)
-- **Age:** 19 years old, French-Algerian
-- **Origin:** Mantes-la-Jolie (marginalized suburb)
-- **Status:** Paralyzed from waist down (confined to wheelchair)
-- **Trauma:** Paralyzed in 2021 police chase (police brutality)
-- **Recruitment:** Hassan Mehran recruited him at ~18 (youth vulnerability, revenge ideology)
-- **Role:** Operates the third (failed) wheelchair bomb
-- **Arrest:** Arrested at scene with failed device
-- **Significance:** His failure + testimony + device forensics crack the entire cell network
-- **Narrative Function:** Youth weaponized; vulnerable people exploited by ideology
-
-### The Cell (Chapters 11-19)
-- **Yasmin Aliyev:** Cell leader, Chechen-Russian, revolutionary ideology
-- **Marko Sladović:** Operations specialist, pragmatist (first to crack)
-- **Dr. Hassan Mehran:** Ideologue, recruits young people (Abdelkrim)
-- **Inès van der Meer:** Financier and facilitator
-- **The Financier (Third arc):** Escaped to Switzerland (Zug), found in corruption
-
-### The Confrontation (Chapter 19)
-- Thomas corners Yasmin in the tunnels beneath Rue des Rosiers
-- She wanted to be found
-- They talk: her about pain and justice, him about the cost of revenge
-- Mirrors of each other
-- Yasmin dies by her own hand
-- She takes the choice away from Thomas
-
-### The Ending (Chapter 20)
-- Yasmin is dead
-- Thomas walks back to Rue des Rosiers
-- Makes espresso at his La Marzocco
-- The walls still remember everything
-- (Optional epilogue: phone rings again. Another cell. The cycle continues.)
-
----
-
-## Character Profile: Thomas Dieudegard
-
-**Personal Details**
-- **Born:** December 28, 1978 (40 years old in 2018)
-- **Birthplace:** Normandy, France
-- **Religion:** Protestant
-- **Heritage:** Huguenot (maternal line)
-- **Current Residence:** 14 Rue des Rosiers, 2ème étage, Paris (Le Marais, 4th arrondissement)
-
-**Family Background** (Background context, not in novel)
-- **Mother:** Protestant, Huguenot descent. Her family were wine producers in Rhodesia. Lost everything when Zimbabwe became independent.
-- **Father:** Protestant. Background TBD.
-- **Siblings:** Victoire (35), Louis (33)
-- **Role:** Eldest brother. Responsible. Protector.
-
-**Military & Professional Background** (Background context, not in novel)
-- **Military Training:** École de la Marine Nationale (French Navy)
-- **Rank:** Capitaine de Corvette (Navy Captain)
-- **Specialization:** Nageur de Combat (Combat Swimmer)
-- **Current Job:** DGSE field coordinator / special operations
-
-**Current Life (2018)**
-- **Apartment:** Minimal, 1 bedroom, built 1847
-- **Morning Routine:** Wakes at 5:47 AM (before alarm). La Marzocco espresso machine. Espresso only, no sugar/milk.
-- **Lifestyle:** Disciplined. Precise. Routine-driven. Everything minimal and necessary.
-
-**Personality**
-- Quiet, observant, controlled
-- No room for error
-- Professional, competent, ruthless when necessary
-- Doesn't rescue people — he hunts them
-
-**Background Trauma** (Informs character, does not appear in novel)
-- Holiday friend died in 1995 (Saint-Michel RER B bombing, when Thomas was 16)
-- Event shaped his obsession with order and prevention
-- But **this trauma is NOT in the novel** — it is background only
-- The novel is the hunt itself, not the explanation for why he hunts
-
----
-
-## Story Structure: 20 Chapters
-
-### ACT I: THE CRIME (Chapters 1-2)
-
-**Chapter 1: Rue des Rosiers**
-- Thomas wakes before dawn, February 2018
-- La Marzocco espresso
-- Phone call: bombing at Métro 14
-- Thomas mobilizes
-
-**Chapter 2: Saint-Lazare**
-- 6:20 AM: Ambulance explosion at Cour de Rome dome (2 tonnes nitro)
-- Purpose: Kill rescue workers during response
-- Emergency responders converge, caught in second detonation
-- Multiple rescue personnel killed/wounded
-- Thomas arrives at 6:45 AM to assess (not rescue)
-- Observes carnage: calculates cell sophistication
-- Evidence confirms third bomb still active below ground
-
----
-
-### ACT II: THE CRISIS (Chapters 3-10)
-
-**Chapters 3-8: The Darkness**
-- Métro Line 14 open car in complete darkness
-- Three wheelchairs distributed through space
-- Two detonate successfully
-- Third (Abdelkrim's) fails
-- Civilians trapped, rescue teams unable to penetrate
-- All die in darkness
-- Emergency response failure complete
-
-**Chapter 9: The Aftermath**
-- 43+ bodies recovered (we don't count them)
-- Body identification begins
-- Thomas watches recovery operations
-- Abdelkrim arrested at scene with failed device
-- First lead: identify the cell
-
-**Chapter 10: Investigation Begins**
-- Interrogation of Abdelkrim reveals cell structure
-- Names emerge: Yasmin Aliyev, Marko Sladović, Hassan Mehran, Inès van der Meer
-- Failed device forensics analyzed
-- Cell network mapping begins
-- The hunt is on
-
----
-
-### ACT III: THE HUNT (Chapters 11-20)
-
-**Chapter 11: The Cell**
-- Intelligence gathering on four conspirators
-- Yasmin: cell leader, Chechen-Russian, revolutionary ideology
-- Marko: operations specialist, pragmatist
-- Hassan: ideologue, recruiter (Abdelkrim's handler)
-- Inès: financier and facilitator
-
-**Chapters 12-14: Breaking the Cell**
-- Intercepts and surveillance reveal tensions
-- Marko shows doubt, first crack in loyalty
-- Safe house raid yields further planned attacks
-- This wasn't the endgame — it was the opening
-
-**Chapters 15-17: Defection and Deals**
-- Inès convinced to cooperate
-- Hassan arrested, confronts Thomas with uncomfortable truth
-- Thomas realizes they are mirrors: both justify violence for order
-- Marko defects, gives up everything
-- Yasmin realizes network is compromised
-
-**Chapter 18: Personal**
-- Yasmin's next target is the Métro near Rue des Rosiers
-- She knows where Thomas lives
-- She makes it personal
-- Thomas understands safety is an illusion
-
-**Chapter 19: The Confrontation**
-- Thomas finds Yasmin in the tunnels beneath Rue des Rosiers
-- Not by accident — she wanted to be found
-- They talk: pain and justice, revenge and order
-- They are mirrors of each other
-- Confrontation is intellectual, moral, not just physical
-- Yasmin dies by her own hand
-- She takes the choice away from Thomas
-
-**Chapter 20: After**
-- Yasmin is dead
-- Thomas stands in darkness
-- Walks back to Rue des Rosiers
-- Makes espresso at his La Marzocco
-- The walls still remember everything
-- They always will
-
-**Optional Epilogue**
-- Thomas's phone rings again
-- Another threat. Another cell.
-- The cycle continues.
-- Thomas answers. He's already moving.
+**The End.**  
+Yasmine sits in a stone house at the edge of the Sahara, in the coordinates documented in a Swiss safe, waiting for a manhunt she believes has faded. It hasn't.
 
 ---
 
 ## Themes
 
-- **Vengeance vs. Justice:** Are they the same? What does it cost?
-- **Order Built on Violence:** Thomas brings order through force. Yasmin seeks justice through destruction. Who is right?
-- **Mirrors:** Thomas and Yasmin are reflections of each other. Both justified, both ruthless.
-- **Cycles That Never End:** Justice doesn't bring closure. Another cell will rise. The hunt continues.
-- **The Detective:** Not a hero. Not a savior. A hunter.
+- **Colonial debt and its inheritors:** The Algerian War killed hundreds of thousands. France has never officially apologized. What does that silence cost, in what currency, and to whom?
+- **Vengeance vs. justice:** Are they distinguishable when the state performs one and a terrorist the other?
+- **Alienation without homeland:** Yasmine is too French for Algeria and too bloody for France. She belongs nowhere.
+- **The price of moral clarity:** Thomas never doubts his mission. That certainty is its own kind of horror.
+- **The Mediterranean as moral geography:** The sea separates the law from its absence, Europe from Africa, hunter from prey — until it doesn't.
 
 ---
 
-## Writing Style: Lee Child (Jack Reacher)
+## Characters
 
-**Core Principles:**
-- **Short sentences.** Declarative. Direct.
-- **Present tense in action.** Immediacy.
-- **Minimal internal monologue.** Show don't tell.
-- **Sparse description.** Only what matters.
-- **Maximum tension.** Every paragraph moves plot.
-- **Moral ambiguity.** Gray on gray. No easy answers.
-- **Dialogue reveals character.** Not exposition.
-- **Action-first narrative.** The plot is the character.
+### Yasmine Boudjellal — Cell Leader
+French-Algerian. From Mantes-la-Jolie. Motivated by colonial rage. Brilliant operational planner. Twenty-eight years old. Not afraid of dying. Afraid of being forgotten.
+
+### Thomas Dieudegard — DGSE Colonel
+Forty-two. French aristocratic background. Former Navy combat swimmer. Direct Presidential authorization. Driven by the death of Jérôme, a holiday friend who died in the metro attack. Professional. Deliberate. Relentless.
+
+### The Cell
+| Member | Role | Fate |
+|--------|------|------|
+| Malik Benhadj | Finance, cryptocurrency | Drowned, Lake Zug |
+| Hassan Medjahed | Ideologue, recruiter | Captured Day 0, interrogated |
+| Inès Benmansour | Logistics | Captured Day 0, stays silent |
+| Abdelkrim Diallo | Wheelchair bomb operator | Arrested Day 0 (sabotaged his own device) |
+| Hassan Messaoud Jr. | Operations planner | Shot, Palermo |
+| Amina Zeroual | Communications | Shot, Lisbon |
+| Farid Messaoud | Logistics | Arrested, Toulouse |
+| Leila Hamadi | Logistics | Eliminated, Portugal |
+
+### The Team (Thomas's operators)
+| Member | Specialization |
+|--------|---------------|
+| Beaumont | Surveillance, assault planning |
+| Tarkovsky | Close-quarters elimination |
+| De Vergennes | Financial intelligence |
+| Leclerc | Combat medic |
+| Richelieu | Weapons expert |
+| Moreau | Communications, signals |
 
 ---
 
-## Folder Structure
+## Chapter Index
+
+### Act I: The Attack (Days 0–1)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 01 | Rue des Rosiers | Thomas wakes; phone call; mobilization |
+| 02 | Saint-Lazare | Ambulance bomb; emergency responders killed; Thomas arrives |
+| 02.5 | Mother's Call | [Interlude] A family learning their son is dead |
+| 03 | La Boucherie | Metro aftermath; darkness; the dead |
+| 04 | The Message | Cell communication intercepts; first intelligence |
+| 05 | DGSE Headquarters | Investigation begins; cell structure mapped |
+| 06 | Survivors | Interviews; Abdelkrim arrested; failed device; Malik interviewed |
+| 06.5 | Failed Wheelchair | [Interlude] Abdelkrim's backstory: paralysis, radicalization, sabotage |
+
+### Act II: The Second Wave (Day 1)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 07 | *(missing — see COHERENCE_REPORT)* | Gap between metro bombing and second wave |
+| 08 | Maritime Hunt | Thomas traces Yasmine to Marseille harbor |
+| 09 | Gunfire | Underground confrontation; Hassan and Inès captured |
+| 10 | Louvre | Five simultaneous attacks; 2,391 dead; France in shock |
+
+### Act III: Martial Law and Scatter (Days 2–14)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 11 | Martial Law | France under curfew; cell scatters; escape routes assigned |
+| 11.5 | Abdelkrim's Recruitment | [Interlude] How Yasmine found him; the sabotage decision |
+| 12 | Mantes Discovery | Laboratory found; Mantes riots; mass detention |
+| 13 | Algiers | Yasmine crosses the Mediterranean; arrives alienated |
+| 14 | Paris Response | Government overreach; 50,000 Mantes residents evacuated |
+| 15 | Chemical Lab | Dr. Sylberstein's forensic analysis; pig fat + RDX identified |
+
+### Act IV: The Hunt Assembles (Weeks 2–3)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 16 | Marseille Harbor | Thomas traces Yasmine's boat crossing; calls Director |
+| 17 | Scatter | Cell members' escape routes shown; Farid arrested near Toulouse |
+| 18 | The Team | Six DGSE operators briefed at Marseille safe house |
+| 19 | Blockchain | De Vergennes traces Malik to Zug via cryptocurrency |
+| 20 | Crossing | Yasmine's fishing boat journey, midnight to dawn |
+
+### Act V: Elimination Sequence (Weeks 4–8)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 21 | Palermo Surveillance | Beaumont and Tarkovsky observe Hassan Jr. |
+| 22 | Palermo Elimination | Hassan Jr. shot in his sleep; clean extraction |
+| 23 | Tunis Intelligence | Amina intercepted; escapes to Bizerte |
+| 24 | Zug Wealth | Malik's accumulation of gold, diamonds, bearer bonds |
+| 25 | Lisbon Tracker | Amina caught in Lisbon hotel; eliminated |
+| 26 | Zug Operations | Surveillance on Malik's lake house; routine mapped |
+| 27 | Marseille Shadows | Thomas in Marseille; Yasmine's trail confirmed cold |
+| 28 | Algiers Glass | Yasmine's alienation in Algiers; decides to go south |
+| 29 | Tadrart Road | Three-day drive south through Sahara; refuge arrival |
+| 30 | Mediterranean Net | Thomas's intelligence picture; hawala TADR trace |
+
+### Act VI: The Endgame (Weeks 8–12)
+
+| # | Title | Summary |
+|---|-------|---------|
+| 31 | Zug Eyes | Final surveillance; party night chosen |
+| 32 | Lake Entry | Malik's safe opened; wealth seized; documents found |
+| 33 | Coordinates | Deed reveals Tadrart; Forbin mobilized |
+| 34 | Zug Assassination | Malik drowned; team extracts across border |
+| 35 | Tadrart Insertion | Super Puma insertion; servants eliminated; Yasmine shot |
+
+---
+
+## Production Status
+
+| Phase | Status |
+|-------|--------|
+| First draft (35 chapters) | ✅ Complete |
+| Coherence review | ✅ Complete (`COHERENCE_REPORT.md`) |
+| Structural edits (Priority 1) | 🔄 In progress |
+| Polish pass | ⏳ Pending |
+| Final manuscript | ⏳ Pending |
+
+---
+
+## Repository Structure
 
 ```
-/Users/maxime/Projets/La_Traque_de_l_Attentat_du_Metro_14/
-├── README.md (this file)
-├── chapters/
-│   ├── CHAPTER_01_RUE_DES_ROSIERS.md
-│   ├── CHAPTER_02_SAINT_LAZARE.md
-│   ├── CHAPTER_03_METRO_LINE_14.md
-│   └── ... (17 more chapters)
-├── research/
-│   ├── METRO_LINE_14_FACTS.md
-│   ├── PARIS_LOCATIONS.md
-│   └── DGSE_BACKGROUND.md
-└── artifacts/
-    └── (final manuscript, PDFs)
+/
+├── README.md                    — This file (updated to reflect actual story)
+├── TEAM_DOSSIER.md             — Character profiles for Thomas's 6-person team
+├── COHERENCE_REPORT.md         — Editorial analysis: contradictions, timeline, fixes
+└── chapters/
+    ├── CHAPTER_01_RUE_DES_ROSIERS.md
+    ├── CHAPTER_02_SAINT_LAZARE.md
+    ├── CHAPTER_02-5_MOTHERS_CALL.md
+    ├── CHAPTER_03_LA_BOUCHERIE.md
+    ├── CHAPTER_04_THE_MESSAGE.md
+    ├── CHAPTER_05_DGSE_HEADQUARTERS.md
+    ├── CHAPTER_06_SURVIVORS.md
+    ├── CHAPTER_06-5_FAILED_WHEELCHAIR.md
+    ├── CHAPTER_07_LOUVRE.md        ← DUPLICATE of Ch 10; needs replacement
+    ├── CHAPTER_08_MARITIME_HUNT.md
+    ├── CHAPTER_09_GUNFIRE.md
+    ├── CHAPTER_10_LOUVRE.md
+    ├── CHAPTER_11_MARTIAL_LAW.md
+    ├── CHAPTER_11-5_ABDELKRIM_RECRUITMENT.md
+    ├── CHAPTER_12_MANTES_DISCOVERY.md
+    ├── CHAPTER_13_ALGIERS.md
+    ├── CHAPTER_14_PARIS_RESPONSE.md
+    ├── CHAPTER_15_CHEMICAL_LAB.md
+    ├── CHAPTER_16_MARSEILLE_HARBOR.md
+    ├── CHAPTER_17_SCATTER.md
+    ├── CHAPTER_18_THE_TEAM.md
+    ├── CHAPTER_19_BLOCKCHAIN.md
+    ├── CHAPTER_20_CROSSING.md
+    ├── CHAPTER_21_PALERMO_SURVEILLANCE.md
+    ├── CHAPTER_22_PALERMO_ELIMINATION.md
+    ├── CHAPTER_23_TUNIS_INTELLIGENCE.md
+    ├── CHAPTER_24_ZUG_WEALTH.md
+    ├── CHAPTER_25_LISBON_TRACKER.md
+    ├── CHAPTER_26_ZUG_OPERATIONS.md
+    ├── CHAPTER_27_MARSEILLE_SHADOWS.md
+    ├── CHAPTER_28_ALGIERS_GLASS.md
+    ├── CHAPTER_29_TADRART_ROAD.md
+    ├── CHAPTER_30_MEDITERRANEAN_NET.md
+    ├── CHAPTER_31_ZUG_EYES.md
+    ├── CHAPTER_32_LAKE_ENTRY.md
+    ├── CHAPTER_33_COORDINATES.md
+    ├── CHAPTER_34_ZUG_ASSASSINATION.md
+    └── CHAPTER_35_TADRART_INSERTION.md
 ```
 
 ---
 
-## Production Timeline
+## Contact
 
-**Phase 1: Outline & Story Lock** ✅ COMPLETE (Feb 15, 2026)
-- Story structure: 20 chapters, detective narrative only
-- All plot elements locked: ambulance, wheelchairs, Abdelkrim, cell members
-- Character profiles finalized
-- No flashbacks, no backstory in novel
-
-**Phase 2: Chapter Writing** 🔄 IN PROGRESS
-- Chapters 1-2: The Crime (structure complete)
-- Chapters 3-10: The Crisis (outline complete)
-- Chapters 11-20: The Hunt (outline complete)
-
-**Phase 3: Editing & Refinement** (Pending)
-- Full manuscript review
-- Style consistency (Lee Child prose)
-- Plot coherence and pacing
-
-**Phase 4: Final Production** (Pending)
-- Convert to LaTeX format (if needed)
-- Generate PDF
-- Final proofreading
-
----
-
-## Repository
-
+**Author:** Maxime Grenu  
 **Repo:** https://github.com/cluster2600/la-traque  
-**Status:** Active Development  
-**Last Commit:** Feb 15, 2026 (complete README rewrite)
-
----
-
-## Contact & Credits
-
-**Concept & Direction:** Maxime Grenu  
-**Writing & Orchestration:** Claude (Anthropic AI) via Alfred OpenClaw assistant  
-**Start Date:** February 7, 2026  
-**Story Lock Date:** February 15, 2026  
-**Status:** Active Development
-
----
-
-**Last Updated:** 2026-02-15 22:57 GMT+1 (Complete README rewrite — detective story only, 20 chapters, no flashbacks, all plot elements locked)
+**Last Updated:** 2026-02-18 (README rewrite + coherence report)
