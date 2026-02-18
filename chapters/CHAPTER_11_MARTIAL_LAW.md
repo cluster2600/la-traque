@@ -5,7 +5,7 @@ By midnight, France is under martial law. The President declares it on national 
 
 The suburbs are celebrating.
 
-In Mantes-la-Jolie, in the HLMs where Yasmine grew up, people are dancing. Singing. Screaming victory from rooftops. Three thousand French dead. Three thousand mothers without sons. Three thousand children without fathers.
+In Mantes-la-Jolie, in the HLMs where Yasmine grew up, people are dancing. Singing. Screaming victory from rooftops. Two thousand, three hundred and ninety-one French dead. Nearly twenty-four hundred mothers without sons. Nearly twenty-four hundred children without fathers.
 
 Algeria is avenged.
 
