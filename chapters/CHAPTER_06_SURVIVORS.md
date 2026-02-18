@@ -23,9 +23,9 @@ Marguerite thinks. "There was a man. He was nervous. Very nervous. He got on at 
 
 Thomas nods. "What did he look like?"
 
-"North African. Maybe forty years old. Dark hair. Wearing a blue jacket. That's all I remember."
+"North African. Maybe fifty years old. Heavy. Dark hair. Wearing a blue jacket. That's all I remember."
 
-Thomas writes it down. Malik Benhadj is forty-one. Blue jacket. Anxiety.
+Thomas writes it down. Malik Benhadj is fifty-five. Blue jacket. Anxiety.
 
 He moves to the next survivor. A young man. Age twenty-two. Broken leg. Concussion. Name is Antoine Deschamps.
 
