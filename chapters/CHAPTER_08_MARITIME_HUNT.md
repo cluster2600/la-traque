@@ -21,7 +21,7 @@ Thomas sits in a café overlooking the harbor. He orders coffee. He watches the 
 
 The hunt is no longer local. It's international. It's Mediterranean. It's becoming personal pursuit across borders and seas.
 
-Thomas thinks about Jérôme. About the thirty-minute delay. About how much time has passed since his son died. About how the world has changed. About how France is burning. About how Yasmine is still alive.
+Thomas thinks about Jérôme. About the thirty-minute delay. About how much time has passed since his holiday friend died. About how the world has changed. About how France is burning. About how Yasmine is still alive.
 
 He makes a decision.
 
