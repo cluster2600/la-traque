@@ -47,7 +47,7 @@ Malik nods. He's surprised. But he understands. Someone needs to secure the mone
 
 "Hassan Jr. goes through Switzerland. Lausanne. Then Italy. Then Sicily. Then boat to Tunisia, then overland to Algiers. Ten days."
 
-Hassan Jr. — no relation to Hassan Medjahed in custody — nods. He's young. Twenty-one. Operations assistant. He's been with the cell since planning began. He'll make it.
+Hassan Jr. — no relation to Hassan Medjahed in custody — nods. Thirty-two years old. Operational planner. He's been with the cell since the beginning. He'll make it.
 
 "Amina goes west. Nantes. Then boat from Brittany to Ireland. Then from Ireland to Portugal. Then south to Algiers by merchant vessel. Three weeks."
 
