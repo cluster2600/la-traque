@@ -47,7 +47,10 @@ Yasmine sits in a stone house at the edge of the Sahara, in the coordinates docu
 ## Characters
 
 ### Yasmine Boudjellal — Cell Leader
-French-Algerian. From Mantes-la-Jolie. Motivated by colonial rage. Brilliant operational planner. Twenty-eight years old. Not afraid of dying. Afraid of being forgotten.
+French-Algerian. From Mantes-la-Jolie. Motivated by colonial rage. Brilliant operational planner. Twenty-three years old. Not afraid of dying. Afraid of being forgotten. smokes weed.
+
+### Kevin dupont converted
+Works in a slaughter house, steals pig fat and nitrite sodium from his work for Yasmine
 
 ### Thomas Dieudegard — DGSE Colonel
 Forty-two. French aristocratic background. Former Navy combat swimmer. Direct Presidential authorization. Driven by the death of Jérôme, a holiday friend who died in the metro attack. Professional. Deliberate. Relentless.
@@ -57,8 +60,8 @@ Forty-two. French aristocratic background. Former Navy combat swimmer. Direct Pr
 |--------|------|------|
 | Malik Benhadj | Finance, cryptocurrency | Drowned, Lake Zug |
 | Hassan Medjahed | Ideologue, recruiter | Captured Day 0, interrogated |
-| Inès Benmansour | Logistics | Captured Day 0, stays silent |
-| Abdelkrim Diallo | Wheelchair bomb operator | Arrested Day 0 (sabotaged his own device) |
+| Inès Benmansour | Chemist | Captured Day 0, stays silent |
+| Abdelkrim Bensoussan | Wheelchair bomb operator | Arrested Day 0 (sabotaged his own device) |
 | Hassan Messaoud Jr. | Operations planner | Shot, Palermo |
 | Amina Zeroual | Communications | Shot, Lisbon |
 | Farid Messaoud | Logistics | Arrested, Toulouse |
@@ -69,7 +72,7 @@ Forty-two. French aristocratic background. Former Navy combat swimmer. Direct Pr
 |--------|---------------|
 | Beaumont | Surveillance, assault planning |
 | Tarkovsky | Close-quarters elimination |
-| De Vergennes | Financial intelligence |
+| De Vergennes | combat swimmer |
 | Leclerc | Combat medic |
 | Richelieu | Weapons expert |
 | Moreau | Communications, signals |
